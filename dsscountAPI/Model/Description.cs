@@ -25,9 +25,7 @@ namespace dsscountAPI.Model
         public string DescriptionEn4 { get; set; }
         public string DescriptionEn5 { get; set; }
 
-        public int ItemID { get; set; }
-
-        public void Save(string connStr)
+        public int Save(string connStr)
         {
             try
             {
@@ -36,21 +34,21 @@ namespace dsscountAPI.Model
                     conn.Open();
                     using (MySqlCommand cmd = new MySqlCommand("INSERT INTO description (id, descriptionde1, descriptionde2, descriptionde3, descriptionde4, descriptionde5" +
                     ", descriptioncn1, descriptioncn2, descriptioncn3, descriptioncn4, descriptioncn5" +
-                    ", descriptionen1, descriptionen2, descriptionen3, descriptionen4, descriptionen5" +
-                    ", itemid) " +
+                    ", descriptionen1, descriptionen2, descriptionen3, descriptionen4, descriptionen5) " +
                              "VALUES(NULL, @descriptionde1, @descriptionde2, @descriptionde3, @descriptionde4, @descriptionde5" +
                              ", null, null, null, null, null" +
-                             ", null, null, null, null, null" +
-                             ", @itemid);", conn))
+                             ", null, null, null, null, null);", conn))
                     {
                         cmd.Parameters.AddWithValue("@descriptionde1", DescriptionDe1 ?? null);
                         cmd.Parameters.AddWithValue("@descriptionde2", DescriptionDe2 ?? null);
                         cmd.Parameters.AddWithValue("@descriptionde3", DescriptionDe3 ?? null);
                         cmd.Parameters.AddWithValue("@descriptionde4", DescriptionDe4 ?? null);
                         cmd.Parameters.AddWithValue("@descriptionde5", DescriptionDe5 ?? null);
-                        cmd.Parameters.AddWithValue("@itemid", ItemID);
 
                         cmd.ExecuteNonQuery();
+                        int id = (int)cmd.LastInsertedId;
+
+                        return id;
                     }
                 }
             }
@@ -58,6 +56,7 @@ namespace dsscountAPI.Model
             {
                 Console.WriteLine(ex.ToString());
             }
+            return -1;
         }
     }
 }

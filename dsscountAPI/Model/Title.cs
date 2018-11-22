@@ -11,23 +11,22 @@ namespace dsscountAPI.Model
         public string TitleCn { get; set; }
         public string TitleEn { get; set; }
 
-        public int ItemID { get; set; }
-
-        public void Save(string connStr)
+        public int Save(string connStr)
         {
             try
             {
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("INSERT INTO title(id, titlede, titlecn, titleen, itemid) " +
-                             "VALUES(NULL, @titlede, null, null, @itemid);", conn))
+                    using (MySqlCommand cmd = new MySqlCommand("INSERT INTO title(id, titlede, titlecn, titleen) " +
+                             "VALUES(NULL, @titlede, null, null);", conn))
                     {
-
                         cmd.Parameters.AddWithValue("@titlede", TitleDe);
-                        cmd.Parameters.AddWithValue("@itemid", ItemID);
 
                         cmd.ExecuteNonQuery();
+                        int id = (int)cmd.LastInsertedId;
+
+                        return id;
                     }
                 }
             }
@@ -35,6 +34,7 @@ namespace dsscountAPI.Model
             {
                 Console.WriteLine(ex.ToString());
             }
+            return -1;
         }
     }
 }

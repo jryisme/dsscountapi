@@ -17,9 +17,9 @@ namespace dsscountAPI.Model
             {
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
+                    conn.Open();
                     using (MySqlCommand cmd = new MySqlCommand("select id, keyDe from category;", conn))
                     {
-                        conn.Open();
                         using (MySqlDataReader dataReader = cmd.ExecuteReader())
                         {
                             List<Category> categories = new List<Category>();

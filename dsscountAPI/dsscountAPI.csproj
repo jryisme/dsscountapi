@@ -103,7 +103,9 @@
   <ItemGroup>
     <Compile Include="Model\Category.cs" />
     <Compile Include="Model\Description.cs" />
+    <Compile Include="Model\DiscountItem.cs" />
     <Compile Include="Model\Item.cs" />
+    <Compile Include="Model\Price.cs" />
     <Compile Include="Model\Title.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
