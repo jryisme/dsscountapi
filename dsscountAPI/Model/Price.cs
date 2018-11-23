@@ -3,7 +3,7 @@ using System;
 
 namespace dsscountAPI.Model
 {
-    class Price
+    public class Price
     {
         public int ID { get; set; }
 
@@ -32,6 +32,7 @@ namespace dsscountAPI.Model
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
         }
 
@@ -58,6 +59,7 @@ namespace dsscountAPI.Model
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
             return 0;
         }

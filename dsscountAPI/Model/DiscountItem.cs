@@ -3,7 +3,7 @@ using System;
 
 namespace dsscountAPI.Model
 {
-    class DiscountItem
+    public class DiscountItem
     {
         public int ID { get; set; }
 
@@ -73,6 +73,7 @@ namespace dsscountAPI.Model
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
             return null;
         }
@@ -100,6 +101,7 @@ namespace dsscountAPI.Model
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
         }
 

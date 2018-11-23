@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsscountAPI", "dsscountAPI\dsscountAPI.csproj", "{602A6C8F-E1A9-4A45-93B2-DE7C13D759A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageAPI", "LanguageAPI\LanguageAPI.csproj", "{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{602A6C8F-E1A9-4A45-93B2-DE7C13D759A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{602A6C8F-E1A9-4A45-93B2-DE7C13D759A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{602A6C8F-E1A9-4A45-93B2-DE7C13D759A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

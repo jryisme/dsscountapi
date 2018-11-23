@@ -3,7 +3,7 @@ using System;
 
 namespace dsscountAPI.Model
 {
-    class Title
+    public class Title
     {
         public int ID { get; set; }
 
@@ -33,8 +33,68 @@ namespace dsscountAPI.Model
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
             return -1;
+        }
+        
+        public Title FindByID(string connStr, int id)
+        {
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connStr))
+                {
+                    conn.Open();
+                    using (MySqlCommand cmd = new MySqlCommand("select titlede from title where id = @id;", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@id", id);
+
+                        using (MySqlDataReader dataReader = cmd.ExecuteReader())
+                        {
+                            if (dataReader.HasRows)
+                            {
+                                while (dataReader.Read())
+                                {
+                                    return new Title
+                                    {
+                                        TitleDe = (string)dataReader[0],
+                                        ID = id
+                                    };
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
+            }
+            return null;
+        }
+
+        public void UpdateTitleCn(string connStr)
+        {
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connStr))
+                {
+                    conn.Open();
+                    using (MySqlCommand cmd = new MySqlCommand("Update title set titlecn=@titlecn where id=@id;", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@titlecn", TitleCn);
+                        cmd.Parameters.AddWithValue("@id", ID);
+
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
+            }
         }
     }
 }

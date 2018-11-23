@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace dsscountAPI.Model
 {
-    class Category
+    public class Category
     {
         public Int32 ID { get; set; }
         public string KeyDe { get; set; }
@@ -40,6 +40,7 @@ namespace dsscountAPI.Model
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
             return null;
         }

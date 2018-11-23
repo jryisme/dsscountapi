@@ -11,12 +11,15 @@ namespace dsscountAPI
 {
     class Program
     {
-        const string connStr = "server=localhost;user=root;database=dsscount;port=3306;password=";
+        //const string connStr = "server=localhost;user=root;database=dsscount;port=3306;password=";
+        const string connStr = "server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ";
 
         static void Main(string[] args)
         {
-            List<Category> categories = new Category().GetCategories(connStr);
+            Console.WriteLine("Connstr: "+connStr);
+            Console.WriteLine();
 
+            List<Category> categories = new Category().GetCategories(connStr);
 
             foreach (var category in categories)
             {
@@ -37,7 +40,7 @@ namespace dsscountAPI
                         //string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=7&s=relative&d=0&p=" + pageNo;
 
                         // Get the latest 1 days items order by date desc per category
-                        string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=7&s=relative&d=0&p=" + pageNo;
+                        string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=2&s=relative&d=0&p=" + pageNo;
 
                         pageNo++;
 
@@ -69,11 +72,14 @@ namespace dsscountAPI
 
                             foreach (XmlNode item in items)
                             {
-                                string guid = item.ChildNodes[4].InnerText;
+                                string des = item.ChildNodes[2].InnerText;
+                                var descriptions = des.Split('?')[0].Split(new string[] { "product/" }, StringSplitOptions.None);
 
-                                Console.WriteLine("Found one item from CCC, Guid: " + guid);
+                                string asinId = descriptions[descriptions.Length - 1];
 
-                                var dbItem = new Item(guid).FindByGuid(connStr);
+                                Console.WriteLine("Found one item from CCC, AsinID: " + asinId);
+
+                                var dbItem = new Item(asinId).FindByASINID(connStr);
 
                                 if (dbItem != null) // The item is already there, check the price from amazon
                                 {
@@ -94,16 +100,13 @@ namespace dsscountAPI
                                 }
 
                                 decimal discount = Math.Round(Convert.ToDecimal(matches[matches.Count - 4].Value.Split('%')[0]));
-                                decimal changePrice = Convert.ToDecimal(matches[matches.Count - 3].Value.Split('€')[0].Replace(',', '.'));
-                                decimal newPrice = Convert.ToDecimal(matches[matches.Count - 2].Value.Split('€')[0].Replace(',', '.'));
-                                decimal oldPrice = Convert.ToDecimal(matches[matches.Count - 1].Value.Split('€')[0].Replace(',', '.'));
+                                decimal changePrice = Convert.ToDecimal(matches[matches.Count - 3].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
+                                decimal newPrice = Convert.ToDecimal(matches[matches.Count - 2].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
+                                decimal oldPrice = Convert.ToDecimal(matches[matches.Count - 1].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
 
                                 DateTime timeStamp = Convert.ToDateTime(item.ChildNodes[3].InnerText.Replace(" PST", ""));
 
-                                string des = item.ChildNodes[2].InnerText;
-                                var descriptions = des.Split('?')[0].Split(new string[] { "product/" }, StringSplitOptions.None);
-
-                                string asinId = descriptions[descriptions.Length - 1];
+                                string guid = item.ChildNodes[4].InnerText;
 
                                 Item itemAmazon = new Item
                                 {
@@ -122,6 +125,7 @@ namespace dsscountAPI
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
         }
 
@@ -203,6 +207,7 @@ namespace dsscountAPI
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
         }
 
@@ -226,9 +231,8 @@ namespace dsscountAPI
                 {
                     Console.WriteLine("Item attribute is null:" + rawItem.ASIN);
                     Console.WriteLine();
+                    return;
                 }
-
-                newPrice = 0;
 
                 if (rawItem.Offers != null && rawItem.Offers.Offer != null && rawItem.Offers.Offer[0] != null && rawItem.Offers.Offer[0].OfferAttributes != null && rawItem.Offers.Offer[0].OfferAttributes.Condition != null && rawItem.Offers.Offer[0].OfferAttributes.Condition == "New" && rawItem.Offers.Offer[0].OfferListing != null && rawItem.Offers.Offer[0].OfferListing[0] != null && rawItem.Offers.Offer[0].OfferListing[0].Price != null) // Take the price from offers
                 {
@@ -237,6 +241,13 @@ namespace dsscountAPI
                 else if (rawItemAttributes.ListPrice != null & rawItemAttributes.ListPrice.Amount != null)
                 {
                     newPrice = Convert.ToDecimal(rawItemAttributes.ListPrice.Amount) / 100;
+                }
+
+                if (newPrice >= oldPrice)
+                {
+                    Console.WriteLine("Item new price is larger than old price, so not include it in database");
+                    Console.WriteLine();
+                    return;
                 }
 
                 string titleDe = rawItemAttributes.Title ?? cccTitle;
@@ -249,7 +260,9 @@ namespace dsscountAPI
 
                 itemAmazon.Url = url;
                 itemAmazon.Review = reviewUrl;
-                itemAmazon.Image = rawItem.LargeImage != null ? rawItem.LargeImage.URL : rawItem.ImageSets[0].LargeImage != null ? rawItem.ImageSets[0].LargeImage.URL : null;
+                itemAmazon.Image = rawItem.MediumImage != null ? rawItem.MediumImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].MediumImage?.URL) : null) : null);
+                itemAmazon.ImageLarge = rawItem.LargeImage != null ? rawItem.LargeImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].LargeImage?.URL) : null) : null);
+                itemAmazon.ImageSmall = rawItem.SmallImage != null ? rawItem.SmallImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].SmallImage?.URL) : null) : null);
 
                 //todo: update title, description and item
                 //if (itemAmazon.FindByGuid(connStr)) // The item is already there, update just in case of any price change lately
@@ -293,7 +306,7 @@ namespace dsscountAPI
                     ChangePrice = changePrice,
                     Discount = discount,
                     ItemID = itemId,
-                    TimeStamp = DateTime.Now.ToString()
+                    TimeStamp = itemAmazon.TimeStamp
                 };
                 Console.WriteLine("Add new discount item, item.id: " + itemId);
 
@@ -310,11 +323,12 @@ namespace dsscountAPI
 
                 price.Save(connStr);
 
-                Thread.Sleep(10000);
+                Thread.Sleep(9000);
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
             }
         }
 
@@ -353,12 +367,13 @@ namespace dsscountAPI
                     Console.WriteLine("Could not find item list from amazon, item.AsinId: " + itemAmazon.AsinId);
                     return null;
                 }
-
+                Thread.Sleep(200);
                 return item[0];
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
+                Console.WriteLine();
                 return null;
             }
         }
