@@ -1,0 +1,857 @@
+Connstr: server=localhost;user=root;database=dsscount;port=3306;password=
+
+Found one item from CCC, AsinID: B005VMO4CW
+Raw title from CCC: ABUS Faltschloss Bordo Granit ...lüssel enthalten - rot - 55161 - runter 11.00% (9,89€) auf 80,06€ von 89,95€
+Found the item from Amazon API, ASIN ID:B005VMO4CW
+Add new item, item.id: 947
+Add new discount item, item.id: 947
+Add new price, item.id: 947
+
+Found one item from CCC, AsinID: B002ZXI0KM
+Raw title from CCC: Bosch 3397118993 Wischblatt Sa...ngsset AR503S - Länge: 500/475 - runter 3.90% (0,67€) auf 16,49€ von 17,16€
+Found the item from Amazon API, ASIN ID:B002ZXI0KM
+Add new item, item.id: 948
+Add new discount item, item.id: 948
+Add new price, item.id: 948
+
+Found one item from CCC, AsinID: B00CHNREYS
+Raw title from CCC: Manfrotto MVH500AH Kompakt Flu...nd (3/8 Zoll) Gewinde) schwarz - runter 17.96% (22,26€) auf 101,69€ von 123,95€
+Found the item from Amazon API, ASIN ID:B00CHNREYS
+Add new item, item.id: 949
+Add new discount item, item.id: 949
+Add new price, item.id: 949
+
+Found one item from CCC, AsinID: B0767QVT3X
+Raw title from CCC: Skoda 5E1061550 Gummi Fußmatte...ginal Allwettermatten 4-teilig - runter 3.03% (1,79€) auf 57,29€ von 59,08€
+Found the item from Amazon API, ASIN ID:B0767QVT3X
+Add new item, item.id: 950
+Add new discount item, item.id: 950
+Add new price, item.id: 950
+
+Found one item from CCC, AsinID: B01N29N6J3
+Raw title from CCC: Osram COOL BLUE INTENSE HIR2, ...V PKW, Faltschachtel (1 Stück) - runter 6.32% (1,82€) auf 27,00€ von 28,82€
+Found the item from Amazon API, ASIN ID:B01N29N6J3
+Add new item, item.id: 951
+Add new discount item, item.id: 951
+Add new price, item.id: 951
+
+Found one item from CCC, AsinID: B00AJU3X1E
+Raw title from CCC: Brembo P 85 075 Bremsbelagsatz, Scheibenbremse - (4-teilig) - runter 27.67% (6,97€) auf 18,22€ von 25,19€
+Found the item from Amazon API, ASIN ID:B00AJU3X1E
+Add new item, item.id: 952
+Add new discount item, item.id: 952
+Add new price, item.id: 952
+
+Found one item from CCC, AsinID: B00URDQ9KA
+Raw title from CCC: Original MANN-FILTER Innenraum...ionaler Pollenfilter – Für PKW - runter 6.30% (0,92€) auf 13,68€ von 14,60€
+Found the item from Amazon API, ASIN ID:B00URDQ9KA
+Add new item, item.id: 953
+Add new discount item, item.id: 953
+Add new price, item.id: 953
+
+Found one item from CCC, AsinID: B07FXRDJV7
+Raw title from CCC: OSRAM NIGHT BREAKER LASER H7 n...B, 12V PKW, Duo Box (2 Lampen) - runter 7.42% (1,70€) auf 21,20€ von 22,90€
+Found the item from Amazon API, ASIN ID:B07FXRDJV7
+Add new item, item.id: 954
+Add new discount item, item.id: 954
+Add new price, item.id: 954
+
+Found one item from CCC, AsinID: B0157Z3I7Y
+Raw title from CCC: Anki 000-00046 Overdrive Start...r Kit Autorennbahn, Mehrfarbig - runter 22.75% (35,33€) auf 119,98€ von 155,31€
+Found the item from Amazon API, ASIN ID:B0157Z3I7Y
+Add new item, item.id: 955
+Add new discount item, item.id: 955
+Add new price, item.id: 955
+
+Found one item from CCC, AsinID: B071JBLDGK
+The item is already existed, check its price to update. Item.id: 1 . Item.ASINID: B071JBLDGK
+Found the item from Amazon API, ASIN ID: B071JBLDGK
+New price: 107.95 and latest price: 107.95
+
+
+Found one item from CCC, AsinID: B01LLKFWHI
+The item is already existed, check its price to update. Item.id: 2 . Item.ASINID: B01LLKFWHI
+Found the item from Amazon API, ASIN ID: B01LLKFWHI
+New price: 13.14 and latest price: 13.14
+
+
+Found one item from CCC, AsinID: B00AK061US
+The item is already existed, check its price to update. Item.id: 3 . Item.ASINID: B00AK061US
+Found the item from Amazon API, ASIN ID: B00AK061US
+New price: 10.44 and latest price: 10.44
+
+
+Found one item from CCC, AsinID: B00511NGF4
+The item is already existed, check its price to update. Item.id: 4 . Item.ASINID: B00511NGF4
+Found the item from Amazon API, ASIN ID: B00511NGF4
+New price: 1.96 and latest price: 1.84
+Update the price for item, item.id: 4
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00URDQ27A
+The item is already existed, check its price to update. Item.id: 5 . Item.ASINID: B00URDQ27A
+Found the item from Amazon API, ASIN ID: B00URDQ27A
+New price: 12.93 and latest price: 12.27
+Update the price for item, item.id: 5
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00N8WGC54
+The item is already existed, check its price to update. Item.id: 6 . Item.ASINID: B00N8WGC54
+Found the item from Amazon API, ASIN ID: B00N8WGC54
+New price: 18.31 and latest price: 17.38
+Update the price for item, item.id: 6
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00TOFFU3O
+The item is already existed, check its price to update. Item.id: 7 . Item.ASINID: B00TOFFU3O
+Found the item from Amazon API, ASIN ID: B00TOFFU3O
+New price: 17.99 and latest price: 17.99
+
+
+Found one item from CCC, AsinID: B00NPY40K4
+The item is already existed, check its price to update. Item.id: 8 . Item.ASINID: B00NPY40K4
+Found the item from Amazon API, ASIN ID: B00NPY40K4
+New price: 74.35 and latest price: 74.35
+
+
+Found one item from CCC, AsinID: B00JUQVUAO
+The item is already existed, check its price to update. Item.id: 9 . Item.ASINID: B00JUQVUAO
+Found the item from Amazon API, ASIN ID: B00JUQVUAO
+New price: 55.11 and latest price: 55.11
+
+
+Found one item from CCC, AsinID: B00OCGUO4A
+Raw title from CCC: Connex Premium-Werkzeugkoffer/... KFZ, 160-teilig, COXBOH600160 - runter 19.59% (27,40€) auf 112,49€ von 139,89€
+Found the item from Amazon API, ASIN ID:B00OCGUO4A
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B004DWLYL0
+The item is already existed, check its price to update. Item.id: 10 . Item.ASINID: B004DWLYL0
+Found the item from Amazon API, ASIN ID: B004DWLYL0
+New price: 11.4 and latest price: 11.40
+
+
+Found one item from CCC, AsinID: B00URDQ5YK
+The item is already existed, check its price to update. Item.id: 12 . Item.ASINID: B00URDQ5YK
+Found the item from Amazon API, ASIN ID: B00URDQ5YK
+New price: 22.53 and latest price: 21.37
+Update the price for item, item.id: 12
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00K18365M
+The item is already existed, check its price to update. Item.id: 13 . Item.ASINID: B00K18365M
+Found the item from Amazon API, ASIN ID: B00K18365M
+New price: 6.98 and latest price: 6.98
+
+
+Found one item from CCC, AsinID: B00252EIK4
+The item is already existed, check its price to update. Item.id: 14 . Item.ASINID: B00252EIK4
+Found the item from Amazon API, ASIN ID: B00252EIK4
+New price: 8.32 and latest price: 8.63
+Update the price for item, item.id: 14
+Discount happened for item, item.id: 14
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B01MQQBIHG
+The item is already existed, check its price to update. Item.id: 15 . Item.ASINID: B01MQQBIHG
+Found the item from Amazon API, ASIN ID: B01MQQBIHG
+Unable to get the item price from Amazon API
+
+Found one item from CCC, AsinID: B001URA2M8
+The item is already existed, check its price to update. Item.id: 16 . Item.ASINID: B001URA2M8
+Found the item from Amazon API, ASIN ID: B001URA2M8
+New price: 28.91 and latest price: 28.91
+
+
+Found one item from CCC, AsinID: B01F8NTLGC
+The item is already existed, check its price to update. Item.id: 17 . Item.ASINID: B01F8NTLGC
+Found the item from Amazon API, ASIN ID: B01F8NTLGC
+New price: 72.7 and latest price: 72.70
+
+
+Found one item from CCC, AsinID: B014VV8M5I
+The item is already existed, check its price to update. Item.id: 18 . Item.ASINID: B014VV8M5I
+Found the item from Amazon API, ASIN ID: B014VV8M5I
+New price: 63.64 and latest price: 63.99
+Update the price for item, item.id: 18
+Discount happened for item, item.id: 18
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B01068BTIM
+The item is already existed, check its price to update. Item.id: 19 . Item.ASINID: B01068BTIM
+Found the item from Amazon API, ASIN ID: B01068BTIM
+New price: 63.76 and latest price: 63.76
+
+
+Found one item from CCC, AsinID: B00J2X2UR2
+The item is already existed, check its price to update. Item.id: 20 . Item.ASINID: B00J2X2UR2
+Found the item from Amazon API, ASIN ID: B00J2X2UR2
+New price: 40.9 and latest price: 40.90
+
+
+Found one item from CCC, AsinID: B00LNF6YK6
+The item is already existed, check its price to update. Item.id: 21 . Item.ASINID: B00LNF6YK6
+Found the item from Amazon API, ASIN ID: B00LNF6YK6
+New price: 67.99 and latest price: 67.99
+
+
+Found one item from CCC, AsinID: B00HF2XGYI
+The item is already existed, check its price to update. Item.id: 22 . Item.ASINID: B00HF2XGYI
+Found the item from Amazon API, ASIN ID: B00HF2XGYI
+New price: 25.88 and latest price: 25.88
+
+
+Found one item from CCC, AsinID: B00103AEP2
+The item is already existed, check its price to update. Item.id: 23 . Item.ASINID: B00103AEP2
+Found the item from Amazon API, ASIN ID: B00103AEP2
+New price: 9 and latest price: 9.00
+
+
+Run to the end of page in CCC. Go to next category.
+Found one item from CCC, AsinID: B004TVJLZ6
+Raw title from CCC: Didymos 340002 Babytragetuch, Modell Till, Größe 2 - runter 4.33% (1,05€) auf 23,19€ von 24,24€
+Found the item from Amazon API, ASIN ID:B004TVJLZ6
+Add new item, item.id: 956
+Add new discount item, item.id: 956
+Add new price, item.id: 956
+
+Found one item from CCC, AsinID: B004SGF93A
+Raw title from CCC: BABYBJÖRN Babytrage Miracle (S...z/Silber, Baumwollmischgewebe) - runter 13.84% (11,90€) auf 74,09€ von 85,99€
+Found the item from Amazon API, ASIN ID:B004SGF93A
+Add new item, item.id: 957
+Add new discount item, item.id: 957
+Add new price, item.id: 957
+
+Found one item from CCC, AsinID: B0000AQVG5
+Raw title from CCC: BABYBJÖRN Babytrage Original, Cotton, Schwarz - runter 16.97% (10,52€) auf 51,47€ von 61,99€
+Found the item from Amazon API, ASIN ID:B0000AQVG5
+Add new item, item.id: 958
+Add new discount item, item.id: 958
+Add new price, item.id: 958
+
+Found one item from CCC, AsinID: B01CJMYO4E
+Raw title from CCC: Kinderkraft Comfort UP Kindera... 9 bis 36 kg Gruppe 1 2 3 Grün - runter 11.32% (7,43€) auf 58,22€ von 65,65€
+Found the item from Amazon API, ASIN ID:B01CJMYO4E
+Add new item, item.id: 959
+Add new discount item, item.id: 959
+Add new price, item.id: 959
+
+Found one item from CCC, AsinID: B079DGPL69
+Raw title from CCC: Babytrage manduca First 2018 >... & Kleinkinder bis 20kg, beige - runter 15.77% (18,91€) auf 100,99€ von 119,90€
+Found the item from Amazon API, ASIN ID:B079DGPL69
+Add new item, item.id: 960
+Add new discount item, item.id: 960
+Add new price, item.id: 960
+
+Found one item from CCC, AsinID: B005MXJUFG
+Raw title from CCC: Hauck Sit’n Relax Newborn Set ...achsend, klappbar, Zoo (Braun) - runter 28.89% (39,00€) auf 95,99€ von 134,99€
+Found the item from Amazon API, ASIN ID:B005MXJUFG
+Add new item, item.id: 961
+Add new discount item, item.id: 961
+Add new price, item.id: 961
+
+Found one item from CCC, AsinID: B00E6QIV50
+The item is already existed, check its price to update. Item.id: 25 . Item.ASINID: B00E6QIV50
+Found the item from Amazon API, ASIN ID: B00E6QIV50
+New price: 87.72 and latest price: 269.00
+Update the price for item, item.id: 25
+Discount happened for item, item.id: 25
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B0162253JW
+The item is already existed, check its price to update. Item.id: 28 . Item.ASINID: B0162253JW
+Found the item from Amazon API, ASIN ID: B0162253JW
+New price: 155.55 and latest price: 155.55
+
+
+Found one item from CCC, AsinID: B00LMV9LYC
+The item is already existed, check its price to update. Item.id: 29 . Item.ASINID: B00LMV9LYC
+Found the item from Amazon API, ASIN ID: B00LMV9LYC
+New price: 17.87 and latest price: 18.25
+Update the price for item, item.id: 29
+Discount happened for item, item.id: 29
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B00F2MQ258
+The item is already existed, check its price to update. Item.id: 30 . Item.ASINID: B00F2MQ258
+Found the item from Amazon API, ASIN ID: B00F2MQ258
+New price: 33.99 and latest price: 33.99
+
+
+Found one item from CCC, AsinID: B072KDHSQL
+Raw title from CCC: Britax Römer Autositz KIDFIX X... Kollektion 2018, cosmos black - runter 20.12% (34,01€) auf 134,99€ von 169,00€
+Found the item from Amazon API, ASIN ID:B072KDHSQL
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B01MCSS5T3
+The item is already existed, check its price to update. Item.id: 32 . Item.ASINID: B01MCSS5T3
+Found the item from Amazon API, ASIN ID: B01MCSS5T3
+New price: 102.99 and latest price: 169.00
+Update the price for item, item.id: 32
+Discount happened for item, item.id: 32
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B01898D9AW
+The item is already existed, check its price to update. Item.id: 33 . Item.ASINID: B01898D9AW
+Found the item from Amazon API, ASIN ID: B01898D9AW
+New price: 19.99 and latest price: 102.99
+Update the price for item, item.id: 33
+Discount happened for item, item.id: 33
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B079KPQ5X3
+Raw title from CCC: Sterntaler Geschirr-Set Wiesli...: Für Babys ab 6 Monaten, Bunt - runter 9.89% (1,38€) auf 12,57€ von 13,95€
+Found the item from Amazon API, ASIN ID:B079KPQ5X3
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B076VT4W55
+The item is already existed, check its price to update. Item.id: 34 . Item.ASINID: B076VT4W55
+Found the item from Amazon API, ASIN ID: B076VT4W55
+New price: 309.29 and latest price: 19.99
+Update the price for item, item.id: 34
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B003XU6SQY
+The item is already existed, check its price to update. Item.id: 35 . Item.ASINID: B003XU6SQY
+Found the item from Amazon API, ASIN ID: B003XU6SQY
+Unable to get the item price from Amazon API
+
+Found one item from CCC, AsinID: B00NFW2FCG
+The item is already existed, check its price to update. Item.id: 36 . Item.ASINID: B00NFW2FCG
+Found the item from Amazon API, ASIN ID: B00NFW2FCG
+New price: 2.83 and latest price: 2.83
+
+
+Found one item from CCC, AsinID: B00GUKH6FQ
+The item is already existed, check its price to update. Item.id: 38 . Item.ASINID: B00GUKH6FQ
+Found the item from Amazon API, ASIN ID: B00GUKH6FQ
+New price: 20.99 and latest price: 2.95
+Update the price for item, item.id: 38
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B016224UD2
+The item is already existed, check its price to update. Item.id: 39 . Item.ASINID: B016224UD2
+Found the item from Amazon API, ASIN ID: B016224UD2
+New price: 364.69 and latest price: 20.99
+Update the price for item, item.id: 39
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00BCC8A8E
+The item is already existed, check its price to update. Item.id: 40 . Item.ASINID: B00BCC8A8E
+Found the item from Amazon API, ASIN ID: B00BCC8A8E
+New price: 7.34 and latest price: 352.09
+Update the price for item, item.id: 40
+Discount happened for item, item.id: 40
+Update existing discount item.
+
+
+
+Run to the end of page in CCC. Go to next category.
+Found one item from CCC, AsinID: B001C81X0U
+Raw title from CCC: Silverline 868903 Schleifgitter, 5-m-Rolle 100er-Körnung - runter 42.50% (4,42€) auf 5,98€ von 10,40€
+Found the item from Amazon API, ASIN ID:B001C81X0U
+Add new item, item.id: 962
+Add new discount item, item.id: 962
+Add new price, item.id: 962
+
+Found one item from CCC, AsinID: B000S8DEDE
+Raw title from CCC: Proxxon 28515 Modellbauer- und...r- und Fräsgerät MICROMOT 50/E - runter 8.29% (4,95€) auf 54,78€ von 59,73€
+Found the item from Amazon API, ASIN ID:B000S8DEDE
+Add new item, item.id: 963
+Add new discount item, item.id: 963
+Add new price, item.id: 963
+
+Found one item from CCC, AsinID: B000S6799Q
+Raw title from CCC: Pattex PXMT2 Kleben statt Bohr...and, superstark, 19 mm x 1,5 m - runter 35.54% (2,31€) auf 4,19€ von 6,50€
+Found the item from Amazon API, ASIN ID:B000S6799Q
+Add new item, item.id: 964
+Add new discount item, item.id: 964
+Add new price, item.id: 964
+
+Found one item from CCC, AsinID: B001NUMVHQ
+Raw title from CCC: WEICON automatische Abisolierz...u / rot | 100% Made in Germany - runter 6.57% (1,05€) auf 14,94€ von 15,99€
+Found the item from Amazon API, ASIN ID:B001NUMVHQ
+Add new item, item.id: 965
+Add new discount item, item.id: 965
+Add new price, item.id: 965
+
+Found one item from CCC, AsinID: B004W1PSNC
+Raw title from CCC: MAX! Heizkörperthermostat, 99017A0 - runter 9.14% (2,01€) auf 19,99€ von 22,00€
+Found the item from Amazon API, ASIN ID:B004W1PSNC
+Add new item, item.id: 966
+Add new discount item, item.id: 966
+Add new price, item.id: 966
+
+Found one item from CCC, AsinID: B004GNFCK0
+Raw title from CCC: Makita BO5041 Exzenterschleifer 125 mm Ø - runter 3.62% (4,30€) auf 114,40€ von 118,70€
+Found the item from Amazon API, ASIN ID:B004GNFCK0
+Add new item, item.id: 967
+Add new discount item, item.id: 967
+Add new price, item.id: 967
+
+Found one item from CCC, AsinID: B000LFXIGC
+Raw title from CCC: Silverline VC63 Aluminium-Fugzwinge 900 mm - runter 20.02% (3,84€) auf 15,34€ von 19,18€
+Found the item from Amazon API, ASIN ID:B000LFXIGC
+Add new item, item.id: 968
+Add new discount item, item.id: 968
+Add new price, item.id: 968
+
+Found one item from CCC, AsinID: B003J37BHK
+Raw title from CCC: Leatherman Squirt PS4 Multifunktionswerkzeug - runter 8.64% (2,59€) auf 27,40€ von 29,99€
+Found the item from Amazon API, ASIN ID:B003J37BHK
+Add new item, item.id: 969
+Add new discount item, item.id: 969
+Add new price, item.id: 969
+
+Found one item from CCC, AsinID: B0017V97AK
+Raw title from CCC: BENNING 044084 MM P3 Digital-Multimeter im Pocketformat - runter 10.24% (4,09€) auf 35,86€ von 39,95€
+Found the item from Amazon API, ASIN ID:B0017V97AK
+Add new item, item.id: 970
+Add new discount item, item.id: 970
+Add new price, item.id: 970
+
+Found one item from CCC, AsinID: B000K2PE3G
+The item is already existed, check its price to update. Item.id: 63 . Item.ASINID: B000K2PE3G
+Found the item from Amazon API, ASIN ID: B000K2PE3G
+New price: 35.72 and latest price: 19.33
+Update the price for item, item.id: 63
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B07CWWLP26
+Raw title from CCC: Bosch 2607017459 Zubehörset fü...rauber, schwarz/gold, One size - runter 5.52% (0,91€) auf 15,57€ von 16,48€
+Found the item from Amazon API, ASIN ID:B07CWWLP26
+Add new item, item.id: 971
+Add new discount item, item.id: 971
+Add new price, item.id: 971
+
+Found one item from CCC, AsinID: B00JKLWAG2
+Raw title from CCC: kwb Bits for Bytes – Bit-Box, ...riff in stabiler Kunststoffbox - runter 41.34% (9,09€) auf 12,90€ von 21,99€
+Found the item from Amazon API, ASIN ID:B00JKLWAG2
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B075FYZ631
+Raw title from CCC: Ledlenser P5 Taschenlampe Box - runter 11.84% (3,91€) auf 29,11€ von 33,02€
+Found the item from Amazon API, ASIN ID:B075FYZ631
+Add new item, item.id: 972
+Add new discount item, item.id: 972
+Add new price, item.id: 972
+
+Found one item from CCC, AsinID: B076B5YBZB
+Raw title from CCC: Meister Werkstattwagen M-7, oh...ollwagen mit Schloss / 8986400 - runter 4.07% (11,11€) auf 262,04€ von 273,15€
+Found the item from Amazon API, ASIN ID:B076B5YBZB
+Add new item, item.id: 973
+Add new discount item, item.id: 973
+Add new price, item.id: 973
+
+Found one item from CCC, AsinID: B071X3YHFP
+Raw title from CCC: Überwachungskamera INSMA® Mini...icherheit, Bürosicherheit usw. - runter 14.21% (8,43€) auf 50,90€ von 59,33€
+Found the item from Amazon API, ASIN ID:B071X3YHFP
+descriptionsDe is null
+Add new item, item.id: 974
+Add new discount item, item.id: 974
+Add new price, item.id: 974
+
+Found one item from CCC, AsinID: B00JKLWGN4
+Raw title from CCC: kwb AKKU TOP Säbelsäge-Blätter...on 150/130 mm, Made in Germany - runter 19.73% (1,18€) auf 4,80€ von 5,98€
+Found the item from Amazon API, ASIN ID:B00JKLWGN4
+Add new item, item.id: 975
+Add new discount item, item.id: 975
+Add new price, item.id: 975
+
+Found one item from CCC, AsinID: B00I8MYMT2
+Raw title from CCC: Wera Bit-Sortiment, Tool-Check PLUS, 39-teilig, 05056490001 - runter 14.33% (7,96€) auf 47,59€ von 55,55€
+Found the item from Amazon API, ASIN ID:B00I8MYMT2
+Add new item, item.id: 976
+Add new discount item, item.id: 976
+Add new price, item.id: 976
+
+Found one item from CCC, AsinID: B074PZLX2P
+Raw title from CCC: Osram Smart+ Plug ZigBee schal...en zusätzliches Gateway nötig) - runter 29.75% (5,50€) auf 12,99€ von 18,49€
+Found the item from Amazon API, ASIN ID:B074PZLX2P
+Add new item, item.id: 977
+Add new discount item, item.id: 977
+Add new price, item.id: 977
+
+Found one item from CCC, AsinID: B002THAD9A
+Raw title from CCC: Kopp 129713007 3-fach Steckdos...it beleuchtetem Schalter, weiß - runter 49.92% (2,94€) auf 2,95€ von 5,89€
+Found the item from Amazon API, ASIN ID:B002THAD9A
+Add new item, item.id: 978
+Add new discount item, item.id: 978
+Add new price, item.id: 978
+
+Found one item from CCC, AsinID: B01MU9R1G6
+Raw title from CCC: Ledlenser H3.2 Stirnlampe Box mit LED Licht - runter 24.03% (6,32€) auf 19,98€ von 26,30€
+Found the item from Amazon API, ASIN ID:B01MU9R1G6
+Add new item, item.id: 979
+Add new discount item, item.id: 979
+Add new price, item.id: 979
+
+Found one item from CCC, AsinID: B01N39V0I4
+The item is already existed, check its price to update. Item.id: 41 . Item.ASINID: B01N39V0I4
+Found the item from Amazon API, ASIN ID: B01N39V0I4
+New price: 15.5 and latest price: 7.34
+Update the price for item, item.id: 41
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00PHE0YSC
+The item is already existed, check its price to update. Item.id: 42 . Item.ASINID: B00PHE0YSC
+Found the item from Amazon API, ASIN ID: B00PHE0YSC
+New price: 159.99 and latest price: 15.50
+Update the price for item, item.id: 42
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B007258YOK
+Raw title from CCC: Bosch Professional Führungssch...Bosch Professional, im Karton) - runter 28.64% (15,42€) auf 38,42€ von 53,84€
+Found the item from Amazon API, ASIN ID:B007258YOK
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B0009W88GC
+Raw title from CCC: Bosch Professional Hobel GHO 4...dicke einstellbar: 0 - 0,4 mm) - runter 24.40% (52,85€) auf 163,75€ von 216,60€
+Found the item from Amazon API, ASIN ID:B0009W88GC
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B07BRS1N19
+The item is already existed, check its price to update. Item.id: 46 . Item.ASINID: B07BRS1N19
+Found the item from Amazon API, ASIN ID: B07BRS1N19
+New price: 189.69 and latest price: 97.49
+Update the price for item, item.id: 46
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B00XPNUO3C
+The item is already existed, check its price to update. Item.id: 47 . Item.ASINID: B00XPNUO3C
+Found the item from Amazon API, ASIN ID: B00XPNUO3C
+New price: 22.03 and latest price: 228.00
+Update the price for item, item.id: 47
+Discount happened for item, item.id: 47
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B008A1BYMO
+The item is already existed, check its price to update. Item.id: 48 . Item.ASINID: B008A1BYMO
+Found the item from Amazon API, ASIN ID: B008A1BYMO
+New price: 120.5 and latest price: 116.14
+Update the price for item, item.id: 48
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B007XBEX0C
+Raw title from CCC: ABUS Titalium-Vorhangschloss 80TI/50, 56234 - runter 15.72% (2,50€) auf 13,40€ von 15,90€
+Found the item from Amazon API, ASIN ID:B007XBEX0C
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B00NVLZNAM
+The item is already existed, check its price to update. Item.id: 49 . Item.ASINID: B00NVLZNAM
+Found the item from Amazon API, ASIN ID: B00NVLZNAM
+New price: 60.59 and latest price: 22.03
+Update the price for item, item.id: 49
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B01MZ0K5FD
+The item is already existed, check its price to update. Item.id: 52 . Item.ASINID: B01MZ0K5FD
+Found the item from Amazon API, ASIN ID: B01MZ0K5FD
+New price: 13.39 and latest price: 104.02
+Update the price for item, item.id: 52
+Discount happened for item, item.id: 52
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B00PRS1AM2
+The item is already existed, check its price to update. Item.id: 53 . Item.ASINID: B00PRS1AM2
+Found the item from Amazon API, ASIN ID: B00PRS1AM2
+New price: 7.94 and latest price: 7.95
+Update the price for item, item.id: 53
+Discount happened for item, item.id: 53
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B006WNLAGM
+Raw title from CCC: Grohe Euphoria Duschsysteme un...r Befestigung) chrom, 27500000 - runter 26.31% (9,46€) auf 26,49€ von 35,95€
+Found the item from Amazon API, ASIN ID:B006WNLAGM
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B00RTG0H5G
+Raw title from CCC: Grohe Grohtherm 1000 Wanne-Wan...ufheizen der Armatur) 34155003 - runter 20.96% (35,37€) auf 133,39€ von 168,76€
+Found the item from Amazon API, ASIN ID:B00RTG0H5G
+Add new item, item.id: 980
+Add new discount item, item.id: 980
+Add new price, item.id: 980
+
+Found one item from CCC, AsinID: B00CZ6C3F2
+Raw title from CCC: GROHE Eurosmart Cosmopolitan |...mittelhoher Auslauf | 23325000 - runter 24.91% (16,09€) auf 48,49€ von 64,58€
+Found the item from Amazon API, ASIN ID:B00CZ6C3F2
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B005LV17HS
+The item is already existed, check its price to update. Item.id: 54 . Item.ASINID: B005LV17HS
+Found the item from Amazon API, ASIN ID: B005LV17HS
+New price: 3.89 and latest price: 13.39
+Update the price for item, item.id: 54
+Discount happened for item, item.id: 54
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B013SJOKRS
+Raw title from CCC: GROHE Essentials | Badaccessoi...| mit Deckel, chrom | 40367001 - runter 24.09% (5,71€) auf 17,99€ von 23,70€
+Found the item from Amazon API, ASIN ID:B013SJOKRS
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B004YVDI9Q
+The item is already existed, check its price to update. Item.id: 55 . Item.ASINID: B004YVDI9Q
+Found the item from Amazon API, ASIN ID: B004YVDI9Q
+Unable to get the item price from Amazon API
+
+Found one item from CCC, AsinID: B00MIZ7TPY
+The item is already existed, check its price to update. Item.id: 56 . Item.ASINID: B00MIZ7TPY
+Found the item from Amazon API, ASIN ID: B00MIZ7TPY
+New price: 10.79 and latest price: 3.79
+Update the price for item, item.id: 56
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B01MSEQYY9
+The item is already existed, check its price to update. Item.id: 57 . Item.ASINID: B01MSEQYY9
+Found the item from Amazon API, ASIN ID: B01MSEQYY9
+New price: 159.2 and latest price: 159.20
+
+
+Found one item from CCC, AsinID: B019JHQG3Y
+The item is already existed, check its price to update. Item.id: 59 . Item.ASINID: B019JHQG3Y
+Found the item from Amazon API, ASIN ID: B019JHQG3Y
+New price: 26.78 and latest price: 159.20
+Update the price for item, item.id: 59
+Discount happened for item, item.id: 59
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B00G8X06RU
+The item is already existed, check its price to update. Item.id: 60 . Item.ASINID: B00G8X06RU
+Found the item from Amazon API, ASIN ID: B00G8X06RU
+New price: 61.57 and latest price: 74.72
+Update the price for item, item.id: 60
+Discount happened for item, item.id: 60
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B005MNBU22
+The item is already existed, check its price to update. Item.id: 61 . Item.ASINID: B005MNBU22
+Found the item from Amazon API, ASIN ID: B005MNBU22
+New price: 19.33 and latest price: 26.78
+Update the price for item, item.id: 61
+Discount happened for item, item.id: 61
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B003VELF60
+The item is already existed, check its price to update. Item.id: 62 . Item.ASINID: B003VELF60
+Found the item from Amazon API, ASIN ID: B003VELF60
+New price: 53.5 and latest price: 61.57
+Update the price for item, item.id: 62
+Discount happened for item, item.id: 62
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B00C2RCDC2
+The item is already existed, check its price to update. Item.id: 64 . Item.ASINID: B00C2RCDC2
+Found the item from Amazon API, ASIN ID: B00C2RCDC2
+New price: 349.3 and latest price: 52.66
+Update the price for item, item.id: 64
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B001T7QJ9O
+The item is already existed, check its price to update. Item.id: 65 . Item.ASINID: B001T7QJ9O
+Found the item from Amazon API, ASIN ID: B001T7QJ9O
+New price: 39.6 and latest price: 29.95
+Update the price for item, item.id: 65
+Remove the existing discount item.
+
+
+Found one item from CCC, AsinID: B000KJP2LI
+The item is already existed, check its price to update. Item.id: 66 . Item.ASINID: B000KJP2LI
+Found the item from Amazon API, ASIN ID: B000KJP2LI
+New price: 2.37 and latest price: 349.30
+Update the price for item, item.id: 66
+Discount happened for item, item.id: 66
+Update existing discount item.
+
+
+
+Run to the end of page in CCC. Go to next category.
+Found one item from CCC, AsinID: B00CJPFCK2
+Raw title from CCC: FALKE rutschfeste Cotton Babys... Jungen Mädchen, Stoppersocken - runter 25.00% (2,00€) auf 6,00€ von 8,00€
+Found the item from Amazon API, ASIN ID:B00CJPFCK2
+Add new item, item.id: 981
+Add new discount item, item.id: 981
+Add new price, item.id: 981
+
+Found one item from CCC, AsinID: B00BG22ZHC
+Raw title from CCC: Nattou Schaukeltier ab 1 Jahr ... Jungen - Cappuccino Esel blau - runter 10.76% (9,14€) auf 75,78€ von 84,92€
+Found the item from Amazon API, ASIN ID:B00BG22ZHC
+Add new item, item.id: 982
+Add new discount item, item.id: 982
+Add new price, item.id: 982
+
+Found one item from CCC, AsinID: B0735CJH3Z
+Raw title from CCC: Napapijri Herren Jacke Rainfor... (Dark Grey Solid 198), Medium - runter 5.61% (7,39€) auf 124,25€ von 131,64€
+Found the item from Amazon API, ASIN ID:B0735CJH3Z
+Add new item, item.id: 983
+Add new discount item, item.id: 983
+Add new price, item.id: 983
+
+Found one item from CCC, AsinID: B07D6TLQD2
+The item is already existed, check its price to update. Item.id: 76 . Item.ASINID: B07D6TLQD2
+Found the item from Amazon API, ASIN ID: B07D6TLQD2
+New price: 64.79 and latest price: 64.89
+Update the price for item, item.id: 76
+Discount happened for item, item.id: 76
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B07CMJJVJ2
+Raw title from CCC: Scotch & Soda Herren Pullover ...Blau (Midnight 0818), XX-Large - runter 37.13% (22,26€) auf 37,69€ von 59,95€
+Found the item from Amazon API, ASIN ID:B07CMJJVJ2
+descriptionsDe is null
+Add new item, item.id: 984
+Add new discount item, item.id: 984
+Add new price, item.id: 984
+
+Found one item from CCC, AsinID: B00I03ZFMW
+The item is already existed, check its price to update. Item.id: 72 . Item.ASINID: B00I03ZFMW
+Found the item from Amazon API, ASIN ID: B00I03ZFMW
+New price: 24.94 and latest price: 33.14
+Update the price for item, item.id: 72
+Discount happened for item, item.id: 72
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B0788LR15C
+Raw title from CCC: adidas Herren Trefoil Kapuzenpullover, Black, L - runter 5.64% (3,04€) auf 50,87€ von 53,91€
+Found the item from Amazon API, ASIN ID:B0788LR15C
+Add new item, item.id: 985
+Add new discount item, item.id: 985
+Add new price, item.id: 985
+
+Found one item from CCC, AsinID: B071H9TK6T
+Raw title from CCC: Schiesser Mädchen Bustier 1594...100), 176 (Herstellergröße: L) - runter 25.02% (2,74€) auf 8,21€ von 10,95€
+Found the item from Amazon API, ASIN ID:B071H9TK6T
+Add new item, item.id: 986
+Add new discount item, item.id: 986
+Add new price, item.id: 986
+
+Found one item from CCC, AsinID: B01CDYOTUM
+Raw title from CCC: JAKO Shorts Basic 2.0, schwarz, XXL - runter 3.73% (0,50€) auf 12,91€ von 13,41€
+Found the item from Amazon API, ASIN ID:B01CDYOTUM
+Add new item, item.id: 987
+Add new discount item, item.id: 987
+Add new price, item.id: 987
+
+Found one item from CCC, AsinID: B07DPBV8WD
+Raw title from CCC: PUMA Damen 4Keeps Bra M Bustier, Forest Night Back, L - runter 10.60% (2,18€) auf 18,39€ von 20,57€
+Found the item from Amazon API, ASIN ID:B07DPBV8WD
+Add new item, item.id: 988
+Add new discount item, item.id: 988
+Add new price, item.id: 988
+
+Found one item from CCC, AsinID: B01FF7KAF2
+Raw title from CCC: JACK & JONES Herren Kapuzenpul...arz (Black Fit:Reg Mel), Small - runter 42.80% (17,10€) auf 22,85€ von 39,95€
+Found the item from Amazon API, ASIN ID:B01FF7KAF2
+Add new item, item.id: 989
+Add new discount item, item.id: 989
+Add new price, item.id: 989
+
+Found one item from CCC, AsinID: B07C2B35LY
+The item is already existed, check its price to update. Item.id: 74 . Item.ASINID: B07C2B35LY
+Found the item from Amazon API, ASIN ID: B07C2B35LY
+New price: 18.64 and latest price: 23.91
+Update the price for item, item.id: 74
+Discount happened for item, item.id: 74
+Update existing discount item.
+
+
+
+Found one item from CCC, AsinID: B07C28HBD1
+Raw title from CCC: JACK & JONES Herren Pullover J...OS, Blau Navy Blazer, XX-Large - runter 12.11% (2,58€) auf 18,72€ von 21,30€
+Found the item from Amazon API, ASIN ID:B07C28HBD1
+Add new item, item.id: 990
+Add new discount item, item.id: 990
+Add new price, item.id: 990
+
+Found one item from CCC, AsinID: B01FF7L9IO
+Raw title from CCC: JACK & JONES Herren Pullover J...(Black Fit:Knit Fit), XX-Large - runter 24.55% (9,75€) auf 29,96€ von 39,71€
+Found the item from Amazon API, ASIN ID:B01FF7L9IO
+Add new item, item.id: 991
+Add new discount item, item.id: 991
+Add new price, item.id: 991
+
+Found one item from CCC, AsinID: B06WGM9RY6
+Raw title from CCC: s.Oliver Herren Jeanshose 3899...e Denim Stretch 55Z4), W40/L32 - runter 15.10% (7,47€) auf 41,99€ von 49,46€
+Found the item from Amazon API, ASIN ID:B06WGM9RY6
+Add new item, item.id: 992
+Add new discount item, item.id: 992
+Add new price, item.id: 992
+
+Found one item from CCC, AsinID: B0765DNP3H
+Raw title from CCC: ESPRIT Herren T-Shirt 127EE2K048, Weiß (White 100), X-Large - runter 14.66% (1,30€) auf 7,57€ von 8,87€
+Found the item from Amazon API, ASIN ID:B0765DNP3H
+descriptionsDe is null
+Add new item, item.id: 993
+Add new discount item, item.id: 993
+Add new price, item.id: 993
+
+Found one item from CCC, AsinID: B01HCYRHBQ
+Raw title from CCC: JACK & JONES Herren Boxershort...k, Violett (Burgundy), X-Large - runter 3.80% (0,74€) auf 18,74€ von 19,48€
+Found the item from Amazon API, ASIN ID:B01HCYRHBQ
+Add new item, item.id: 994
+Add new discount item, item.id: 994
+Add new price, item.id: 994
+
+Found one item from CCC, AsinID: B001R4WP1A
+Raw title from CCC: Skiny Damen Bralette Essential...men Bustier,Weiß (white), 36/S - runter 13.82% (2,21€) auf 13,78€ von 15,99€
+Found the item from Amazon API, ASIN ID:B001R4WP1A
+Add new item, item.id: 995
+Add new discount item, item.id: 995
+Add new price, item.id: 995
+
+Found one item from CCC, AsinID: B07B9QR357
+Raw title from CCC: Crash Bandicoot N.Sane Trilogy - [Xbox One] - runter 11.12% (3,00€) auf 23,99€ von 26,99€
+Found the item from Amazon API, ASIN ID:B07B9QR357
+Item new price is larger than old price, so not include it in database
+
+Found one item from CCC, AsinID: B01MCXY3F4
+Raw title from CCC: BOSS Herren T-Shirts RN 3P CO,... Schwarz (Black 001), XX-Large - runter 7.79% (2,45€) auf 28,99€ von 31,44€
+Found the item from Amazon API, ASIN ID:B01MCXY3F4
+Add ne

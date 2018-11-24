@@ -1,7 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 
-namespace dsscountAPI.Model
+namespace DssCount
 {
     public class Price
     {
@@ -50,7 +50,8 @@ namespace dsscountAPI.Model
                         {
                             while (dataReader.Read())
                             {
-                                return (decimal)dataReader[0];
+                                decimal latestPrice = Convert.ToDecimal(dataReader[0]) * 100;
+                                return latestPrice / 100;
                             }
                         }
                     }

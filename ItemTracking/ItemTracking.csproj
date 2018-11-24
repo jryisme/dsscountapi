@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}</ProjectGuid>
+    <ProjectGuid>{1F22B7B2-2D33-492F-82BC-ABA9F8DF7D01}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LanguageAPI</RootNamespace>
-    <AssemblyName>LanguageAPI</AssemblyName>
+    <RootNamespace>ItemTracking</RootNamespace>
+    <AssemblyName>ItemTracking</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,14 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LanguageAPIProgram.cs" />
+    <Compile Include="ItemTrackingProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\dsscountAPI\dsscountAPI.csproj">
+      <Project>{602a6c8f-e1a9-4a45-93b2-de7c13d759a0}</Project>
+      <Name>dsscountAPI</Name>
+    </ProjectReference>
     <ProjectReference Include="..\DssCount\DssCountModel.csproj">
       <Project>{bf17e085-4ff8-463d-a3db-ceca31cb6db4}</Project>
       <Name>DssCountModel</Name>

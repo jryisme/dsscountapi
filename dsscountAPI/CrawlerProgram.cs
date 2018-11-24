@@ -1,7 +1,8 @@
-﻿using dsscountAPI.Model;
+﻿using DssCount;
 using Nager.AmazonProductAdvertising;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading;
@@ -9,21 +10,27 @@ using System.Xml;
 
 namespace dsscountAPI
 {
-    class Program
+    public class CrawlerProgram
     {
-        //const string connStr = "server=localhost;user=root;database=dsscount;port=3306;password=";
-        const string connStr = "server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ";
+        const string connStr = "server=localhost;user=root;database=dsscount;port=3306;password=";
+        //const string connStr = "server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ";
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Connstr: "+connStr);
-            Console.WriteLine();
-
-            List<Category> categories = new Category().GetCategories(connStr);
-
-            foreach (var category in categories)
+            string path = @"C:\xampp\htdocs\dsscountAPI\Logs\DssCountCrawler\log_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".txt";
+            using (StreamWriter writer = new StreamWriter(path))
             {
-                GetCccItemByCategory_De(category.KeyDe, category.ID, 1);
+                Console.SetOut(writer);
+
+                Console.WriteLine("Connstr: " + connStr);
+                Console.WriteLine();
+
+                List<Category> categories = new Category().GetCategories(connStr);
+
+                foreach (var category in categories)
+                {
+                    GetCccItemByCategory_De(category.KeyDe, category.ID, 1);
+                }
             }
         }
 
@@ -40,7 +47,7 @@ namespace dsscountAPI
                         //string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=7&s=relative&d=0&p=" + pageNo;
 
                         // Get the latest 1 days items order by date desc per category
-                        string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=2&s=relative&d=0&p=" + pageNo;
+                        string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=7&s=relative&d=0&p=" + pageNo;
 
                         pageNo++;
 
@@ -129,7 +136,7 @@ namespace dsscountAPI
             }
         }
 
-        private static void UpdateItemPrice(Item itemAmazon)
+        public static void UpdateItemPrice(Item itemAmazon)
         {
             try
             {
@@ -166,7 +173,7 @@ namespace dsscountAPI
 
                 Console.WriteLine("New price: " + newPrice + " and latest price: " + latestPrice);
 
-                if (newPrice.ToString() != latestPrice.ToString())
+                if (newPrice != latestPrice)
                 {
                     Console.WriteLine("Update the price for item, item.id: " + itemAmazon.ID);
                     Price price = new Price
@@ -178,28 +185,48 @@ namespace dsscountAPI
 
                     price.Save(connStr);
 
+                    DiscountItem dsItem = new DiscountItem().FindByItemID(connStr, itemAmazon.ID);
+
                     if (newPrice < latestPrice) // Discount applied
                     {
                         Console.WriteLine("Discount happened for item, item.id: " + itemAmazon.ID);
-                        DiscountItem dsItem = new DiscountItem().FindByItemID(connStr, itemAmazon.ID);
-
-                        dsItem.NewPrice = newPrice;
-                        dsItem.OldPrice = latestPrice;
-                        dsItem.ChangePrice = latestPrice - newPrice;
-                        dsItem.Discount = Math.Round((latestPrice - newPrice) / latestPrice);
-                        dsItem.TimeStamp = DateTime.Now.ToString();
 
                         if (dsItem != null)
                         {
+                            dsItem.NewPrice = newPrice;
+                            dsItem.OldPrice = latestPrice;
+                            dsItem.ChangePrice = latestPrice - newPrice;
+                            dsItem.Discount = Math.Round((latestPrice - newPrice) / latestPrice);
+                            dsItem.TimeStamp = DateTime.Now.ToString();
+                            dsItem.ItemID = itemAmazon.ID;
+
                             Console.WriteLine("Update existing discount item.");
                             dsItem.Update(connStr);
                         }
-                        else // The item might be removed from discount list
+                        else // The item might have been removed from discount list
                         {
+                            DiscountItem newDsItem = new DiscountItem
+                            {
+                                NewPrice = newPrice,
+                                OldPrice = latestPrice,
+                                ChangePrice = latestPrice - newPrice,
+                                Discount = Math.Round((latestPrice - newPrice) / latestPrice),
+                                TimeStamp = DateTime.Now.ToString(),
+                                ItemID = itemAmazon.ID
+                            };
+
                             Console.WriteLine("Add new discount item.");
                             dsItem.Save(connStr);
                         }
                         Console.WriteLine();
+                    }
+                    else if (newPrice > latestPrice) // Remove it from the discount list
+                    {
+                        if (dsItem != null)
+                        {
+                            Console.WriteLine("Remove the existing discount item.");
+                            //dsItem.Update(connStr);
+                        }
                     }
                 }
                 Console.WriteLine();

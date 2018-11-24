@@ -1,7 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
 
-namespace dsscountAPI.Model
+namespace DssCount
 {
     public class Description
     {

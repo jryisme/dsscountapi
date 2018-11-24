@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace dsscountAPI.Model
+namespace DssCount
 {
     public class Item
     {

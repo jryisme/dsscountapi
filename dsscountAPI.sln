@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsscountAPI", "dsscountAPI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguageAPI", "LanguageAPI\LanguageAPI.csproj", "{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DssCountModel", "DssCount\DssCountModel.csproj", "{BF17E085-4FF8-463D-A3DB-CECA31CB6DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemTracking", "ItemTracking\ItemTracking.csproj", "{1F22B7B2-2D33-492F-82BC-ABA9F8DF7D01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAA644B3-21C1-446E-9ABA-1683FBEECAEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF17E085-4FF8-463D-A3DB-CECA31CB6DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF17E085-4FF8-463D-A3DB-CECA31CB6DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF17E085-4FF8-463D-A3DB-CECA31CB6DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF17E085-4FF8-463D-A3DB-CECA31CB6DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F22B7B2-2D33-492F-82BC-ABA9F8DF7D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22B7B2-2D33-492F-82BC-ABA9F8DF7D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22B7B2-2D33-492F-82BC-ABA9F8DF7D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22B7B2-2D33-492F-82BC-ABA9F8DF7D01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="BitlyAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\BitlyAPI.1.0.3\lib\net45\BitlyAPI.dll</HintPath>
-    </Reference>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -101,13 +98,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Category.cs" />
-    <Compile Include="Model\Description.cs" />
-    <Compile Include="Model\DiscountItem.cs" />
-    <Compile Include="Model\Item.cs" />
-    <Compile Include="Model\Price.cs" />
-    <Compile Include="Model\Title.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="CrawlerProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -115,6 +106,12 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DssCount\DssCountModel.csproj">
+      <Project>{bf17e085-4ff8-463d-a3db-ceca31cb6db4}</Project>
+      <Name>DssCountModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
