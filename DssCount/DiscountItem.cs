@@ -105,6 +105,28 @@ namespace DssCount
             }
         }
 
+        public void Delete(string connStr)
+        {
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connStr))
+                {
+                    conn.Open();
+                    using (MySqlCommand cmd = new MySqlCommand("delete from discount_item_amazon_camel_de where id=@id;", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@id", ID);
+
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
+            }
+        }
+
         //public List<Item> GetAllAsinId(string connStr)
         //{
         //    try

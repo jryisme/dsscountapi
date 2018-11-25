@@ -150,24 +150,35 @@ namespace DssCount
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("select Id, titleid, descriptionid from item_amazon_camel_de where istranslatedcn=0;", conn))
+                    using (MySqlCommand cmd = new MySqlCommand("select item_amazon_camel_de.id, title.id, title.titlede, description.id, descriptionde1, descriptionde2, descriptionde3, descriptionde4, descriptionde5 from dsscount.item_amazon_camel_de join dsscount.title join dsscount.description where descriptionid = description.id and titleid = title.id and istranslatedcn = 0;", conn))
                     {
                         using (MySqlDataReader dataReader = cmd.ExecuteReader())
                         {
-
                             List<Item> items = new List<Item>();
                             while (dataReader.Read())
                             {
-                                Item item = new Item()
+                                Title title = new Title
                                 {
-                                    ID = (int)dataReader[0]
+                                    ID = (int)dataReader[1],
+                                    TitleDe = (string)dataReader[2]
                                 };
 
-                                Title title = new Title().FindByID(connStr, 1);
-                                Description description = new Description().FindByID(connStr, 1);
+                                Description description = new Description
+                                {
+                                    ID = (int)dataReader[3],
+                                    DescriptionDe1 = dataReader.IsDBNull(4) ? null : (string)dataReader[4],
+                                    DescriptionDe2 = dataReader.IsDBNull(5) ? null : (string)dataReader[5],
+                                    DescriptionDe3 = dataReader.IsDBNull(6) ? null : (string)dataReader[6],
+                                    DescriptionDe4 = dataReader.IsDBNull(7) ? null : (string)dataReader[7],
+                                    DescriptionDe5 = dataReader.IsDBNull(8) ? null : (string)dataReader[8]
+                                };
 
-                                item.Title = title;
-                                item.Description = description;
+                                Item item = new Item()
+                                {
+                                    ID = (int)dataReader[0],
+                                    Title = title,
+                                    Description = description
+                                };
 
                                 items.Add(item);
                             }
@@ -182,6 +193,28 @@ namespace DssCount
                 Console.WriteLine();
             }
             return null;
+        }
+
+        public void UpdateTranslationCnStatus(string connStr)
+        {
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connStr))
+                {
+                    conn.Open();
+                    using (MySqlCommand cmd = new MySqlCommand("Update item_amazon_camel_de set istranslatedcn=1 where id=@id;", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@id", ID);
+
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
+            }
         }
 
         public void UpdateImage(string connStr)

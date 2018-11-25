@@ -12,8 +12,8 @@ namespace dsscountAPI
 {
     public class CrawlerProgram
     {
-        const string connStr = "server=localhost;user=root;database=dsscount;port=3306;password=";
-        //const string connStr = "server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ";
+        //const string connStr = "server=localhost;user=root;database=dsscount;port=3306;password=";
+        const string connStr = "server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ";
 
         static void Main(string[] args)
         {
@@ -47,7 +47,7 @@ namespace dsscountAPI
                         //string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=7&s=relative&d=0&p=" + pageNo;
 
                         // Get the latest 1 days items order by date desc per category
-                        string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=7&s=relative&d=0&p=" + pageNo;
+                        string reqUrl = "https://de.camelcamelcamel.com/top_drops/feed?bn=" + category + "&t=recent&i=2&s=relative&d=0&p=" + pageNo;
 
                         pageNo++;
 
@@ -91,38 +91,13 @@ namespace dsscountAPI
                                 if (dbItem != null) // The item is already there, check the price from amazon
                                 {
                                     Console.WriteLine("The item is already existed, check its price to update. Item.id: " + dbItem.ID + " . Item.ASINID: " + dbItem.AsinId);
-                                    UpdateItemPrice(dbItem);
+                                    UpdateExistingItem(dbItem);
                                     Console.WriteLine();
-                                    continue;
                                 }
-
-                                string title = item.FirstChild.InnerText;
-                                Console.WriteLine("Raw title from CCC: " + title);
-
-                                Regex regex = new Regex(@"([0-9]{1,3}(.|,)){1,4}[0-9]{1,2}(%|€)");
-                                MatchCollection matches = regex.Matches(title);
-                                if (matches.Count < 4)
+                                else
                                 {
-                                    GetCccItemByCategory_De(keyDe, categoryId, pageNo);
+                                    SaveNewItem(keyDe, categoryId, pageNo, item, asinId);
                                 }
-
-                                decimal discount = Math.Round(Convert.ToDecimal(matches[matches.Count - 4].Value.Split('%')[0]));
-                                decimal changePrice = Convert.ToDecimal(matches[matches.Count - 3].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
-                                decimal newPrice = Convert.ToDecimal(matches[matches.Count - 2].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
-                                decimal oldPrice = Convert.ToDecimal(matches[matches.Count - 1].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
-
-                                DateTime timeStamp = Convert.ToDateTime(item.ChildNodes[3].InnerText.Replace(" PST", ""));
-
-                                string guid = item.ChildNodes[4].InnerText;
-
-                                Item itemAmazon = new Item
-                                {
-                                    AsinId = asinId,
-                                    CccGuid = guid,
-                                    CategoryID = categoryId,
-                                    TimeStamp = timeStamp.ToString()
-                                };
-                                GetAndSaveAmazonItem(itemAmazon, title, discount, changePrice, newPrice, oldPrice);
                             }
                         }
                         GetCccItemByCategory_De(keyDe, categoryId, pageNo);
@@ -136,112 +111,37 @@ namespace dsscountAPI
             }
         }
 
-        public static void UpdateItemPrice(Item itemAmazon)
+        private static void SaveNewItem(string keyDe, int categoryId, int pageNo, XmlNode item, string asinId)
         {
             try
             {
-                var rawItem = RequestAmazonAPI(itemAmazon);
+                string rawTitle = item.FirstChild.InnerText;
+                Console.WriteLine("Raw title from CCC: " + rawTitle);
 
-                if (rawItem == null)
+                Regex regex = new Regex(@"([0-9]{1,3}(.|,)){1,4}[0-9]{1,2}(%|€)");
+                MatchCollection matches = regex.Matches(rawTitle);
+                if (matches.Count < 4)
                 {
-                    Console.WriteLine();
-                    return;
+                    GetCccItemByCategory_De(keyDe, categoryId, pageNo);
                 }
 
-                var rawItemAttributes = rawItem.ItemAttributes;
+                decimal discount = Convert.ToDecimal(matches[matches.Count - 4].Value.Split('%')[0]);
+                decimal changePrice = Convert.ToDecimal(matches[matches.Count - 3].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
+                decimal newPrice = Convert.ToDecimal(matches[matches.Count - 2].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
+                decimal oldPrice = Convert.ToDecimal(matches[matches.Count - 1].Value.Split('€')[0].Replace(".", "").Replace(",", "")) / 100;
 
-                Console.WriteLine("Found the item from Amazon API, ASIN ID: " + rawItem.ASIN);
+                DateTime timeStamp = Convert.ToDateTime(item.ChildNodes[3].InnerText.Replace(" PST", ""));
 
-                if (rawItemAttributes.ListPrice == null)
+                string guid = item.ChildNodes[4].InnerText;
+
+                Item itemAmazon = new Item
                 {
-                    Console.WriteLine("Unable to get the item price from Amazon API");
-                    return;
-                }
+                    AsinId = asinId,
+                    CccGuid = guid,
+                    CategoryID = categoryId,
+                    TimeStamp = DateTime.Now.ToString()
+                };
 
-                decimal newPrice = 0;
-
-                if (rawItem.Offers != null && rawItem.Offers.Offer != null && rawItem.Offers.Offer[0] != null && rawItem.Offers.Offer[0].OfferAttributes != null && rawItem.Offers.Offer[0].OfferAttributes.Condition != null && rawItem.Offers.Offer[0].OfferAttributes.Condition == "New" && rawItem.Offers.Offer[0].OfferListing != null && rawItem.Offers.Offer[0].OfferListing[0] != null && rawItem.Offers.Offer[0].OfferListing[0].Price != null) // Take the price from offers
-                {
-                    newPrice = Convert.ToDecimal(rawItem.Offers.Offer[0].OfferListing[0].Price.Amount) / 100;
-                }
-                else
-                {
-                    newPrice = Convert.ToDecimal(rawItemAttributes.ListPrice.Amount) / 100;
-                }
-
-                decimal latestPrice = new Price().GetLatestPrice(connStr, itemAmazon.ID);
-
-                Console.WriteLine("New price: " + newPrice + " and latest price: " + latestPrice);
-
-                if (newPrice != latestPrice)
-                {
-                    Console.WriteLine("Update the price for item, item.id: " + itemAmazon.ID);
-                    Price price = new Price
-                    {
-                        ItemID = itemAmazon.ID,
-                        Value = newPrice,
-                        Timestamp = DateTime.Now.ToString()
-                    };
-
-                    price.Save(connStr);
-
-                    DiscountItem dsItem = new DiscountItem().FindByItemID(connStr, itemAmazon.ID);
-
-                    if (newPrice < latestPrice) // Discount applied
-                    {
-                        Console.WriteLine("Discount happened for item, item.id: " + itemAmazon.ID);
-
-                        if (dsItem != null)
-                        {
-                            dsItem.NewPrice = newPrice;
-                            dsItem.OldPrice = latestPrice;
-                            dsItem.ChangePrice = latestPrice - newPrice;
-                            dsItem.Discount = Math.Round((latestPrice - newPrice) / latestPrice);
-                            dsItem.TimeStamp = DateTime.Now.ToString();
-                            dsItem.ItemID = itemAmazon.ID;
-
-                            Console.WriteLine("Update existing discount item.");
-                            dsItem.Update(connStr);
-                        }
-                        else // The item might have been removed from discount list
-                        {
-                            DiscountItem newDsItem = new DiscountItem
-                            {
-                                NewPrice = newPrice,
-                                OldPrice = latestPrice,
-                                ChangePrice = latestPrice - newPrice,
-                                Discount = Math.Round((latestPrice - newPrice) / latestPrice),
-                                TimeStamp = DateTime.Now.ToString(),
-                                ItemID = itemAmazon.ID
-                            };
-
-                            Console.WriteLine("Add new discount item.");
-                            dsItem.Save(connStr);
-                        }
-                        Console.WriteLine();
-                    }
-                    else if (newPrice > latestPrice) // Remove it from the discount list
-                    {
-                        if (dsItem != null)
-                        {
-                            Console.WriteLine("Remove the existing discount item.");
-                            //dsItem.Update(connStr);
-                        }
-                    }
-                }
-                Console.WriteLine();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-                Console.WriteLine();
-            }
-        }
-
-        private static void GetAndSaveAmazonItem(Item itemAmazon, string cccTitle, decimal discount, decimal changePrice, decimal newPrice, decimal oldPrice)
-        {
-            try
-            {
                 var rawItem = RequestAmazonAPI(itemAmazon);
 
                 if (rawItem == null)
@@ -265,8 +165,14 @@ namespace dsscountAPI
                 {
                     newPrice = Convert.ToDecimal(rawItem.Offers.Offer[0].OfferListing[0].Price.Amount) / 100;
                 }
-                else if (rawItemAttributes.ListPrice != null & rawItemAttributes.ListPrice.Amount != null)
+                else
                 {
+                    if (rawItemAttributes.ListPrice == null)
+                    {
+                        Console.WriteLine("Unable to get the item price from Amazon API");
+                        return;
+                    }
+
                     newPrice = Convert.ToDecimal(rawItemAttributes.ListPrice.Amount) / 100;
                 }
 
@@ -277,7 +183,7 @@ namespace dsscountAPI
                     return;
                 }
 
-                string titleDe = rawItemAttributes.Title ?? cccTitle;
+                string titleDe = rawItemAttributes.Title ?? rawTitle;
 
                 var descriptionsDe = rawItemAttributes.Feature;
 
@@ -290,12 +196,6 @@ namespace dsscountAPI
                 itemAmazon.Image = rawItem.MediumImage != null ? rawItem.MediumImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].MediumImage?.URL) : null) : null);
                 itemAmazon.ImageLarge = rawItem.LargeImage != null ? rawItem.LargeImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].LargeImage?.URL) : null) : null);
                 itemAmazon.ImageSmall = rawItem.SmallImage != null ? rawItem.SmallImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].SmallImage?.URL) : null) : null);
-
-                //todo: update title, description and item
-                //if (itemAmazon.FindByGuid(connStr)) // The item is already there, update just in case of any price change lately
-                //{
-                //    return;
-                //}
 
                 Title title = new Title
                 {
@@ -333,7 +233,7 @@ namespace dsscountAPI
                     ChangePrice = changePrice,
                     Discount = discount,
                     ItemID = itemId,
-                    TimeStamp = itemAmazon.TimeStamp
+                    TimeStamp = timeStamp.ToString()
                 };
                 Console.WriteLine("Add new discount item, item.id: " + itemId);
 
@@ -351,6 +251,108 @@ namespace dsscountAPI
                 price.Save(connStr);
 
                 Thread.Sleep(9000);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
+            }
+        }
+
+        public static void UpdateExistingItem(Item itemAmazon)
+        {
+            try
+            {
+                var rawItem = RequestAmazonAPI(itemAmazon);
+
+                if (rawItem == null)
+                {
+                    Console.WriteLine();
+                    return;
+                }
+
+                var rawItemAttributes = rawItem.ItemAttributes;
+
+                Console.WriteLine("Found the item from Amazon API, ASIN ID: " + rawItem.ASIN);
+                               
+                decimal newPrice = 0;
+
+                if (rawItem.Offers != null && rawItem.Offers.Offer != null && rawItem.Offers.Offer[0] != null && rawItem.Offers.Offer[0].OfferAttributes != null && rawItem.Offers.Offer[0].OfferAttributes.Condition != null && rawItem.Offers.Offer[0].OfferAttributes.Condition == "New" && rawItem.Offers.Offer[0].OfferListing != null && rawItem.Offers.Offer[0].OfferListing[0] != null && rawItem.Offers.Offer[0].OfferListing[0].Price != null) // Take the price from offers
+                {
+                    newPrice = Convert.ToDecimal(rawItem.Offers.Offer[0].OfferListing[0].Price.Amount) / 100;
+                }
+                else
+                {
+                    if (rawItemAttributes.ListPrice == null)
+                    {
+                        Console.WriteLine("Unable to get the item price from Amazon API");
+                        return;
+                    }
+
+                    newPrice = Convert.ToDecimal(rawItemAttributes.ListPrice.Amount) / 100;
+                }
+
+                decimal latestPrice = new Price().GetLatestPrice(connStr, itemAmazon.ID);
+
+                Console.WriteLine("New price: " + newPrice + " and latest price: " + latestPrice);
+
+                if (newPrice != latestPrice)
+                {
+                    Console.WriteLine("Update the price for item, item.id: " + itemAmazon.ID);
+                    Price price = new Price
+                    {
+                        ItemID = itemAmazon.ID,
+                        Value = newPrice,
+                        Timestamp = DateTime.Now.ToString()
+                    };
+
+                    price.Save(connStr);
+
+                    DiscountItem dsItem = new DiscountItem().FindByItemID(connStr, itemAmazon.ID);
+
+                    if (newPrice < latestPrice) // Discount applied
+                    {
+                        Console.WriteLine("Discount happened for item, item.id: " + itemAmazon.ID);
+
+                        if (dsItem != null)
+                        {
+                            dsItem.NewPrice = newPrice;
+                            dsItem.OldPrice = latestPrice;
+                            dsItem.ChangePrice = latestPrice - newPrice;
+                            dsItem.Discount = (latestPrice - newPrice) / latestPrice;
+                            dsItem.TimeStamp = DateTime.Now.ToString();
+                            dsItem.ItemID = itemAmazon.ID;
+
+                            Console.WriteLine("Update existing discount item.");
+                            dsItem.Update(connStr);
+                        }
+                        else // The item might have been removed from discount list
+                        {
+                            DiscountItem newDsItem = new DiscountItem
+                            {
+                                NewPrice = newPrice,
+                                OldPrice = latestPrice,
+                                ChangePrice = latestPrice - newPrice,
+                                Discount = (latestPrice - newPrice) / latestPrice,
+                                TimeStamp = DateTime.Now.ToString(),
+                                ItemID = itemAmazon.ID
+                            };
+
+                            Console.WriteLine("Add new discount item.");
+                            dsItem.Save(connStr);
+                        }
+                        Console.WriteLine();
+                    }
+                    else if (newPrice > latestPrice) // Remove it from the discount list
+                    {
+                        if (dsItem != null)
+                        {
+                            Console.WriteLine("Remove the existing discount item.");
+                            dsItem.Delete(connStr);
+                        }
+                    }
+                }
+                Console.WriteLine();
             }
             catch (Exception ex)
             {
@@ -394,7 +396,7 @@ namespace dsscountAPI
                     Console.WriteLine("Could not find item list from amazon, item.AsinId: " + itemAmazon.AsinId);
                     return null;
                 }
-                Thread.Sleep(200);
+                Thread.Sleep(1000);
                 return item[0];
             }
             catch (Exception ex)
