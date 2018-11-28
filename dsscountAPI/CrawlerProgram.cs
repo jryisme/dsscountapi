@@ -1,5 +1,5 @@
 ﻿using DssCount;
-using Nager.AmazonProductAdvertising;
+using DssCount.Helper;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -142,7 +142,7 @@ namespace dsscountAPI
                     TimeStamp = DateTime.Now.ToString()
                 };
 
-                var rawItem = RequestAmazonAPI(itemAmazon);
+                var rawItem = PA_APIHelper.RequestAmazonAPI(itemAmazon);
 
                 if (rawItem == null)
                 {
@@ -197,9 +197,12 @@ namespace dsscountAPI
                 itemAmazon.ImageLarge = rawItem.LargeImage != null ? rawItem.LargeImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].LargeImage?.URL) : null) : null);
                 itemAmazon.ImageSmall = rawItem.SmallImage != null ? rawItem.SmallImage.URL : (rawItem.ImageSets != null ? (rawItem.ImageSets[0] != null ? (rawItem.ImageSets[0].SmallImage?.URL) : null) : null);
 
+                string titleCn = TranslationHelper.HandleRequest(titleDe);
+
                 Title title = new Title
                 {
-                    TitleDe = titleDe
+                    TitleDe = titleDe,
+                    TitleCn = titleCn
                 };
 
                 int titleId = title.Save(connStr);
@@ -215,13 +218,19 @@ namespace dsscountAPI
                     DescriptionDe2 = descriptionsDe != null ? (descriptionsDe.Length >= 2 ? descriptionsDe[1] : null) : null,
                     DescriptionDe3 = descriptionsDe != null ? (descriptionsDe.Length >= 3 ? descriptionsDe[2] : null) : null,
                     DescriptionDe4 = descriptionsDe != null ? (descriptionsDe.Length >= 4 ? descriptionsDe[3] : null) : null,
-                    DescriptionDe5 = descriptionsDe != null ? (descriptionsDe.Length >= 5 ? descriptionsDe[4] : null) : null
+                    DescriptionDe5 = descriptionsDe != null ? (descriptionsDe.Length >= 5 ? descriptionsDe[4] : null) : null,
+                    DescriptionCn1 = descriptionsDe != null ? (descriptionsDe.Length >= 1 ? (!string.IsNullOrEmpty(descriptionsDe[0]) ? TranslationHelper.HandleRequest(descriptionsDe[0]) : null) : null) : null,
+                    DescriptionCn2 = descriptionsDe != null ? (descriptionsDe.Length >= 2 ? (!string.IsNullOrEmpty(descriptionsDe[1]) ? TranslationHelper.HandleRequest(descriptionsDe[1]) : null) : null) : null,
+                    DescriptionCn3 = descriptionsDe != null ? (descriptionsDe.Length >= 3 ? (!string.IsNullOrEmpty(descriptionsDe[2]) ? TranslationHelper.HandleRequest(descriptionsDe[2]) : null) : null) : null,
+                    DescriptionCn4 = descriptionsDe != null ? (descriptionsDe.Length >= 4 ? (!string.IsNullOrEmpty(descriptionsDe[3]) ? TranslationHelper.HandleRequest(descriptionsDe[3]) : null) : null) : null,
+                    DescriptionCn5 = descriptionsDe != null ? (descriptionsDe.Length >= 5 ? (!string.IsNullOrEmpty(descriptionsDe[4]) ? TranslationHelper.HandleRequest(descriptionsDe[4]) : null) : null) : null
                 };
 
                 int descriptionId = description.Save(connStr);
 
                 itemAmazon.DescriptionID = descriptionId;
                 itemAmazon.TitleID = titleId;
+                itemAmazon.IsTranslatedCn = 1;
 
                 int itemId = itemAmazon.Save(connStr);
                 Console.WriteLine("Add new item, item.id: " + itemId);
@@ -233,7 +242,9 @@ namespace dsscountAPI
                     ChangePrice = changePrice,
                     Discount = discount,
                     ItemID = itemId,
-                    TimeStamp = timeStamp.ToString()
+                    TimeStamp = timeStamp.ToString(),
+                    CategoryID = categoryId
+
                 };
                 Console.WriteLine("Add new discount item, item.id: " + itemId);
 
@@ -263,7 +274,7 @@ namespace dsscountAPI
         {
             try
             {
-                var rawItem = RequestAmazonAPI(itemAmazon);
+                var rawItem = PA_APIHelper.RequestAmazonAPI(itemAmazon);
 
                 if (rawItem == null)
                 {
@@ -274,7 +285,7 @@ namespace dsscountAPI
                 var rawItemAttributes = rawItem.ItemAttributes;
 
                 Console.WriteLine("Found the item from Amazon API, ASIN ID: " + rawItem.ASIN);
-                               
+
                 decimal newPrice = 0;
 
                 if (rawItem.Offers != null && rawItem.Offers.Offer != null && rawItem.Offers.Offer[0] != null && rawItem.Offers.Offer[0].OfferAttributes != null && rawItem.Offers.Offer[0].OfferAttributes.Condition != null && rawItem.Offers.Offer[0].OfferAttributes.Condition == "New" && rawItem.Offers.Offer[0].OfferListing != null && rawItem.Offers.Offer[0].OfferListing[0] != null && rawItem.Offers.Offer[0].OfferListing[0].Price != null) // Take the price from offers
@@ -335,11 +346,12 @@ namespace dsscountAPI
                                 ChangePrice = latestPrice - newPrice,
                                 Discount = (latestPrice - newPrice) / latestPrice,
                                 TimeStamp = DateTime.Now.ToString(),
-                                ItemID = itemAmazon.ID
+                                ItemID = itemAmazon.ID,
+                                CategoryID = itemAmazon.CategoryID
                             };
 
                             Console.WriteLine("Add new discount item.");
-                            dsItem.Save(connStr);
+                            newDsItem.Save(connStr);
                         }
                         Console.WriteLine();
                     }
@@ -361,59 +373,13 @@ namespace dsscountAPI
             }
         }
 
-        private static Nager.AmazonProductAdvertising.Model.Item RequestAmazonAPI(Item itemAmazon)
-        {
-            try
-            {
-                var authentication = new AmazonAuthentication
-                {
-                    AccessKey = "AKIAI2PLS24TS5MED6FQ",
-                    SecretKey = "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"
-                };
-
-                var wrapper = new AmazonWrapper(authentication, AmazonEndpoint.DE, "dsscount-21");
-
-                var amazonResult = wrapper.Lookup(itemAmazon.AsinId);
-
-                if (amazonResult == null)
-                {
-                    Console.WriteLine("Could not get results from amazon, item.AsinId: " + itemAmazon.AsinId);
-                    return null;
-                }
-
-                var items = amazonResult.Items;
-
-                if (items == null)
-                {
-                    Console.WriteLine("Could not find items from amazon, item.AsinId: " + itemAmazon.AsinId);
-                    return null;
-                }
-
-                var item = items.Item;
-
-                if (item == null || item.Length < 1)
-                {
-                    Console.WriteLine("Could not find item list from amazon, item.AsinId: " + itemAmazon.AsinId);
-                    return null;
-                }
-                Thread.Sleep(1000);
-                return item[0];
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.ToString());
-                Console.WriteLine();
-                return null;
-            }
-        }
-
         private static void AlterExistingItem()
         {
             List<Item> items = new Item().GetAllAsinId(connStr);
 
             foreach (var item in items)
             {
-                var amazonItem = RequestAmazonAPI(item);
+                var amazonItem = PA_APIHelper.RequestAmazonAPI(item);
 
                 item.Image = amazonItem.LargeImage != null ? amazonItem.LargeImage.URL : amazonItem.ImageSets[0].LargeImage.URL;
 

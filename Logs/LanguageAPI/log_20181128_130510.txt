@@ -1,0 +1,42 @@
+Connstr: server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ
+
+Raw content: Philips LED 60W A60 E27 WW 230V FR ND 3BC/6
+Translated content: 
+
+Raw content: Sofort Warmweißes Licht (2700 K), wie bei herkömmlichen Glühlampen/ Halogenlampen
+Translated content: 돦鞶뷥薉⠠㈷〰⁫ 賥낱迤베鿧膯ꄯꓧ뒠꿦뎡胦ꂷ
+
+Raw content: Vereint die vertrauten Formen einer herrkömmlichen Glühlampe mit gemütlichem, warmweißem LED Licht
+Translated content: 鏥邈蛤몺곧蚟觧骄蓧Ɥꋧ誶蓥薷觨袒苣肁ꧦ骖蓧馽襬敤�
+
+Raw content: Modernste LED Technik - Extrem lange Lebensdauer von bis zu 15 Jahren
+Translated content: 裨뾛葬敤胦鲯ⷩ閿븱㗥릴蓨뚅뿧钟뷥醨�
+
+Raw content: Dimmen ohne Dimmer: Dieser Artikel ist auch als in drei Stufen dimmbare LED Lampe verfügbar, schauen sie einfach nach Philips SceneSwitch
+Translated content: ꃨ낃觥馨蓨낃觥馨㫦鲬蟨뾘郤뺛蛤뢉꟨낃襬敤꿯벌ꫩ鲀ꗧ鲋偨楬楰猠獣敮攠敳睩捨
+
+Raw content: Sie suchen eine smarte Alternative zur klassischen LED Lampe? Mit Philips Hue White bieten wir den einfachen Einstieg in die vernetzte Beleuchtung
+Translated content: ꣦颯ꛦ궣꣥꾻뻤베齬敤꿧骄뫨莽뿤뮣맦ꆈ齐桩汩灳⁨略⁷桩瑥郤뺛釨랯꟦颎蓥薥꣤몧�
+
+Raw content: Philips Hue White Ambiance LED Panelleuchte Aurelle, inkl. Dimmschalter, dimmbar, steuerbar via App, kompatibel mit Amazon Alexa, weiß
+Translated content: 
+
+Raw content: Leuchte inkl. Dimmschalter - Die Hue Aurelle Panelleuchte mit integriertem, energiesparenden LED-Modul kann über den im Lieferumfang enthaltenen Hue Dimmschalter oder per Hue App mit der separat erhältlichen Hue Bridge gesteuert werden
+Translated content: ꟦颎뻥ꒇ賥貅곣肂菥薉胥薳ⷥ뢦觩鮆部誂뵬敤ꇥ鶗葨略⁡畲敬賦鶿꟦颎뻥ꒇ꿩肚蟩馄ꛧ骄菥薉胥薳雥趕곩钀껧骄桵攠扲楤来귧骄桵攠慰烨뾛賦躧�
+
+Raw content: Um eine reibungslose Funktion zu generieren verwenden Sie bitte den beigelegten Philips Hue Dimmschalter. Die Philips Hue Leuchten sind nicht mit vorinstallierten Dimmern kompatibel
+Translated content: ꗨꚁ꟧钟뫧閅蓥誟뷯벌럤붿꣩骏蓧骄偨楬楰猠桵旨낃觥벀돣肂偨楬楰猠桵旧膯럤뢎蓨ꎅ蓨낃觥馨跥薼�
+
+Raw content: Farbtemperatur: 2.200 bis 6.500 Kelvin. Wählen Sie in der Hue App stufenlos zwischen warmweißem Licht zum Entspannen und Lesen bis hin zu kühlerem, helleren Licht zum Konzentrieren und Energie tanken
+Translated content: 닦뢩㨠㈲〰댶㔰ュ벀铦隇若鲨桵攠慰烤뢭賥릳釥鲰꣦骖닧馽觤릋듨뾛賩肉ꧤ뮥뻦鶾賩颅믯벌듥袰飥蚷臥辘껤뮥蛤뢭뻥誛賨莽�
+
+Raw content: Das sehr dünne Design der Aurelle Flat Panel eignet sich hervorragend für tiefe Decken und ist sowohl für die dekorative Anwendung im Wohnbereich, als auch für den funktionellen Gebrauch in der Küche und im Arbeitszimmer anwendbar
+Translated content: 慵牥氠晬慴⁰慮敬黥뢸蓧骄뻨꺡黥뢸若邈뇥龋ꧨ誱뿯벌ꋩ肂꣤몎迥꺅뫧骄藩ꖰ铧钨賤릟苧钨軥躨뿥銌ꛦ袿蓥誟뷧钨�
+
+Raw content: Funktioniert mit Amazon Alexa für Sprachsteuerung (Echo/ Echo Dot und notwendige Hue Bridge separat erhältlich). Das Smart Home Erlebnis für Ihr Zuhause.
+Translated content: 蹁浡穯渠䅬數懩薍裤붿꣤뮥鯨ꆌ귩龳꟥袶⠠散桯 ⁥捨漠摯瓥銌藨ꚁ葨略⁢物摧日趕곩钀긩苦馺뷥꺶藤붓賣肂
+
+Raw content: The Art of Metal Gear Solid I-IV
+Translated content: 
+
+Raw co

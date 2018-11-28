@@ -14,6 +14,7 @@ namespace DssCount
         public string TimeStamp { get; set; }
 
         public int ItemID { get; set; }
+        public int CategoryID { get; set; }
 
         public void Save(string connStr)
         {
@@ -22,8 +23,8 @@ namespace DssCount
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("INSERT INTO discount_item_amazon_camel_de(id, discount, newprice, oldprice, changeprice, timestamp, itemid) " +
-                             "VALUES(NULL, @discount, @newprice, @oldprice, @changeprice, @timestamp, @itemid);", conn))
+                    using (MySqlCommand cmd = new MySqlCommand("INSERT INTO discount_item_amazon_camel_de(id, discount, newprice, oldprice, changeprice, timestamp, itemid, categoryid) " +
+                             "VALUES(NULL, @discount, @newprice, @oldprice, @changeprice, @timestamp, @itemid, @categoryid);", conn))
                     {
                         cmd.Parameters.AddWithValue("@discount", Discount);
                         cmd.Parameters.AddWithValue("@newprice", NewPrice);
@@ -31,6 +32,7 @@ namespace DssCount
                         cmd.Parameters.AddWithValue("@changeprice", ChangePrice);
                         cmd.Parameters.AddWithValue("@timestamp", TimeStamp);
                         cmd.Parameters.AddWithValue("@itemid", ItemID);
+                        cmd.Parameters.AddWithValue("@categoryid", CategoryID);
 
                         cmd.ExecuteNonQuery();
                     }

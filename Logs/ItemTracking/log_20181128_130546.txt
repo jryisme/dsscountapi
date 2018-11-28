@@ -1,0 +1,124 @@
+Connstr: server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ
+
+Found the item from Amazon API, ASIN ID: B071JBLDGK
+New price: 103.86 and latest price: 103.86
+
+Found the item from Amazon API, ASIN ID: B01LLKFWHI
+New price: 13.14 and latest price: 13.14
+
+Found the item from Amazon API, ASIN ID: B00AK061US
+New price: 10.44 and latest price: 10.44
+
+Found the item from Amazon API, ASIN ID: B00511NGF4
+New price: 2.07 and latest price: 2.07
+
+Found the item from Amazon API, ASIN ID: B00URDQ27A
+New price: 12.77 and latest price: 12.77
+
+Found the item from Amazon API, ASIN ID: B00N8WGC54
+New price: 20.99 and latest price: 20.99
+
+Found the item from Amazon API, ASIN ID: B00TOFFU3O
+New price: 17.99 and latest price: 17.99
+
+Found the item from Amazon API, ASIN ID: B00NPY40K4
+New price: 79.95 and latest price: 79.95
+
+Found the item from Amazon API, ASIN ID: B00JUQVUAO
+New price: 68.38 and latest price: 68.38
+
+Found the item from Amazon API, ASIN ID: B004DWLYL0
+New price: 11.4 and latest price: 11.40
+
+Found the item from Amazon API, ASIN ID: B01497IKGK
+New price: 29.41 and latest price: 29.41
+
+Found the item from Amazon API, ASIN ID: B00URDQ5YK
+New price: 22.53 and latest price: 22.53
+
+Found the item from Amazon API, ASIN ID: B00K18365M
+New price: 6.98 and latest price: 6.98
+
+Found the item from Amazon API, ASIN ID: B00252EIK4
+New price: 8.38 and latest price: 8.38
+
+Found the item from Amazon API, ASIN ID: B01MQQBIHG
+New price: 16.94 and latest price: 16.94
+
+Found the item from Amazon API, ASIN ID: B001URA2M8
+New price: 28.91 and latest price: 28.91
+
+Found the item from Amazon API, ASIN ID: B01F8NTLGC
+New price: 72.7 and latest price: 72.70
+
+Found the item from Amazon API, ASIN ID: B014VV8M5I
+New price: 63.64 and latest price: 63.64
+
+Found the item from Amazon API, ASIN ID: B01068BTIM
+New price: 63.76 and latest price: 63.76
+
+Found the item from Amazon API, ASIN ID: B00J2X2UR2
+New price: 40.9 and latest price: 40.90
+
+Found the item from Amazon API, ASIN ID: B00LNF6YK6
+New price: 64.59 and latest price: 64.59
+
+Found the item from Amazon API, ASIN ID: B00HF2XGYI
+New price: 25.88 and latest price: 25.88
+
+Found the item from Amazon API, ASIN ID: B00103AEP2
+New price: 9 and latest price: 9.00
+
+Found the item from Amazon API, ASIN ID: B01G6C18EC
+New price: 8.45 and latest price: 8.45
+
+Found the item from Amazon API, ASIN ID: B00E6QIV50
+New price: 84.99 and latest price: 84.99
+
+Found the item from Amazon API, ASIN ID: B077TH9YDD
+New price: 154.98 and latest price: 154.98
+
+Found the item from Amazon API, ASIN ID: B077YDGGF6
+New price: 236.48 and latest price: 236.48
+
+Found the item from Amazon API, ASIN ID: B0162253JW
+New price: 159.08 and latest price: 159.08
+
+Found the item from Amazon API, ASIN ID: B00LMV9LYC
+New price: 18.8 and latest price: 18.80
+
+Found the item from Amazon API, ASIN ID: B00F2MQ258
+New price: 39.99 and latest price: 39.99
+
+Found the item from Amazon API, ASIN ID: B0721K4SBW
+New price: 198.54 and latest price: 198.54
+
+Found the item from Amazon API, ASIN ID: B01MCSS5T3
+New price: 132.99 and latest price: 132.99
+
+Found the item from Amazon API, ASIN ID: B01898D9AW
+New price: 19.99 and latest price: 19.99
+
+Found the item from Amazon API, ASIN ID: B076VT4W55
+New price: 309.29 and latest price: 309.29
+
+Found the item from Amazon API, ASIN ID: B003XU6SQY
+New price: 18.74 and latest price: 18.74
+
+Found the item from Amazon API, ASIN ID: B00NFW2FCG
+New price: 2.83 and latest price: 2.83
+
+Found the item from Amazon API, ASIN ID: B00G9XLNRG
+New price: 2.95 and latest price: 2.95
+
+Found the item from Amazon API, ASIN ID: B00GUKH6FQ
+New price: 20.99 and latest price: 20.99
+
+Found the item from Amazon API, ASIN ID: B016224UD2
+New price: 364.69 and latest price: 364.69
+
+Found the item from Amazon API, ASIN ID: B00BCC8A8E
+New price: 7.34 and latest price: 7.34
+
+Found the item from Amazon API, ASIN ID: B01N39V0I4
+New price: 15.5 and latest 
