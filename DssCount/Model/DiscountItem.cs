@@ -129,6 +129,28 @@ namespace DssCount
             }
         }
 
+        public void RemoveOldAndBadItems(string connStr)
+        {
+            try
+            {
+                using (MySqlConnection conn = new MySqlConnection(connStr))
+                {
+                    conn.Open();
+                    using (MySqlCommand cmd = new MySqlCommand("delete from dsscount.discount_item_amazon_camel_de where timestamp<@time or oldprice-newprice!=changeprice or changeprice/oldprice*100>discount+1 or changeprice/oldprice*100<discount-1;", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@time", DateTime.Now.AddDays(-7));
+
+                        cmd.ExecuteNonQuery();
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Console.WriteLine();
+            }
+        }
+
         //public List<Item> GetAllAsinId(string connStr)
         //{
         //    try

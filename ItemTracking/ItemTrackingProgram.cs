@@ -21,6 +21,8 @@ namespace ItemTracking
                 Console.WriteLine("Connstr: " + connStr);
                 Console.WriteLine();
 
+                new DiscountItem().RemoveOldAndBadItems(connStr);
+
                 List<Item> items = new Item().GetAllAsinId(connStr);
 
                 foreach (var item in items)
