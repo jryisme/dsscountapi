@@ -136,7 +136,7 @@ namespace DssCount
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("delete from dsscount.discount_item_amazon_camel_de where timestamp<@time or oldprice-newprice!=changeprice or changeprice/oldprice*100>discount+1 or changeprice/oldprice*100<discount-1;", conn))
+                    using (MySqlCommand cmd = new MySqlCommand("delete from dsscount.discount_item_amazon_camel_de where oldprice-newprice!=changeprice or changeprice/oldprice*100>discount+1 or changeprice/oldprice*100<discount-1;", conn))//Unnecessary code:timestamp<@time or 
                     {
                         cmd.Parameters.AddWithValue("@time", DateTime.Now.AddDays(-7));
 

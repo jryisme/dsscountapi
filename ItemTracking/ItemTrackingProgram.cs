@@ -27,7 +27,7 @@ namespace ItemTracking
 
                 foreach (var item in items)
                 {
-                    CrawlerProgram.UpdateExistingItem(item);
+                    CrawlerProgram.UpdateExistingAmazonItem(item);
                 }
             }
         }

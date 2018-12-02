@@ -17,8 +17,8 @@ namespace dsscountAPI
 
         static void Main(string[] args)
         {
-            string path = @"C:\xampp\htdocs\dsscountAPI\Logs\DssCountCrawler\log_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".txt";
-            using (StreamWriter writer = new StreamWriter(path))
+            string amazonPath = @"C:\xampp\htdocs\dsscountAPI\Logs\DssCountCrawler\log_" + DateTime.Now.ToString("yyyyMMdd_HHmmss") + ".txt";
+            using (StreamWriter writer = new StreamWriter(amazonPath))
             {
                 Console.SetOut(writer);
 
@@ -91,12 +91,12 @@ namespace dsscountAPI
                                 if (dbItem != null) // The item is already there, check the price from amazon
                                 {
                                     Console.WriteLine("The item is already existed, check its price to update. Item.id: " + dbItem.ID + " . Item.ASINID: " + dbItem.AsinId);
-                                    UpdateExistingItem(dbItem);
+                                    UpdateExistingAmazonItem(dbItem);
                                     Console.WriteLine();
                                 }
                                 else
                                 {
-                                    SaveNewItem(keyDe, categoryId, pageNo, item, asinId);
+                                    SaveNewAmazonItem(keyDe, categoryId, pageNo, item, asinId);
                                 }
                             }
                         }
@@ -111,7 +111,7 @@ namespace dsscountAPI
             }
         }
 
-        private static void SaveNewItem(string keyDe, int categoryId, int pageNo, XmlNode item, string asinId)
+        private static void SaveNewAmazonItem(string keyDe, int categoryId, int pageNo, XmlNode item, string asinId)
         {
             try
             {
@@ -270,7 +270,7 @@ namespace dsscountAPI
             }
         }
 
-        public static void UpdateExistingItem(Item itemAmazon)
+        public static void UpdateExistingAmazonItem(Item itemAmazon)
         {
             try
             {
