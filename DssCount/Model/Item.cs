@@ -154,7 +154,7 @@ namespace DssCount
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("select item_amazon_camel_de.id, title.id, title.titlede, description.id, descriptionde1, descriptionde2, descriptionde3, descriptionde4, descriptionde5 from dsscount.item_amazon_camel_de join dsscount.title join dsscount.description where descriptionid = description.id and titleid = title.id and item_amazon_camel_de.id>1129;", conn))//istranslatedcn = 0
+                    using (MySqlCommand cmd = new MySqlCommand("select item_amazon_camel_de.id, title.id, title.titlede, description.id, descriptionde1, descriptionde2, descriptionde3, descriptionde4, descriptionde5 from dsscount.item_amazon_camel_de join dsscount.title join dsscount.description where descriptionid = description.id and titleid = title.id and (item_amazon_camel_de.istranslatedcn = 0 or title.titlecn is null or title.titlecn='');", conn))
                     {
                         using (MySqlDataReader dataReader = cmd.ExecuteReader())
                         {

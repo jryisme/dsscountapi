@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Security.Cryptography;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace DssCount.Helper
@@ -41,6 +42,8 @@ namespace DssCount.Helper
                     stringContent.Headers.ContentType = new MediaTypeHeaderValue("application/json");
 
                     var res = client.PostAsync(reqUrl, stringContent).Result;
+                    
+                    Thread.Sleep(500);
 
                     if (res.IsSuccessStatusCode)
                     {

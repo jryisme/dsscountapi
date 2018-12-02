@@ -1,0 +1,20 @@
+Connstr: server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ
+
+Raw content: Osram Smart+ ZigBee RGB LED Strip Streifen Erweiterung, Warmweiß, tageslicht (2000K - 6500K), dimmbar, Länge 2x60cm, Alexa kompatibel
+Translated content: 潳牡洠獭慲琠⬠婩杂敥⁒䝂⁬敤ꛧ誶ꧥ놕賧馽귥貖賦鞥褨′〰〠欠ⴠ㘵〰⁫ 賥辯菥벏賩閿꘲砠㘰飧놳豁汥硡볥꺹
+
+Raw content: ZigBee Produkt - Erweitern Sie das Basis Set Smart+ Flex RGBW mit dieser Flex Extension Multicolor auf bis zu 6 Meter
+Translated content: 婩杂敥꟥鎁ⷤ붿꣦궤髨覲晬數⁥硴敮獩潮虳整⁳浡牴‫⁦汥砠牧扷闥몧ꧥ놕냩閿븶�
+
+Raw content: Flexible, einfache Montage - selbstklebender und trennbare LED Streifen Erweiterung für eine indirekte Beleuchtung ganz nach Ihren Wünschen
+Translated content: 뗦뒻臧꺀闧骄ꫧ뮄藣肁꿦讆롬敤ꇦ覩闯벌꿥꺞냦芨胥뢌鯧骄듦躥꟦颎
+
+Raw content: Geringer Stromverbrauch - energiesparende 7,5 W LED mit Energieeffizienzklasse A und einer Lichtleistung von 600 Lumen
+Translated content: 軥誟韢肓㜮㕷⁬敤⁡꟨莽裯벌㘰ユ떁軧膯触肧�
+
+Raw content: Individuelle Lichtatmosphäre - Steuern der Farbtemperatur von warmweiß (2000 K) bis tageslichtweiß (6500 K), Dimmen und RGB Farbwechsel - ganz einfach über die App, per Sprachkommando oder auch aus der Ferne
+Translated content: 闤뢪꿥薉꟦낔ⷩ肚蟥몔꣧ꢋ迣肁귩龳꟥袶雨뾜详隹迯벌믦鶾꟥袶닦뢩⠠㈰〰⁫ 돦鞥觧馽눨‶㔰〠欠⧣肁菥薉꣥銌則䋩ꊜ닥辘�
+
+Raw content: lange Lebensdauer und sofort volles Licht - Der LED Streifen leuchtet bis zu 20000 Stunden (ca. 20 Jahre), hat keine Aufwärmzeit und nur eine geringe Wärmeentwicklung
+Translated content: 藩閿뿧钨뿥醽賥벀뇥足꣧骄꣥薉ⴠ汥擦鶡껨떷뛩鞴뿨뺾㈰〰迦鞶⣧몦먲〰ュ낏똩舲ュ릴⧯벌ꇦ鲉ꃧ莭뛩鞴賥辪觥낑迧莭�
+

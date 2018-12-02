@@ -1,0 +1,1015 @@
+Connstr: server=dsscount-paris.crmnj9nnruyg.eu-west-3.rds.amazonaws.com;user=dsscount;database=dsscount;port=3306;password=XWWZw3fRGo36QyoQ
+
+Found the item from Amazon API, ASIN ID: B071JBLDGK
+New price: 103.86 and latest price: 103.86
+
+Found the item from Amazon API, ASIN ID: B01LLKFWHI
+New price: 13.14 and latest price: 13.14
+
+Found the item from Amazon API, ASIN ID: B00AK061US
+New price: 10.44 and latest price: 10.44
+
+Found the item from Amazon API, ASIN ID: B00511NGF4
+New price: 2.03 and latest price: 2.03
+
+Found the item from Amazon API, ASIN ID: B00URDQ27A
+New price: 12.77 and latest price: 12.77
+
+Found the item from Amazon API, ASIN ID: B00N8WGC54
+New price: 20.99 and latest price: 20.99
+
+Found the item from Amazon API, ASIN ID: B00TOFFU3O
+New price: 22.98 and latest price: 22.98
+
+Found the item from Amazon API, ASIN ID: B00NPY40K4
+New price: 74.99 and latest price: 74.99
+
+Found the item from Amazon API, ASIN ID: B00JUQVUAO
+New price: 68.38 and latest price: 68.38
+
+Found the item from Amazon API, ASIN ID: B004DWLYL0
+New price: 11.4 and latest price: 11.40
+
+Found the item from Amazon API, ASIN ID: B01497IKGK
+New price: 29.41 and latest price: 29.41
+
+Found the item from Amazon API, ASIN ID: B00URDQ5YK
+New price: 24.7 and latest price: 24.70
+
+Found the item from Amazon API, ASIN ID: B00K18365M
+New price: 6.98 and latest price: 6.98
+
+Found the item from Amazon API, ASIN ID: B00252EIK4
+New price: 8.38 and latest price: 8.38
+
+Found the item from Amazon API, ASIN ID: B01MQQBIHG
+New price: 16.64 and latest price: 16.64
+
+Found the item from Amazon API, ASIN ID: B001URA2M8
+New price: 28.91 and latest price: 28.91
+
+Found the item from Amazon API, ASIN ID: B01F8NTLGC
+New price: 72.7 and latest price: 72.70
+
+Found the item from Amazon API, ASIN ID: B014VV8M5I
+New price: 63.64 and latest price: 63.64
+
+Found the item from Amazon API, ASIN ID: B01068BTIM
+New price: 63.76 and latest price: 63.76
+
+Found the item from Amazon API, ASIN ID: B00J2X2UR2
+New price: 40.9 and latest price: 40.90
+
+Found the item from Amazon API, ASIN ID: B00LNF6YK6
+New price: 64.59 and latest price: 64.59
+
+Found the item from Amazon API, ASIN ID: B00HF2XGYI
+New price: 25.88 and latest price: 25.88
+
+Found the item from Amazon API, ASIN ID: B00103AEP2
+New price: 9 and latest price: 9.00
+
+Found the item from Amazon API, ASIN ID: B01G6C18EC
+New price: 8.45 and latest price: 8.45
+
+Found the item from Amazon API, ASIN ID: B00E6QIV50
+New price: 84.99 and latest price: 84.99
+
+Found the item from Amazon API, ASIN ID: B077TH9YDD
+New price: 154.98 and latest price: 154.98
+
+Found the item from Amazon API, ASIN ID: B077YDGGF6
+New price: 236.48 and latest price: 236.48
+
+Found the item from Amazon API, ASIN ID: B0162253JW
+New price: 159.08 and latest price: 159.08
+
+Found the item from Amazon API, ASIN ID: B00LMV9LYC
+New price: 18.8 and latest price: 18.80
+
+Found the item from Amazon API, ASIN ID: B00F2MQ258
+New price: 39.99 and latest price: 39.99
+
+Found the item from Amazon API, ASIN ID: B0721K4SBW
+New price: 198.54 and latest price: 198.54
+
+Found the item from Amazon API, ASIN ID: B01MCSS5T3
+New price: 132.99 and latest price: 132.99
+
+Found the item from Amazon API, ASIN ID: B01898D9AW
+New price: 20.99 and latest price: 20.99
+
+Found the item from Amazon API, ASIN ID: B076VT4W55
+New price: 309.29 and latest price: 309.29
+
+Found the item from Amazon API, ASIN ID: B003XU6SQY
+New price: 18.55 and latest price: 18.74
+Update the price for item, item.id: 35
+Discount happened for item, item.id: 35
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B00NFW2FCG
+New price: 4.39 and latest price: 2.83
+Update the price for item, item.id: 36
+Remove the existing discount item.
+
+Found the item from Amazon API, ASIN ID: B00G9XLNRG
+New price: 2.95 and latest price: 2.95
+
+Found the item from Amazon API, ASIN ID: B00GUKH6FQ
+New price: 20.99 and latest price: 20.99
+
+Found the item from Amazon API, ASIN ID: B016224UD2
+New price: 364.69 and latest price: 364.69
+
+Found the item from Amazon API, ASIN ID: B00BCC8A8E
+New price: 7.34 and latest price: 7.34
+
+Found the item from Amazon API, ASIN ID: B01N39V0I4
+New price: 15.5 and latest price: 15.50
+
+Found the item from Amazon API, ASIN ID: B00PHE0YSC
+New price: 161.99 and latest price: 161.99
+
+Found the item from Amazon API, ASIN ID: B00531AOTS
+New price: 108.29 and latest price: 108.29
+
+Found the item from Amazon API, ASIN ID: B002IKDXH2
+New price: 282.79 and latest price: 282.79
+
+Found the item from Amazon API, ASIN ID: B07FYSF4F1
+New price: 123.95 and latest price: 123.95
+
+Found the item from Amazon API, ASIN ID: B07BRS1N19
+New price: 215.1 and latest price: 215.10
+
+Found the item from Amazon API, ASIN ID: B00XPNUO3C
+New price: 28.99 and latest price: 28.99
+
+Found the item from Amazon API, ASIN ID: B008A1BYMO
+New price: 120.5 and latest price: 120.50
+
+Found the item from Amazon API, ASIN ID: B00NVLZNAM
+New price: 60.59 and latest price: 60.59
+
+Found the item from Amazon API, ASIN ID: B007C1TE98
+New price: 104.02 and latest price: 104.02
+
+Found the item from Amazon API, ASIN ID: B07798C527
+New price: 19.56 and latest price: 19.56
+
+Found the item from Amazon API, ASIN ID: B01MZ0K5FD
+New price: 13.39 and latest price: 13.39
+
+Found the item from Amazon API, ASIN ID: B00PRS1AM2
+New price: 7.45 and latest price: 7.45
+
+Found the item from Amazon API, ASIN ID: B005LV17HS
+New price: 3.79 and latest price: 3.79
+
+Found the item from Amazon API, ASIN ID: B004YVDI9Q
+New price: 8.19 and latest price: 8.19
+
+Found the item from Amazon API, ASIN ID: B00MIZ7TPY
+New price: 10.79 and latest price: 10.79
+
+Found the item from Amazon API, ASIN ID: B01MSEQYY9
+New price: 159.2 and latest price: 159.20
+
+Found the item from Amazon API, ASIN ID: B07CBCLMG8
+New price: 75.04 and latest price: 75.04
+
+Found the item from Amazon API, ASIN ID: B019JHQG3Y
+New price: 33.99 and latest price: 33.99
+
+Found the item from Amazon API, ASIN ID: B00G8X06RU
+New price: 61.57 and latest price: 61.57
+
+Found the item from Amazon API, ASIN ID: B005MNBU22
+New price: 21.99 and latest price: 21.99
+
+Found the item from Amazon API, ASIN ID: B003VELF60
+New price: 53.3 and latest price: 53.30
+
+Found the item from Amazon API, ASIN ID: B000K2PE3G
+New price: 39.99 and latest price: 39.99
+
+Found the item from Amazon API, ASIN ID: B00C2RCDC2
+New price: 349.3 and latest price: 349.30
+
+Found the item from Amazon API, ASIN ID: B001T7QJ9O
+New price: 39.6 and latest price: 39.60
+
+Found the item from Amazon API, ASIN ID: B000KJP2LI
+New price: 2.37 and latest price: 2.37
+
+Found the item from Amazon API, ASIN ID: B0056ZOANW
+New price: 38.18 and latest price: 38.18
+
+Found the item from Amazon API, ASIN ID: B002LIFEOQ
+New price: 31.96 and latest price: 31.96
+
+Found the item from Amazon API, ASIN ID: B01BD2CGJG
+New price: 13.74 and latest price: 13.74
+
+Found the item from Amazon API, ASIN ID: B016D51J9Q
+New price: 36.12 and latest price: 40.61
+Update the price for item, item.id: 70
+Discount happened for item, item.id: 70
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B00FKT7MCU
+New price: 30.92 and latest price: 30.92
+
+Found the item from Amazon API, ASIN ID: B00I03ZFMW
+New price: 23.47 and latest price: 30.00
+Update the price for item, item.id: 72
+Discount happened for item, item.id: 72
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B00UR7CU5E
+New price: 22.5 and latest price: 22.60
+Update the price for item, item.id: 73
+Discount happened for item, item.id: 73
+Update existing discount item.
+
+
+Found the item from Amazon API, ASIN ID: B07C2B35LY
+New price: 19.81 and latest price: 19.97
+Update the price for item, item.id: 74
+Discount happened for item, item.id: 74
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B01AC6NO18
+New price: 13.78 and latest price: 13.78
+
+Found the item from Amazon API, ASIN ID: B07D6TLQD2
+New price: 77.51 and latest price: 77.51
+
+Found the item from Amazon API, ASIN ID: B0193B4QHE
+New price: 10.03 and latest price: 10.03
+
+Found the item from Amazon API, ASIN ID: B01N7O82XS
+New price: 41.51 and latest price: 41.51
+
+Found the item from Amazon API, ASIN ID: B073RFQDDR
+New price: 10 and latest price: 10.00
+
+Found the item from Amazon API, ASIN ID: B01N4K9JWH
+New price: 32.42 and latest price: 32.42
+
+Found the item from Amazon API, ASIN ID: B00UBOL9UU
+New price: 29.99 and latest price: 29.99
+
+Found the item from Amazon API, ASIN ID: B01NBQXJZP
+New price: 69.99 and latest price: 69.99
+
+Found the item from Amazon API, ASIN ID: B000P5T6MS
+New price: 7.34 and latest price: 7.49
+Update the price for item, item.id: 83
+Discount happened for item, item.id: 83
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B01A6ZFMH4
+New price: 29.45 and latest price: 29.31
+Update the price for item, item.id: 84
+Remove the existing discount item.
+
+Found the item from Amazon API, ASIN ID: B01I79B6N0
+New price: 65.08 and latest price: 68.25
+Update the price for item, item.id: 85
+Discount happened for item, item.id: 85
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B01I79BSOW
+New price: 65 and latest price: 65.00
+
+Found the item from Amazon API, ASIN ID: B079JXZ4S1
+New price: 193.18 and latest price: 193.18
+
+Found the item from Amazon API, ASIN ID: B079JZVWWZ
+New price: 185.45 and latest price: 185.45
+
+Found the item from Amazon API, ASIN ID: B016QM567W
+New price: 24.75 and latest price: 24.75
+
+Found the item from Amazon API, ASIN ID: B01I79BQRQ
+New price: 79.5 and latest price: 79.50
+
+Found the item from Amazon API, ASIN ID: B01HTGB7HM
+New price: 99.95 and latest price: 99.95
+
+Found the item from Amazon API, ASIN ID: B07CZ28S25
+New price: 99.95 and latest price: 99.95
+
+Found the item from Amazon API, ASIN ID: B00MO5FFEU
+New price: 97.3 and latest price: 97.30
+
+Found the item from Amazon API, ASIN ID: B008E8SIIQ
+New price: 52.37 and latest price: 52.37
+
+Found the item from Amazon API, ASIN ID: B00VMQH3CO
+New price: 19.8 and latest price: 19.80
+
+Found the item from Amazon API, ASIN ID: B076HQSW3V
+New price: 30.94 and latest price: 30.90
+Update the price for item, item.id: 96
+Remove the existing discount item.
+
+Found the item from Amazon API, ASIN ID: B00IWNCKHS
+New price: 26.85 and latest price: 27.12
+Update the price for item, item.id: 97
+Discount happened for item, item.id: 97
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B075MHMPRL
+New price: 114.71 and latest price: 114.71
+
+Found the item from Amazon API, ASIN ID: B01NCJKKOQ
+New price: 102.98 and latest price: 102.98
+
+Found the item from Amazon API, ASIN ID: B01J9WQP76
+New price: 100 and latest price: 104.99
+Update the price for item, item.id: 100
+Discount happened for item, item.id: 100
+Update existing discount item.
+
+
+Found the item from Amazon API, ASIN ID: B06XC2MPSG
+New price: 76.94 and latest price: 76.94
+
+Found the item from Amazon API, ASIN ID: B076H4PTTV
+New price: 125.39 and latest price: 125.39
+
+Found the item from Amazon API, ASIN ID: B06XCF2JW1
+New price: 90.98 and latest price: 90.98
+
+Found the item from Amazon API, ASIN ID: B019Z6OGVS
+New price: 16.95 and latest price: 16.95
+
+Found the item from Amazon API, ASIN ID: B00U8NTSGG
+New price: 142.86 and latest price: 143.38
+Update the price for item, item.id: 105
+Discount happened for item, item.id: 105
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B06XJ7TKVB
+New price: 34.99 and latest price: 34.99
+
+Found the item from Amazon API, ASIN ID: B06WW8CQW1
+New price: 63.09 and latest price: 63.09
+
+Found the item from Amazon API, ASIN ID: B01KY02MTW
+New price: 29.99 and latest price: 29.99
+
+Found the item from Amazon API, ASIN ID: B073FT1QT2
+New price: 21.59 and latest price: 21.59
+
+Found the item from Amazon API, ASIN ID: B00HZVQ8DA
+New price: 56.99 and latest price: 56.99
+
+Found the item from Amazon API, ASIN ID: B0046H8W7G
+New price: 18.01 and latest price: 18.01
+
+Found the item from Amazon API, ASIN ID: B01LVXIM42
+New price: 45.4 and latest price: 45.40
+
+Found the item from Amazon API, ASIN ID: B074PZKX4C
+New price: 34.52 and latest price: 34.52
+
+Found the item from Amazon API, ASIN ID: B00P8L6172
+New price: 20.99 and latest price: 20.99
+
+Found the item from Amazon API, ASIN ID: B0747QCBD1
+New price: 7.99 and latest price: 7.99
+
+Found the item from Amazon API, ASIN ID: B07FY1PXC5
+New price: 199.99 and latest price: 199.99
+
+Found the item from Amazon API, ASIN ID: 1506705812
+New price: 47.99 and latest price: 47.99
+
+Found the item from Amazon API, ASIN ID: B00L3RWW64
+New price: 11.99 and latest price: 11.99
+
+Found the item from Amazon API, ASIN ID: B00508YSUA
+New price: 9.39 and latest price: 9.39
+
+Found the item from Amazon API, ASIN ID: B06W5NBFQZ
+New price: 19.49 and latest price: 19.49
+
+Found the item from Amazon API, ASIN ID: B002J4UK5A
+New price: 48.99 and latest price: 48.99
+
+Found the item from Amazon API, ASIN ID: B001EXFWLO
+New price: 24.49 and latest price: 24.49
+
+Found the item from Amazon API, ASIN ID: B071FC9NL2
+New price: 53.5 and latest price: 53.50
+
+Found the item from Amazon API, ASIN ID: B009VGRVDI
+New price: 114.36 and latest price: 114.36
+
+Found the item from Amazon API, ASIN ID: 8883707184
+New price: 13.99 and latest price: 13.99
+
+Found the item from Amazon API, ASIN ID: B003EDB5UE
+New price: 6.89 and latest price: 6.89
+
+Found the item from Amazon API, ASIN ID: B00AZWYUA4
+New price: 22.42 and latest price: 16.26
+Update the price for item, item.id: 127
+Remove the existing discount item.
+
+Found the item from Amazon API, ASIN ID: B072LVGLFH
+New price: 31.95 and latest price: 27.05
+Update the price for item, item.id: 128
+Remove the existing discount item.
+
+Found the item from Amazon API, ASIN ID: B00OT5K5N4
+New price: 11.21 and latest price: 8.85
+Update the price for item, item.id: 129
+Remove the existing discount item.
+
+Found the item from Amazon API, ASIN ID: B00DNTQHWA
+New price: 14.98 and latest price: 14.98
+
+Found the item from Amazon API, ASIN ID: B01I2366QS
+New price: 161.99 and latest price: 161.99
+
+Found the item from Amazon API, ASIN ID: B014VB4N4M
+New price: 111.75 and latest price: 111.99
+Update the price for item, item.id: 132
+Discount happened for item, item.id: 132
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B00KIHXS7W
+New price: 63.99 and latest price: 63.99
+
+Found the item from Amazon API, ASIN ID: B01485SEQ4
+New price: 258.83 and latest price: 258.83
+
+Found the item from Amazon API, ASIN ID: B079S3JY49
+New price: 349.98 and latest price: 349.98
+
+Found the item from Amazon API, ASIN ID: B078SVRH4B
+New price: 79.99 and latest price: 79.99
+
+Found the item from Amazon API, ASIN ID: B07CFY9SHX
+New price: 515.99 and latest price: 515.99
+
+Found the item from Amazon API, ASIN ID: B07C9H8MHD
+New price: 74.99 and latest price: 74.99
+
+Found the item from Amazon API, ASIN ID: B07G36HBY4
+New price: 699 and latest price: 699.00
+
+Found the item from Amazon API, ASIN ID: B07G6PNH6W
+New price: 277.1 and latest price: 259.00
+Update the price for item, item.id: 140
+
+Found the item from Amazon API, ASIN ID: B07DVGST72
+New price: 1507.9 and latest price: 1507.90
+
+Found the item from Amazon API, ASIN ID: B071WP15PD
+New price: 2279 and latest price: 2279.00
+
+Found the item from Amazon API, ASIN ID: B07BRCLMTS
+New price: 254.66 and latest price: 254.86
+Update the price for item, item.id: 143
+Discount happened for item, item.id: 143
+Update existing discount item.
+
+
+Found the item from Amazon API, ASIN ID: B0764HDSXF
+New price: 164.9 and latest price: 164.90
+
+Found the item from Amazon API, ASIN ID: B06X8WL6LB
+New price: 139 and latest price: 139.00
+
+Found the item from Amazon API, ASIN ID: B073NTCT4R
+New price: 175 and latest price: 175.00
+
+Found the item from Amazon API, ASIN ID: B0793LFLZQ
+New price: 348.9 and latest price: 348.90
+
+Found the item from Amazon API, ASIN ID: B01D1HJIZQ
+New price: 141 and latest price: 141.00
+
+Found the item from Amazon API, ASIN ID: B06WP5YCX6
+New price: 172.89 and latest price: 172.89
+
+Found the item from Amazon API, ASIN ID: B00NJUT306
+New price: 25.51 and latest price: 25.51
+
+Found the item from Amazon API, ASIN ID: B008VCFXI8
+New price: 2.78 and latest price: 2.78
+
+Found the item from Amazon API, ASIN ID: B07F6HHW1T
+New price: 373.95 and latest price: 373.95
+
+Found the item from Amazon API, ASIN ID: B0797WNNMZ
+New price: 294 and latest price: 294.00
+
+Found the item from Amazon API, ASIN ID: B07C9PZVP8
+New price: 1999 and latest price: 1999.00
+
+Found the item from Amazon API, ASIN ID: B07GJFF168
+New price: 223.87 and latest price: 223.87
+
+Found the item from Amazon API, ASIN ID: B078TTSB8V
+New price: 388.78 and latest price: 389.02
+Update the price for item, item.id: 156
+Discount happened for item, item.id: 156
+Update existing discount item.
+
+
+Found the item from Amazon API, ASIN ID: B071KNKBQ1
+New price: 64.58 and latest price: 63.70
+Update the price for item, item.id: 157
+
+Found the item from Amazon API, ASIN ID: B078WYRR9S
+New price: 24.9 and latest price: 24.90
+
+Found the item from Amazon API, ASIN ID: B0792QNM6H
+New price: 93.99 and latest price: 93.99
+
+Found the item from Amazon API, ASIN ID: B07761HD5B
+New price: 8.23 and latest price: 8.23
+
+Found the item from Amazon API, ASIN ID: B076PGM4Y5
+New price: 53.99 and latest price: 53.99
+
+Found the item from Amazon API, ASIN ID: B0763BS899
+New price: 164.12 and latest price: 164.12
+
+Found the item from Amazon API, ASIN ID: B019FREJOQ
+New price: 65.53 and latest price: 65.53
+
+Found the item from Amazon API, ASIN ID: B01N5P755B
+New price: 68.9 and latest price: 67.90
+Update the price for item, item.id: 164
+
+Found the item from Amazon API, ASIN ID: B01NBBA093
+New price: 59.99 and latest price: 59.99
+
+Found the item from Amazon API, ASIN ID: B01KPYGBR6
+New price: 68 and latest price: 68.00
+
+Found the item from Amazon API, ASIN ID: B00V1QT6SY
+New price: 58.9 and latest price: 58.90
+
+Found the item from Amazon API, ASIN ID: B00BF9HYZ4
+New price: 23.61 and latest price: 23.60
+Update the price for item, item.id: 168
+
+Found the item from Amazon API, ASIN ID: B07D6XF1N6
+New price: 699 and latest price: 699.00
+
+Found the item from Amazon API, ASIN ID: B07DLX9V8V
+New price: 152 and latest price: 152.00
+
+Found the item from Amazon API, ASIN ID: B07F733RYH
+New price: 407.79 and latest price: 407.79
+
+Found the item from Amazon API, ASIN ID: B07FXLY5JL
+New price: 287.99 and latest price: 287.99
+
+Found the item from Amazon API, ASIN ID: B07HHL9CQB
+New price: 1827.68 and latest price: 1827.68
+
+Found the item from Amazon API, ASIN ID: B078STRHBX
+New price: 211.99 and latest price: 211.99
+
+Found the item from Amazon API, ASIN ID: B0734V4SSR
+New price: 54.99 and latest price: 54.99
+
+Found the item from Amazon API, ASIN ID: B07CZ2HNX8
+New price: 2019.14 and latest price: 2019.14
+
+Found the item from Amazon API, ASIN ID: B01M7STFAJ
+New price: 54.9 and latest price: 54.90
+
+Found the item from Amazon API, ASIN ID: B01M3R9IFH
+New price: 96.98 and latest price: 96.98
+
+Found the item from Amazon API, ASIN ID: B01F97W9ZM
+New price: 80.99 and latest price: 80.99
+
+Found the item from Amazon API, ASIN ID: B01KO0T5VA
+New price: 95.98 and latest price: 95.98
+
+Found the item from Amazon API, ASIN ID: B07747FR44
+New price: 119.99 and latest price: 119.99
+
+Found the item from Amazon API, ASIN ID: B07HYBV9TV
+New price: 298.99 and latest price: 298.99
+
+Found the item from Amazon API, ASIN ID: B078PP3V1J
+New price: 256.58 and latest price: 256.58
+
+Found the item from Amazon API, ASIN ID: B07CTHWKQC
+New price: 399 and latest price: 399.00
+
+Found the item from Amazon API, ASIN ID: B0784SLQM6
+New price: 64.9 and latest price: 64.90
+
+Found the item from Amazon API, ASIN ID: B074CBH3R4
+New price: 597.99 and latest price: 597.99
+
+Found the item from Amazon API, ASIN ID: B072LX7WLP
+New price: 137.59 and latest price: 137.59
+
+Found the item from Amazon API, ASIN ID: B06XC5BVJV
+New price: 79.21 and latest price: 79.21
+
+Found the item from Amazon API, ASIN ID: B01D1J5DT4
+New price: 107.4 and latest price: 107.40
+
+Found the item from Amazon API, ASIN ID: B00MFO0KCC
+New price: 196 and latest price: 196.00
+
+Found the item from Amazon API, ASIN ID: B07D3N95GS
+New price: 339.95 and latest price: 339.95
+
+Found the item from Amazon API, ASIN ID: B00S1LNNFY
+New price: 174.9 and latest price: 174.90
+
+Found the item from Amazon API, ASIN ID: B01N1S72M5
+New price: 52.25 and latest price: 52.25
+
+Found the item from Amazon API, ASIN ID: B00IAEDT60
+New price: 151.99 and latest price: 151.99
+
+Found the item from Amazon API, ASIN ID: B07HJJQZ81
+New price: 22.76 and latest price: 20.49
+Update the price for item, item.id: 195
+
+Found the item from Amazon API, ASIN ID: B07D66G47G
+New price: 39.99 and latest price: 39.99
+
+Found the item from Amazon API, ASIN ID: B07FD3JT3N
+New price: 299.99 and latest price: 299.99
+
+Found the item from Amazon API, ASIN ID: B01BCN7HFO
+New price: 52.99 and latest price: 52.99
+
+Found the item from Amazon API, ASIN ID: B01N95RN0D
+New price: 69.99 and latest price: 69.99
+
+Found the item from Amazon API, ASIN ID: B071KFZVRT
+New price: 192.47 and latest price: 192.47
+
+Found the item from Amazon API, ASIN ID: B07DJPXSKP
+New price: 10.95 and latest price: 10.95
+
+Found the item from Amazon API, ASIN ID: B01IN8LBS0
+New price: 264.99 and latest price: 264.99
+
+Found the item from Amazon API, ASIN ID: B07DGJDJZQ
+New price: 174.99 and latest price: 174.99
+
+Found the item from Amazon API, ASIN ID: B01BHS0QZM
+New price: 35 and latest price: 35.00
+
+Found the item from Amazon API, ASIN ID: B07BZK7B9K
+New price: 189.99 and latest price: 189.99
+
+Found the item from Amazon API, ASIN ID: B07FSHNVDF
+New price: 228.01 and latest price: 228.01
+
+Found the item from Amazon API, ASIN ID: B073WGYSF9
+New price: 63.33 and latest price: 63.33
+
+Found the item from Amazon API, ASIN ID: B07HH6NQBL
+New price: 104.42 and latest price: 104.94
+Update the price for item, item.id: 208
+Discount happened for item, item.id: 208
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B01MS78T6G
+New price: 20.14 and latest price: 20.14
+
+Found the item from Amazon API, ASIN ID: B008LQZP5K
+New price: 24.58 and latest price: 24.75
+Update the price for item, item.id: 210
+Discount happened for item, item.id: 210
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B00CBEJITW
+New price: 16.99 and latest price: 16.99
+
+Found the item from Amazon API, ASIN ID: B00FOCBBJI
+New price: 5.13 and latest price: 5.13
+
+Found the item from Amazon API, ASIN ID: B0044PRYG0
+New price: 23.96 and latest price: 23.96
+
+Found the item from Amazon API, ASIN ID: B006C0S5PO
+New price: 17.9 and latest price: 17.90
+
+Found the item from Amazon API, ASIN ID: B000C1VTK2
+New price: 23.9 and latest price: 23.90
+
+Found the item from Amazon API, ASIN ID: B077447TBN
+New price: 59.98 and latest price: 59.98
+
+Found the item from Amazon API, ASIN ID: B01MXHM0SQ
+New price: 151.41 and latest price: 151.41
+
+Found the item from Amazon API, ASIN ID: B07B599CB1
+New price: 84.99 and latest price: 84.99
+
+Found the item from Amazon API, ASIN ID: B01BHN7SDK
+New price: 29.95 and latest price: 29.95
+
+Found the item from Amazon API, ASIN ID: B079H8G39B
+New price: 27.99 and latest price: 27.99
+
+Found the item from Amazon API, ASIN ID: B0144MDQ32
+New price: 2.05 and latest price: 2.05
+
+Found the item from Amazon API, ASIN ID: B000XQ4FIY
+New price: 16.1 and latest price: 16.10
+
+Found the item from Amazon API, ASIN ID: B01LEHG37G
+New price: 11.16 and latest price: 11.16
+
+Found the item from Amazon API, ASIN ID: B07GJGFJZK
+New price: 459 and latest price: 459.00
+
+Found the item from Amazon API, ASIN ID: B0722PQ5VS
+New price: 593.55 and latest price: 593.55
+
+Found the item from Amazon API, ASIN ID: B01M1RP6U5
+New price: 428.9 and latest price: 428.90
+
+Found the item from Amazon API, ASIN ID: B007T5SXGC
+New price: 55 and latest price: 55.00
+
+Found the item from Amazon API, ASIN ID: B01LWXUQ37
+New price: 478.9 and latest price: 466.00
+Update the price for item, item.id: 228
+
+Found the item from Amazon API, ASIN ID: B0758GB858
+New price: 395 and latest price: 395.00
+
+Found the item from Amazon API, ASIN ID: B073RNSPTD
+New price: 932.15 and latest price: 932.15
+
+Found the item from Amazon API, ASIN ID: B01M1S5UD7
+New price: 599 and latest price: 599.00
+
+Found the item from Amazon API, ASIN ID: B01BGSBT1S
+New price: 600.99 and latest price: 600.99
+
+Found the item from Amazon API, ASIN ID: B01LALYPCG
+New price: 668.9 and latest price: 668.90
+
+Found the item from Amazon API, ASIN ID: B00UTAEA3Y
+New price: 526.97 and latest price: 526.97
+
+Found the item from Amazon API, ASIN ID: B017NSHEKK
+New price: 299 and latest price: 299.00
+
+Found the item from Amazon API, ASIN ID: B00WK6MYI8
+New price: 215.89 and latest price: 215.89
+
+Found the item from Amazon API, ASIN ID: B07CZ2SZ47
+New price: 294.3 and latest price: 294.30
+
+Found the item from Amazon API, ASIN ID: B07HHGJZ8B
+New price: 329 and latest price: 329.00
+
+Found the item from Amazon API, ASIN ID: B0794LJL4S
+New price: 899 and latest price: 899.00
+
+Found the item from Amazon API, ASIN ID: B01KCRNFVG
+New price: 198.93 and latest price: 198.93
+
+Found the item from Amazon API, ASIN ID: B07CHL6XN6
+New price: 544.99 and latest price: 544.99
+
+Found the item from Amazon API, ASIN ID: B07CHQHFDZ
+New price: 499 and latest price: 494.00
+Update the price for item, item.id: 242
+
+Found the item from Amazon API, ASIN ID: B07DKN4T5R
+New price: 333 and latest price: 333.00
+
+Found the item from Amazon API, ASIN ID: B0150DT0JI
+New price: 156.99 and latest price: 156.99
+
+Found the item from Amazon API, ASIN ID: B00B4D3UZY
+New price: 52.9 and latest price: 52.90
+
+Found the item from Amazon API, ASIN ID: B00B4D3WXY
+New price: 69.9 and latest price: 69.90
+
+Found the item from Amazon API, ASIN ID: B07B6C32JX
+New price: 279 and latest price: 279.00
+
+Found the item from Amazon API, ASIN ID: B075LYDD7Z
+New price: 898 and latest price: 898.00
+
+Found the item from Amazon API, ASIN ID: B075LXNK24
+New price: 849 and latest price: 849.00
+
+Found the item from Amazon API, ASIN ID: B01M8N91QG
+New price: 279 and latest price: 279.00
+
+Found the item from Amazon API, ASIN ID: B01JD039NM
+New price: 1399 and latest price: 1399.00
+
+Found the item from Amazon API, ASIN ID: B073JYC4XM
+New price: 22 and latest price: 23.99
+Update the price for item, item.id: 252
+Discount happened for item, item.id: 252
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B07DLJGD7S
+New price: 499.95 and latest price: 499.95
+
+Found the item from Amazon API, ASIN ID: B01A8QUKVY
+New price: 81.82 and latest price: 81.82
+
+Found the item from Amazon API, ASIN ID: B0763341F8
+New price: 114.95 and latest price: 112.99
+Update the price for item, item.id: 255
+
+Found the item from Amazon API, ASIN ID: B07HJPB5KV
+New price: 306 and latest price: 306.00
+
+Found the item from Amazon API, ASIN ID: B00FZLBURG
+New price: 173.85 and latest price: 173.85
+
+Found the item from Amazon API, ASIN ID: B07CZS7T17
+New price: 214.04 and latest price: 214.04
+
+Found the item from Amazon API, ASIN ID: B075LWF4C3
+New price: 1039.9 and latest price: 1039.90
+
+Found the item from Amazon API, ASIN ID: B07CRHF5BZ
+New price: 364.99 and latest price: 364.99
+
+Found the item from Amazon API, ASIN ID: B079YS5Q9K
+New price: 553.98 and latest price: 553.98
+
+Found the item from Amazon API, ASIN ID: B07B68N35M
+New price: 312.9 and latest price: 312.90
+
+Found the item from Amazon API, ASIN ID: B01GTZ9LWW
+New price: 132.95 and latest price: 124.99
+Update the price for item, item.id: 263
+
+Found the item from Amazon API, ASIN ID: B01C2XJWZ6
+New price: 1144.52 and latest price: 1144.52
+
+Found the item from Amazon API, ASIN ID: B079876N49
+New price: 169.73 and latest price: 169.73
+
+Found the item from Amazon API, ASIN ID: B06ZZNC2L9
+New price: 86.2 and latest price: 86.20
+
+Found the item from Amazon API, ASIN ID: B079894FBD
+New price: 166 and latest price: 166.00
+
+Found the item from Amazon API, ASIN ID: B07CN24WB3
+New price: 335.64 and latest price: 335.64
+
+Found the item from Amazon API, ASIN ID: B01J5RHD58
+New price: 30.99 and latest price: 30.99
+
+Found the item from Amazon API, ASIN ID: B01BTZFM0W
+New price: 283.9 and latest price: 283.90
+
+Found the item from Amazon API, ASIN ID: B06XHRDF78
+New price: 384.5 and latest price: 423.00
+Update the price for item, item.id: 271
+Discount happened for item, item.id: 271
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B06ZZ2LC7Y
+New price: 87.5 and latest price: 87.50
+
+Found the item from Amazon API, ASIN ID: B079YSBTY7
+New price: 495.99 and latest price: 495.99
+
+Found the item from Amazon API, ASIN ID: B01HW0582U
+New price: 291.15 and latest price: 291.15
+
+Found the item from Amazon API, ASIN ID: B00EO4A7L0
+New price: 46.9 and latest price: 46.90
+
+Found the item from Amazon API, ASIN ID: B074RNRM2B
+New price: 117.86 and latest price: 117.86
+
+Found the item from Amazon API, ASIN ID: B079YZ7ZS4
+New price: 459.17 and latest price: 459.17
+
+Found the item from Amazon API, ASIN ID: B01LW36C3M
+New price: 195.16 and latest price: 200.33
+Update the price for item, item.id: 278
+Discount happened for item, item.id: 278
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B017IM6NFS
+New price: 699 and latest price: 699.00
+
+Found the item from Amazon API, ASIN ID: B01LX73Z1W
+New price: 449 and latest price: 455.50
+Update the price for item, item.id: 280
+Discount happened for item, item.id: 280
+Add new discount item.
+
+
+Found the item from Amazon API, ASIN ID: B01GIVX1YG
+New price: 7.99 and latest price: 7.99
+
+Found the item from Amazon API, ASIN ID: B07G3VKSJB
+New price: 305.9 and latest price: 305.90
+
+Found the item from Amazon API, ASIN ID: B078KJ4LNL
+New price: 323.9 and latest price: 323.90
+
+Found the item from Amazon API, ASIN ID: B01N6OODPL
+New price: 384.95 and latest price: 384.95
+
+Found the item from Amazon API, ASIN ID: B06Y41QH3R
+New price: 249 and latest price: 249.00
+
+Found the item from Amazon API, ASIN ID: B011Z7DM2E
+New price: 150.76 and latest price: 150.76
+
+Found the item from Amazon API, ASIN ID: B01NBSGJ80
+New price: 383.85 and latest price: 383.85
+
+Found the item from Amazon API, ASIN ID: B074PTW8ZS
+New price: 284 and latest price: 284.00
+
+Found the item from Amazon API, ASIN ID: B013QWFJWC
+New price: 459 and latest price: 459.00
+
+Found the item from Amazon API, ASIN ID: B013QWFVQ6
+New price: 60.78 and latest price: 60.78
+
+Found the item from Amazon API, ASIN ID: B00Q5GUXEQ
+New price: 77.44 and latest price: 77.44
+
+Found the item from Amazon API, ASIN ID: B00NIYNU66
+New price: 22.85 and latest price: 22.85
+
+Found the item from Amazon API, ASIN ID: B00HZV9TGS
+New price: 8.83 and latest price: 8.75
+Update the price for item, item.id: 293
+
+Found the item from Amazon API, ASIN ID: B074PYMN11
+New price: 313.07 and latest price: 309.95
+Update the price for item, item.id: 294
+
+Found the item from Amazon API, ASIN ID: B074Q144G3
+New price: 286 and latest price: 286.00
+
+Found the item from Amazon API, ASIN ID: B00W46KQ5W
+New price: 287.65 and latest price: 287.65
+
+Found the item from Amazon API, ASIN ID: B004QIFD0E
+New price: 34.9 and latest price: 34.90
+
+Found the item from Amazon API, ASIN ID: B002DW99H8
+New price: 82.28 and latest price: 82.28
+
+Found the item from Amazon API, ASIN ID: B001JIQQM8
+New price: 9.87 and latest price: 9.87
+
+Found the item from Amazon API, ASIN ID: B075LW7S4R
+New price: 217 and latest price: 217.00
+
+Found the item from Amazon API, ASIN ID: B07HCFCQHS
+New price: 30.74 and latest price: 30.74
+
+Found the item from Amazon API, ASIN ID: B01LZ6SEQ4
+New price: 315.9 and latest price: 278.99
+Update the price for item, item.id: 302
+
+Found the item from Amazon API, ASIN ID: B07GZW3VYM
+New price: 999 and latest price: 999.00
+
+Found the item from Amazon API, ASIN ID: B073NXQ35H
+New price: 8 and latest price: 8.00
+
+Found the item from Amazon API, ASIN I
