@@ -1,0 +1,5283 @@
+Connstr: server=localhost;user=root;database=dsscount;port=3306;password=
+
+Start a new category, category: 8; query key: 58058
+
+Page number: 1
+Ebay ID: 263196758411
+The item is already existed.
+
+Ebay ID: 142294630417
+The item is already existed.
+
+Ebay ID: 132854296311
+The item is already existed.
+
+Ebay ID: 123134197137
+The item is already existed.
+
+Ebay ID: 273395818419
+The item is already existed.
+
+Ebay ID: 142880091410
+The item is already existed.
+
+Ebay ID: 261366771997
+The item is already existed.
+
+Ebay ID: 382530835058
+The item is already existed.
+
+Ebay ID: 401221621152
+The item is already existed.
+
+Ebay ID: 183412149276
+The item is already existed.
+
+Ebay ID: 253948256156
+The item is already existed.
+
+Ebay ID: 191841736125
+The item is already existed.
+
+Ebay ID: 272762059450
+The item is already existed.
+
+Ebay ID: 201556975045
+The item is already existed.
+
+Ebay ID: 173445770013
+The item is already existed.
+
+Ebay ID: 153214659270
+The item is already existed.
+
+Ebay ID: 183550604418
+The item is already existed.
+
+Ebay ID: 292359625897
+The item is already existed.
+
+Ebay ID: 130606437659
+The item is already existed.
+
+Ebay ID: 153015489815
+The item is already existed.
+Add new discount ebay item, item.id: 3317
+
+Ebay ID: 281296039852
+The item is already existed.
+
+Ebay ID: 162139345457
+The item is already existed.
+Add new discount ebay item, item.id: 3326
+
+Ebay ID: 183494595604
+The item is already existed.
+The latest saved price: 499.00 is not the same as the latest price: 599. Update the ds item.
+
+Ebay ID: 332578565540
+The item is already existed.
+
+Ebay ID: 132218903407
+The item is already existed.
+
+Ebay ID: 173322214983
+The item is already existed.
+
+Ebay ID: 173627297602
+The item is already existed.
+
+Ebay ID: 302793629574
+The item is already existed.
+
+Ebay ID: 401611916369
+The item is already existed.
+
+Ebay ID: 392174292852
+The item is already existed.
+
+Ebay ID: 183278833166
+The item is already existed.
+
+Ebay ID: 162414679893
+The item is already existed.
+
+Ebay ID: 152569507708
+The item is already existed.
+The latest saved price: 539.00 is not the same as the latest price: 639. Update the ds item.
+
+Ebay ID: 251093684717
+The item is already existed.
+
+Ebay ID: 183316234890
+The item is already existed.
+The latest saved price: 555.00 is not the same as the latest price: 666. Update the ds item.
+
+Ebay ID: 352483175598
+The item is already existed.
+
+Ebay ID: 401626464596
+The item is already existed.
+
+Ebay ID: 351057286607
+The item is already existed.
+
+Ebay ID: 273559253025
+The item is already existed.
+
+Ebay ID: 351057321955
+The item is already existed.
+
+Ebay ID: 152868541935
+The item is already existed.
+
+Ebay ID: 181602056607
+The item is already existed.
+
+Ebay ID: 262946512354
+The item is already existed.
+
+Ebay ID: 380819400523
+The item is already existed.
+
+Ebay ID: 250806009324
+The item is already existed.
+
+Ebay ID: 122140735548
+The item is already existed.
+
+Ebay ID: 381671742515
+The item is already existed.
+
+Ebay ID: 263997718306
+The item is already existed.
+
+Ebay ID: 232553469831
+The item is already existed.
+
+Ebay ID: 122465195707
+The item is already existed.
+
+Ebay ID: 173242235543
+The item is already existed.
+
+Ebay ID: 132853420085
+The item is already existed.
+
+Ebay ID: 223128942014
+The item is already existed.
+
+Ebay ID: 183324867229
+The item is already existed.
+
+Ebay ID: 401582049766
+The item is already existed.
+
+Ebay ID: 301875838542
+The item is already existed.
+Add new discount ebay item, item.id: 4332
+
+Ebay ID: 163330568683
+The item is already existed.
+
+Ebay ID: 183055218579
+The item is already existed.
+
+Ebay ID: 182938592923
+The item is already existed.
+
+Ebay ID: 302616415017
+The item is already existed.
+
+Ebay ID: 262217774380
+The item is already existed.
+
+Ebay ID: 401356218824
+The item is already existed.
+
+Ebay ID: 162886548863
+The item is already existed.
+
+Ebay ID: 163039379975
+The item is already existed.
+Add new discount ebay item, item.id: 3336
+
+Ebay ID: 232998072408
+The item is already existed.
+
+Ebay ID: 223026560305
+The item is already existed.
+
+Ebay ID: 401035724669
+The item is already existed.
+
+Ebay ID: 182075892545
+The item is already existed.
+
+Ebay ID: 192628088920
+The item is already existed.
+
+Ebay ID: 263458514069
+The item is already existed.
+
+Ebay ID: 231497300417
+The item is already existed.
+
+Ebay ID: 351246376737
+The item is already existed.
+
+Ebay ID: 132868562349
+The item is already existed.
+
+Ebay ID: 351434825875
+The item is already existed.
+Add new discount ebay item, item.id: 3467
+
+Ebay ID: 401193429298
+The item is already existed.
+
+Ebay ID: 332615613604
+The item is already existed.
+
+Ebay ID: 350594795609
+The item is already existed.
+
+Ebay ID: 222571188290
+The item is already existed.
+
+Ebay ID: 262750769180
+The item is already existed.
+
+Ebay ID: 264034620618
+The item is already existed.
+
+Ebay ID: 173619578795
+The item is already existed.
+
+Ebay ID: 191841763485
+The item is already existed.
+
+Ebay ID: 232206891647
+The item is already existed.
+
+Ebay ID: 232177319214
+The item is already existed.
+
+Ebay ID: 291787252470
+The item is already existed.
+
+Ebay ID: 351433064238
+The item is already existed.
+
+Ebay ID: 232944419849
+The item is already existed.
+
+Ebay ID: 153081346916
+The item is already existed.
+
+Ebay ID: 252346411749
+The item is already existed.
+
+Ebay ID: 292608713832
+The item is already existed.
+
+Ebay ID: 232953726946
+The item is already existed.
+
+Ebay ID: 261487120997
+The item is already existed.
+
+Ebay ID: 401105666179
+The item is already existed.
+
+Ebay ID: 132316113448
+The item is already existed.
+
+Ebay ID: 152077670445
+The item is already existed.
+
+Ebay ID: 152136195586
+The item is already existed.
+
+Ebay ID: 302671052036
+The item is already existed.
+
+Ebay ID: 283039099554
+The item is already existed.
+
+Ebay ID: 232240922478
+The item is already existed.
+
+Ebay ID: 182794854534
+The item is already existed.
+
+Ebay ID: 382558430559
+The item is already existed.
+Add new discount ebay item, item.id: 3428
+
+Ebay ID: 352437652366
+The item is already existed.
+
+Ebay ID: 322912408051
+The item is already existed.
+
+Ebay ID: 282299262282
+The item is already existed.
+
+Ebay ID: 142984130515
+The item is already existed.
+
+Ebay ID: 191841743207
+The item is already existed.
+
+Ebay ID: 223233215243
+The item is already existed.
+
+Ebay ID: 253282740836
+The item is already existed.
+
+Ebay ID: 183031267492
+The item is already existed.
+
+Ebay ID: 391697451715
+The item is already existed.
+
+Ebay ID: 132868563638
+The item is already existed.
+
+Ebay ID: 132868565089
+The item is already existed.
+
+Ebay ID: 192699754912
+The item is already existed.
+
+Ebay ID: 273149536161
+The item is already existed.
+Add new discount ebay item, item.id: 3429
+
+Ebay ID: 162769130633
+The item is already existed.
+
+Ebay ID: 312300357661
+The item is already existed.
+
+Ebay ID: 322342883430
+The item is already existed.
+
+Ebay ID: 222190805659
+The item is already existed.
+
+Ebay ID: 251143606641
+The item is already existed.
+
+Ebay ID: 163371128842
+The item is already existed.
+
+Ebay ID: 202475000806
+The item is already existed.
+
+Ebay ID: 382140496082
+The item is already existed.
+
+Ebay ID: 252477757153
+The item is already existed.
+
+Ebay ID: 332854009581
+Raw content: ASUS GeForce® RTX 2080 ROG Strix Gaming OC 8GB (90YV0C60-M0NA00) (NVIDIA, Grafik
+Translated content: 
+
+Add new ebay item, item.id: 6945
+Add new discount ebay item, item.id: 6945
+Add new ebay price, item.id: 6945
+
+Ebay ID: 261006896498
+The item is already existed.
+
+Ebay ID: 233009427314
+The item is already existed.
+
+Ebay ID: 153224501616
+The item is already existed.
+
+Ebay ID: 131398606195
+The item is already existed.
+
+Ebay ID: 253091865125
+The item is already existed.
+Add new discount ebay item, item.id: 3444
+
+Ebay ID: 142638413220
+The item is already existed.
+
+Ebay ID: 391994572297
+The item is already existed.
+
+Ebay ID: 132539262656
+The item is already existed.
+
+Ebay ID: 192595425258
+The item is already existed.
+
+Ebay ID: 132701871931
+The item is already existed.
+
+Ebay ID: 253969337230
+The item is already existed.
+
+Ebay ID: 371974842047
+The item is already existed.
+
+Ebay ID: 381945314489
+The item is already existed.
+
+Ebay ID: 401273763184
+The item is already existed.
+
+Ebay ID: 220586788823
+The item is already existed.
+
+Ebay ID: 310736185691
+The item is already existed.
+Add new discount ebay item, item.id: 3347
+
+Ebay ID: 391877790080
+The item is already existed.
+
+Ebay ID: 401039778109
+The item is already existed.
+
+Ebay ID: 222167877703
+The item is already existed.
+
+Ebay ID: 250859875747
+The item is already existed.
+
+Ebay ID: 252539237985
+The item is already existed.
+
+Ebay ID: 192211762511
+The item is already existed.
+
+Ebay ID: 372146586852
+The item is already existed.
+
+Ebay ID: 382019884551
+The item is already existed.
+
+Ebay ID: 233005350367
+The item is already existed.
+
+Ebay ID: 381499512828
+The item is already existed.
+
+Ebay ID: 252496250187
+The item is already existed.
+
+Ebay ID: 132811959825
+The item is already existed.
+
+Ebay ID: 123077484779
+The item is already existed.
+
+Ebay ID: 263594105985
+The item is already existed.
+
+Ebay ID: 262443048061
+The item is already existed.
+
+Ebay ID: 162767726755
+The item is already existed.
+
+Ebay ID: 123354245230
+The item is already existed.
+
+Ebay ID: 183336505317
+The item is already existed.
+
+Ebay ID: 282962619229
+The item is already existed.
+
+Ebay ID: 162886564071
+The item is already existed.
+
+Ebay ID: 250806009298
+The item is already existed.
+
+Ebay ID: 152419083671
+The item is already existed.
+
+Ebay ID: 192335539552
+The item is already existed.
+
+Ebay ID: 401356049502
+The item is already existed.
+
+Ebay ID: 142124810826
+The item is already existed.
+
+Ebay ID: 400618518406
+The item is already existed.
+
+Ebay ID: 132586251817
+The item is already existed.
+
+Ebay ID: 292411651263
+The item is already existed.
+
+Ebay ID: 400950812248
+The item is already existed.
+
+Ebay ID: 263840820756
+The item is already existed.
+
+Ebay ID: 191843844259
+The item is already existed.
+
+Ebay ID: 172466959132
+The item is already existed.
+
+Ebay ID: 382579014576
+The item is already existed.
+
+Ebay ID: 112868194662
+The item is already existed.
+
+Ebay ID: 311575401037
+The item is already existed.
+
+Ebay ID: 183458327620
+The item is already existed.
+
+Ebay ID: 332452794038
+The item is already existed.
+
+Ebay ID: 253692952641
+The item is already existed.
+
+Ebay ID: 222987898784
+The item is already existed.
+
+Ebay ID: 230887459278
+The item is already existed.
+
+Ebay ID: 263724844297
+The item is already existed.
+
+Ebay ID: 361584963229
+The item is already existed.
+
+Ebay ID: 352209408226
+The item is already existed.
+
+Ebay ID: 132820444551
+The item is already existed.
+
+Ebay ID: 302478033651
+The item is already existed.
+
+Ebay ID: 330413307404
+The item is already existed.
+
+Ebay ID: 192724558608
+The item is already existed.
+
+Ebay ID: 152389648815
+The item is already existed.
+
+Ebay ID: 222163145308
+The item is already existed.
+
+Ebay ID: 352034314775
+The item is already existed.
+
+Ebay ID: 262414495389
+The item is already existed.
+
+Ebay ID: 301062499212
+The item is already existed.
+
+Ebay ID: 173629706866
+The item is already existed.
+
+Ebay ID: 173632440860
+The item is already existed.
+
+Ebay ID: 302873545589
+The item is already existed.
+
+Ebay ID: 202466449235
+The item is already existed.
+
+Ebay ID: 302179351031
+The item is already existed.
+
+Ebay ID: 381529843578
+The item is already existed.
+
+Ebay ID: 263028200432
+The item is already existed.
+
+Page number: 2
+Ebay ID: 222611986736
+The item is already existed.
+
+Ebay ID: 332352930392
+The item is already existed.
+
+Ebay ID: 331566831871
+The item is already existed.
+
+Ebay ID: 331566750791
+The item is already existed.
+
+Ebay ID: 283001547105
+The item is already existed.
+
+Ebay ID: 283140129028
+The item is already existed.
+
+Ebay ID: 332899405736
+The item is already existed.
+
+Ebay ID: 263722061782
+The item is already existed.
+
+Ebay ID: 282459169182
+The item is already existed.
+
+Ebay ID: 381543296541
+The item is already existed.
+
+Ebay ID: 141534528949
+The item is already existed.
+
+Ebay ID: 142104410165
+The item is already existed.
+
+Ebay ID: 371974850651
+The item is already existed.
+
+Ebay ID: 132814478701
+The item is already existed.
+
+Ebay ID: 371862471136
+The item is already existed.
+
+Ebay ID: 123418847790
+The item is already existed.
+
+Ebay ID: 253756793908
+The item is already existed.
+
+Ebay ID: 262678520137
+The item is already existed.
+
+Ebay ID: 273394062037
+The item is already existed.
+Add new discount ebay item, item.id: 4223
+
+Ebay ID: 401281895908
+The item is already existed.
+
+Ebay ID: 381701780426
+The item is already existed.
+
+Ebay ID: 273467841084
+The item is already existed.
+
+Ebay ID: 263945979291
+The item is already existed.
+
+Ebay ID: 401627291525
+The item is already existed.
+
+Ebay ID: 302679633645
+The item is already existed.
+
+Ebay ID: 382249316924
+The item is already existed.
+
+Ebay ID: 302762681039
+The item is already existed.
+
+Ebay ID: 401523541533
+The item is already existed.
+
+Ebay ID: 372503506196
+The item is already existed.
+
+Ebay ID: 192526662834
+The item is already existed.
+
+Ebay ID: 302134271902
+The item is already existed.
+
+Ebay ID: 132847444425
+The item is already existed.
+
+Ebay ID: 290929906750
+The item is already existed.
+
+Ebay ID: 272543545593
+The item is already existed.
+
+Ebay ID: 173616784143
+The item is already existed.
+
+Ebay ID: 153059390152
+The item is already existed.
+
+Ebay ID: 352518309988
+The item is already existed.
+
+Ebay ID: 153167600108
+The item is already existed.
+
+Ebay ID: 172793492717
+The item is already existed.
+
+Ebay ID: 332520236558
+The item is already existed.
+
+Ebay ID: 223202154607
+The item is already existed.
+
+Ebay ID: 361644868137
+The item is already existed.
+
+Ebay ID: 282957383320
+The item is already existed.
+
+Ebay ID: 372500789252
+The item is already existed.
+
+Ebay ID: 153094956719
+The item is already existed.
+
+Ebay ID: 141534532449
+The item is already existed.
+
+Ebay ID: 263775034308
+The item is already existed.
+
+Ebay ID: 362450960143
+The item is already existed.
+
+Ebay ID: 153113288209
+The item is already existed.
+
+Ebay ID: 161867072027
+The item is already existed.
+
+Ebay ID: 401619921959
+The item is already existed.
+
+Ebay ID: 132710154806
+The item is already existed.
+
+Ebay ID: 113260423077
+The item is already existed.
+
+Ebay ID: 311178302488
+The item is already existed.
+
+Ebay ID: 132233168080
+The item is already existed.
+
+Ebay ID: 151915165495
+The item is already existed.
+
+Ebay ID: 253049609608
+The item is already existed.
+
+Ebay ID: 172842920964
+The item is already existed.
+
+Ebay ID: 172684993891
+The item is already existed.
+
+Ebay ID: 263914991655
+The item is already existed.
+
+Ebay ID: 173500318180
+The item is already existed.
+
+Ebay ID: 253837907784
+The item is already existed.
+
+Ebay ID: 332207613167
+The item is already existed.
+
+Ebay ID: 173635181048
+The item is already existed.
+
+Ebay ID: 262298033821
+The item is already existed.
+Add new discount ebay item, item.id: 3424
+
+Ebay ID: 352354975472
+The item is already existed.
+
+Ebay ID: 142407496505
+The item is already existed.
+
+Ebay ID: 113034388947
+The item is already existed.
+
+Ebay ID: 264043074968
+The item is already existed.
+
+Ebay ID: 401587407780
+The item is already existed.
+
+Ebay ID: 382108912945
+The item is already existed.
+
+Ebay ID: 172414234835
+The item is already existed.
+
+Ebay ID: 132789600564
+The item is already existed.
+
+Ebay ID: 173435051581
+The item is already existed.
+
+Ebay ID: 152229273367
+The item is already existed.
+
+Ebay ID: 122112161067
+The item is already existed.
+
+Ebay ID: 400834178545
+The item is already existed.
+
+Ebay ID: 302752316747
+The item is already existed.
+
+Ebay ID: 283204954297
+The item is already existed.
+
+Ebay ID: 382315773735
+The item is already existed.
+
+Ebay ID: 253984172967
+The item is already existed.
+
+Ebay ID: 323314725361
+The item is already existed.
+
+Ebay ID: 311459741831
+The item is already existed.
+
+Ebay ID: 232736546904
+The item is already existed.
+
+Ebay ID: 264015717372
+The item is already existed.
+
+Ebay ID: 202379893736
+The item is already existed.
+
+Ebay ID: 282185179846
+The item is already existed.
+
+Ebay ID: 251044165652
+The item is already existed.
+
+Ebay ID: 183341504654
+The item is already existed.
+
+Ebay ID: 283259969634
+The item is already existed.
+
+Ebay ID: 253816079845
+The item is already existed.
+
+Ebay ID: 132497991720
+The item is already existed.
+Add new discount ebay item, item.id: 3435
+
+Ebay ID: 202093643406
+The item is already existed.
+
+Ebay ID: 273544450378
+The item is already existed.
+Add new discount ebay item, item.id: 3620
+
+Ebay ID: 132807101990
+The item is already existed.
+
+Ebay ID: 182611061175
+The item is already existed.
+
+Ebay ID: 183036361655
+The item is already existed.
+
+Ebay ID: 302950414309
+The item is already existed.
+
+Ebay ID: 371914845827
+The item is already existed.
+
+Ebay ID: 152818950375
+The item is already existed.
+
+Ebay ID: 323311472285
+The item is already existed.
+
+Ebay ID: 132856805871
+The item is already existed.
+
+Ebay ID: 152880652127
+The item is already existed.
+
+Ebay ID: 202439981792
+The item is already existed.
+
+Ebay ID: 163005902287
+The item is already existed.
+
+Ebay ID: 173628042326
+The item is already existed.
+
+Ebay ID: 142944966085
+The item is already existed.
+
+Ebay ID: 152952745112
+The item is already existed.
+
+Ebay ID: 273546671552
+The item is already existed.
+
+Ebay ID: 272922172263
+The item is already existed.
+
+Ebay ID: 202313833538
+The item is already existed.
+
+Ebay ID: 143028799308
+The item is already existed.
+
+Ebay ID: 392054494595
+The item is already existed.
+
+Ebay ID: 253982039515
+The item is already existed.
+
+Ebay ID: 362263684559
+The item is already existed.
+
+Ebay ID: 142950295768
+The item is already existed.
+
+Ebay ID: 173629478409
+The item is already existed.
+
+Ebay ID: 283255189218
+The item is already existed.
+
+Ebay ID: 401570171357
+The item is already existed.
+
+Ebay ID: 332872041817
+The item is already existed.
+
+Ebay ID: 391494736010
+The item is already existed.
+
+Ebay ID: 132471798690
+The item is already existed.
+
+Ebay ID: 382567879238
+The item is already existed.
+
+Ebay ID: 253977515325
+The item is already existed.
+
+Ebay ID: 192221902073
+The item is already existed.
+
+Ebay ID: 123461984529
+The item is already existed.
+
+Ebay ID: 263052310423
+The item is already existed.
+
+Ebay ID: 302715508468
+The item is already existed.
+
+Ebay ID: 163222150109
+The item is already existed.
+
+Ebay ID: 183110272889
+The item is already existed.
+
+Ebay ID: 332863584131
+The item is already existed.
+
+Ebay ID: 322395942071
+The item is already existed.
+
+Ebay ID: 281556283844
+The item is already existed.
+
+Ebay ID: 163366157587
+The item is already existed.
+
+Ebay ID: 291532063554
+The item is already existed.
+
+Ebay ID: 183434996245
+The item is already existed.
+
+Ebay ID: 232046203209
+The item is already existed.
+
+Ebay ID: 142104410137
+The item is already existed.
+
+Ebay ID: 281762331181
+The item is already existed.
+
+Ebay ID: 122660457499
+The item is already existed.
+
+Ebay ID: 292800234424
+The item is already existed.
+
+Ebay ID: 302950563462
+The item is already existed.
+
+Ebay ID: 201621860423
+The item is already existed.
+
+Ebay ID: 391813391892
+The item is already existed.
+
+Ebay ID: 332159787297
+The item is already existed.
+
+Ebay ID: 262662111594
+The item is already existed.
+
+Ebay ID: 391562414877
+The item is already existed.
+
+Ebay ID: 143014646277
+The item is already existed.
+
+Ebay ID: 263997042854
+The item is already existed.
+
+Ebay ID: 202487808831
+The item is already existed.
+The latest saved price: 120.90 is not the same as the latest price: 127.9. Update the ds item.
+
+Ebay ID: 302974438888
+The item is already existed.
+
+Ebay ID: 163259579901
+The item is already existed.
+
+Ebay ID: 162984808758
+The item is already existed.
+
+Ebay ID: 132764163162
+The item is already existed.
+
+Ebay ID: 262781602409
+The item is already existed.
+
+Ebay ID: 282846635373
+The item is already existed.
+
+Ebay ID: 142941257127
+The item is already existed.
+
+Ebay ID: 192301143312
+The item is already existed.
+
+Ebay ID: 192698696350
+The item is already existed.
+
+Ebay ID: 122327276640
+The item is already existed.
+
+Ebay ID: 163385669127
+The item is already existed.
+
+Ebay ID: 132856821510
+The item is already existed.
+
+Ebay ID: 362306313883
+The item is already existed.
+
+Ebay ID: 323451043313
+The item is already existed.
+
+Ebay ID: 263600035061
+The item is already existed.
+
+Ebay ID: 264016110740
+The item is already existed.
+
+Ebay ID: 183306424689
+The item is already existed.
+
+Ebay ID: 262637284152
+The item is already existed.
+
+Ebay ID: 132192967863
+The item is already existed.
+
+Ebay ID: 263893152917
+The item is already existed.
+
+Ebay ID: 382028369665
+The item is already existed.
+
+Ebay ID: 232657790147
+The item is already existed.
+Add new discount ebay item, item.id: 3673
+
+Ebay ID: 142968383047
+The item is already existed.
+
+Ebay ID: 162980825191
+The item is already existed.
+
+Ebay ID: 141815760745
+The item is already existed.
+
+Ebay ID: 232960426763
+The item is already existed.
+
+Ebay ID: 173596104578
+The item is already existed.
+
+Ebay ID: 113386136572
+The item is already existed.
+
+Ebay ID: 372510049286
+The item is already existed.
+
+Ebay ID: 173263533507
+The item is already existed.
+
+Ebay ID: 351473508114
+The item is already existed.
+
+Ebay ID: 352265086391
+The item is already existed.
+
+Ebay ID: 401560337627
+The item is already existed.
+
+Ebay ID: 263997718691
+The item is already existed.
+
+Ebay ID: 182271898439
+The item is already existed.
+
+Ebay ID: 192530907877
+The item is already existed.
+
+Ebay ID: 142929432949
+The item is already existed.
+
+Ebay ID: 222738391662
+The item is already existed.
+
+Ebay ID: 123215958566
+The item is already existed.
+
+Ebay ID: 232967950671
+The item is already existed.
+
+Ebay ID: 141674542285
+The item is already existed.
+
+Ebay ID: 172213399958
+The item is already existed.
+
+Ebay ID: 282865294051
+The item is already existed.
+
+Ebay ID: 263936046847
+The item is already existed.
+
+Ebay ID: 202473121174
+The item is already existed.
+
+Ebay ID: 323538200534
+The item is already existed.
+
+Ebay ID: 192523653182
+The item is already existed.
+
+Ebay ID: 401619288479
+The item is already existed.
+
+Ebay ID: 264054619507
+The item is already existed.
+
+Ebay ID: 253418510382
+The item is already existed.
+
+Page number: 3
+Ebay ID: 132697861230
+The item is already existed.
+
+Ebay ID: 271645610492
+The item is already existed.
+
+Ebay ID: 263026498559
+The item is already existed.
+
+Ebay ID: 132480556491
+The item is already existed.
+
+Ebay ID: 153166449375
+The item is already existed.
+
+Ebay ID: 152988271595
+The item is already existed.
+
+Ebay ID: 263870318087
+The item is already existed.
+
+Ebay ID: 390956612212
+The item is already existed.
+
+Ebay ID: 173485685735
+The item is already existed.
+
+Ebay ID: 231306333193
+The item is already existed.
+
+Ebay ID: 263800863783
+The item is already existed.
+
+Ebay ID: 142851463565
+The item is already existed.
+
+Ebay ID: 263523439808
+The item is already existed.
+
+Ebay ID: 263472567665
+The item is already existed.
+
+Ebay ID: 173661167223
+The item is already existed.
+
+Ebay ID: 183441007681
+The item is already existed.
+
+Ebay ID: 372041389596
+The item is already existed.
+
+Ebay ID: 292798339788
+The item is already existed.
+
+Ebay ID: 292776771893
+The item is already existed.
+
+Ebay ID: 153213426589
+The item is already existed.
+
+Ebay ID: 162984603768
+The item is already existed.
+
+Ebay ID: 391584651983
+The item is already existed.
+
+Ebay ID: 264043042298
+The item is already existed.
+
+Ebay ID: 232714426626
+The item is already existed.
+
+Ebay ID: 262203560713
+The item is already existed.
+
+Ebay ID: 113207048728
+The item is already existed.
+
+Ebay ID: 182821042211
+The item is already existed.
+
+Ebay ID: 391658904656
+The item is already existed.
+
+Ebay ID: 282294552799
+The item is already existed.
+
+Ebay ID: 250806298173
+The item is already existed.
+
+Ebay ID: 263997253289
+The item is already existed.
+
+Ebay ID: 380871266426
+The item is already existed.
+
+Ebay ID: 152952714415
+The item is already existed.
+
+Ebay ID: 142550500576
+The item is already existed.
+
+Ebay ID: 264054835761
+The item is already existed.
+
+Ebay ID: 332872041813
+The item is already existed.
+
+Ebay ID: 231932822741
+The item is already existed.
+
+Ebay ID: 302752053630
+The item is already existed.
+
+Ebay ID: 391948989575
+The item is already existed.
+
+Ebay ID: 161101034316
+The item is already existed.
+
+Ebay ID: 153213171991
+The item is already existed.
+
+Ebay ID: 302939740671
+The item is already existed.
+
+Ebay ID: 132389146564
+The item is already existed.
+
+Ebay ID: 132785010526
+The item is already existed.
+
+Ebay ID: 142314831094
+The item is already existed.
+
+Ebay ID: 292800247871
+The item is already existed.
+
+Ebay ID: 401133930064
+The item is already existed.
+
+Ebay ID: 390910934190
+The item is already existed.
+
+Ebay ID: 401549352520
+The item is already existed.
+Add new discount ebay item, item.id: 6542
+
+Ebay ID: 391577693299
+The item is already existed.
+
+Ebay ID: 231055729094
+The item is already existed.
+
+Ebay ID: 222806406760
+The item is already existed.
+
+Ebay ID: 381884241464
+The item is already existed.
+
+Ebay ID: 263487649878
+The item is already existed.
+
+Ebay ID: 263511625935
+The item is already existed.
+
+Ebay ID: 253982039409
+The item is already existed.
+
+Ebay ID: 123103232337
+The item is already existed.
+
+Ebay ID: 202511206588
+The item is already existed.
+
+Ebay ID: 361295942969
+The item is already existed.
+
+Ebay ID: 401241561978
+The item is already existed.
+
+Ebay ID: 183381974273
+The item is already existed.
+
+Ebay ID: 311275365500
+The item is already existed.
+
+Ebay ID: 292796636809
+The item is already existed.
+
+Ebay ID: 292664025586
+The item is already existed.
+
+Ebay ID: 121850884281
+The item is already existed.
+
+Ebay ID: 162272467635
+The item is already existed.
+
+Ebay ID: 401543081928
+The item is already existed.
+
+Ebay ID: 253506751754
+The item is already existed.
+
+Ebay ID: 352452978454
+The item is already existed.
+
+Ebay ID: 183194738161
+The item is already existed.
+
+Ebay ID: 192491296105
+The item is already existed.
+
+Ebay ID: 173224979404
+The item is already existed.
+
+Ebay ID: 252454949243
+The item is already existed.
+
+Ebay ID: 112012744998
+The item is already existed.
+
+Ebay ID: 382205157875
+The item is already existed.
+
+Ebay ID: 292030814924
+The item is already existed.
+
+Ebay ID: 122493781494
+The item is already existed.
+
+Ebay ID: 312315619461
+The item is already existed.
+
+Ebay ID: 132796144895
+The item is already existed.
+
+Ebay ID: 372381262262
+The item is already existed.
+
+Ebay ID: 302564569933
+The item is already existed.
+
+Ebay ID: 401568377554
+The item is already existed.
+
+Ebay ID: 352504673922
+The item is already existed.
+
+Ebay ID: 221974335750
+The item is already existed.
+Add new discount ebay item, item.id: 3855
+
+Ebay ID: 361599338554
+The item is already existed.
+
+Ebay ID: 281318761281
+The item is already existed.
+
+Ebay ID: 232805620269
+The item is already existed.
+
+Ebay ID: 323478999440
+The item is already existed.
+
+Ebay ID: 132807101353
+The item is already existed.
+
+Ebay ID: 253388456403
+The item is already existed.
+
+Ebay ID: 282978312104
+The item is already existed.
+
+Ebay ID: 152455572083
+The item is already existed.
+
+Ebay ID: 151986643202
+The item is already existed.
+
+Ebay ID: 312229168608
+The item is already existed.
+
+Ebay ID: 192272853004
+The item is already existed.
+
+Ebay ID: 400677847471
+The item is already existed.
+
+Ebay ID: 263467750415
+The item is already existed.
+
+Ebay ID: 192519175100
+The item is already existed.
+
+Ebay ID: 142104281667
+The item is already existed.
+
+Ebay ID: 290957041518
+The item is already existed.
+
+Ebay ID: 401021475560
+The item is already existed.
+
+Ebay ID: 381189909382
+The item is already existed.
+
+Ebay ID: 391578677680
+The item is already existed.
+
+Ebay ID: 392077033032
+The item is already existed.
+
+Ebay ID: 263860260208
+The item is already existed.
+
+Ebay ID: 182827968282
+The item is already existed.
+
+Ebay ID: 300945268086
+The item is already existed.
+
+Ebay ID: 372510049805
+The item is already existed.
+
+Ebay ID: 332394256647
+The item is already existed.
+
+Ebay ID: 131651538376
+The item is already existed.
+The latest saved price: 404.90 is not the same as the latest price: 409.9. Update the ds item.
+
+Ebay ID: 151644568123
+The item is already existed.
+
+Ebay ID: 264026802128
+The item is already existed.
+
+Ebay ID: 382019866713
+The item is already existed.
+
+Ebay ID: 391549284874
+The item is already existed.
+
+Ebay ID: 253281616502
+The item is already existed.
+
+Ebay ID: 391808157032
+The item is already existed.
+
+Ebay ID: 302711303868
+The item is already existed.
+
+Ebay ID: 273554790930
+The item is already existed.
+
+Ebay ID: 123217903055
+The item is already existed.
+
+Ebay ID: 143014661134
+The item is already existed.
+
+Ebay ID: 172309378451
+The item is already existed.
+Add new discount ebay item, item.id: 3951
+
+Ebay ID: 332091169945
+The item is already existed.
+Add new discount ebay item, item.id: 3817
+
+Ebay ID: 262447551225
+The item is already existed.
+
+Ebay ID: 382338215878
+The item is already existed.
+Add new discount ebay item, item.id: 3858
+
+Ebay ID: 302963321505
+The item is already existed.
+
+Ebay ID: 132633695663
+The item is already existed.
+
+Ebay ID: 272393603727
+The item is already existed.
+
+Ebay ID: 331944104916
+The item is already existed.
+
+Ebay ID: 163316328556
+The item is already existed.
+
+Ebay ID: 163164846594
+The item is already existed.
+
+Ebay ID: 232612553710
+The item is already existed.
+
+Ebay ID: 132785033856
+The item is already existed.
+
+Ebay ID: 130876303501
+The item is already existed.
+
+Ebay ID: 182780420770
+The item is already existed.
+
+Ebay ID: 183492842263
+The item is already existed.
+
+Ebay ID: 283255273691
+The item is already existed.
+
+Ebay ID: 391844304616
+The item is already existed.
+
+Ebay ID: 143013459201
+The item is already existed.
+
+Ebay ID: 400352001485
+The item is already existed.
+
+Ebay ID: 362461826676
+The item is already existed.
+
+Ebay ID: 183022417942
+The item is already existed.
+
+Ebay ID: 121846410103
+The item is already existed.
+
+Ebay ID: 400695779093
+The item is already existed.
+
+Ebay ID: 273228539677
+The item is already existed.
+
+Ebay ID: 132712818941
+The item is already existed.
+
+Ebay ID: 302886735427
+The item is already existed.
+
+Ebay ID: 232967247966
+The item is already existed.
+
+Ebay ID: 281867885582
+The item is already existed.
+
+Ebay ID: 142304789654
+The item is already existed.
+
+Ebay ID: 202464196120
+The item is already existed.
+
+Ebay ID: 332189112437
+The item is already existed.
+
+Ebay ID: 321632064472
+The item is already existed.
+
+Ebay ID: 251454223305
+The item is already existed.
+
+Ebay ID: 283196771140
+The item is already existed.
+Add new discount ebay item, item.id: 3816
+
+Ebay ID: 132641636802
+The item is already existed.
+
+Ebay ID: 162289696278
+The item is already existed.
+
+Ebay ID: 282621582370
+The item is already existed.
+
+Ebay ID: 253983803225
+The item is already existed.
+
+Ebay ID: 132759482471
+The item is already existed.
+
+Ebay ID: 401622098605
+The item is already existed.
+
+Ebay ID: 283167161653
+The item is already existed.
+
+Ebay ID: 262447551216
+The item is already existed.
+
+Ebay ID: 350922461009
+The item is already existed.
+
+Ebay ID: 292518147879
+The item is already existed.
+
+Ebay ID: 173609022137
+The item is already existed.
+
+Ebay ID: 312323215981
+The item is already existed.
+
+Ebay ID: 372477784347
+The item is already existed.
+
+Ebay ID: 222735039968
+The item is already existed.
+
+Ebay ID: 152550369186
+The item is already existed.
+
+Ebay ID: 292733798756
+The item is already existed.
+
+Ebay ID: 261177981839
+The item is already existed.
+
+Ebay ID: 292646649726
+The item is already existed.
+
+Ebay ID: 142771129160
+The item is already existed.
+
+Ebay ID: 401233925609
+The item is already existed.
+
+Ebay ID: 183431459653
+The item is already existed.
+
+Ebay ID: 223025266338
+The item is already existed.
+
+Ebay ID: 302796982813
+The item is already existed.
+
+Ebay ID: 141631100039
+The item is already existed.
+
+Ebay ID: 272588086221
+The item is already existed.
+
+Ebay ID: 183240792368
+The item is already existed.
+
+Ebay ID: 292775463877
+The item is already existed.
+
+Ebay ID: 162627621414
+The item is already existed.
+Add new discount ebay item, item.id: 3876
+
+Ebay ID: 272922170618
+The item is already existed.
+
+Ebay ID: 182199176312
+The item is already existed.
+
+Ebay ID: 292795037362
+The item is already existed.
+
+Ebay ID: 132279564867
+The item is already existed.
+
+Ebay ID: 283041737220
+The item is already existed.
+
+Ebay ID: 264038948135
+The item is already existed.
+
+Ebay ID: 202495432563
+The item is already existed.
+
+Ebay ID: 361424135746
+The item is already existed.
+
+Ebay ID: 352476916835
+The item is already existed.
+
+Ebay ID: 142166078525
+The item is already existed.
+
+Ebay ID: 301160706461
+The item is already existed.
+
+Ebay ID: 131819799376
+The item is already existed.
+Add new discount ebay item, item.id: 4070
+
+Ebay ID: 302671052035
+The item is already existed.
+
+Ebay ID: 252397694797
+The item is already existed.
+
+Ebay ID: 381471763614
+The item is already existed.
+
+Ebay ID: 273561113395
+The item is already existed.
+
+Ebay ID: 283258411593
+The item is already existed.
+
+Ebay ID: 372512354335
+The item is already existed.
+
+Page number: 4
+Ebay ID: 401359497227
+The item is already existed.
+
+Ebay ID: 233012261664
+The item is already existed.
+
+Ebay ID: 401226782024
+The item is already existed.
+
+Ebay ID: 401566500259
+The item is already existed.
+
+Ebay ID: 183331542717
+The item is already existed.
+
+Ebay ID: 301248872610
+The item is already existed.
+
+Ebay ID: 173560079057
+The item is already existed.
+
+Ebay ID: 173477257317
+The item is already existed.
+
+Ebay ID: 253370660787
+The item is already existed.
+
+Ebay ID: 322599390589
+The item is already existed.
+
+Ebay ID: 351678540613
+The item is already existed.
+
+Ebay ID: 264043417638
+The item is already existed.
+
+Ebay ID: 163227584577
+The item is already existed.
+
+Ebay ID: 381542606829
+The item is already existed.
+
+Ebay ID: 323241772414
+The item is already existed.
+
+Ebay ID: 191889875453
+The item is already existed.
+
+Ebay ID: 132284175261
+The item is already existed.
+
+Ebay ID: 142319767413
+The item is already existed.
+
+Ebay ID: 302764099925
+The item is already existed.
+Add new discount ebay item, item.id: 4028
+
+Ebay ID: 132779580541
+The item is already existed.
+
+Ebay ID: 253992646444
+The item is already existed.
+
+Ebay ID: 401311986650
+The item is already existed.
+
+Ebay ID: 391304266289
+The item is already existed.
+
+Ebay ID: 381558496244
+The item is already existed.
+
+Ebay ID: 232861200955
+The item is already existed.
+
+Ebay ID: 351942967370
+The item is already existed.
+
+Ebay ID: 272982356351
+The item is already existed.
+
+Ebay ID: 152322890678
+The item is already existed.
+
+Ebay ID: 113207070140
+The item is already existed.
+
+Ebay ID: 183126640460
+The item is already existed.
+
+Ebay ID: 121327238932
+The item is already existed.
+
+Ebay ID: 113155808173
+The item is already existed.
+
+Ebay ID: 253916819999
+The item is already existed.
+
+Ebay ID: 131486694649
+The item is already existed.
+
+Ebay ID: 253626856535
+The item is already existed.
+
+Ebay ID: 253511570504
+The item is already existed.
+
+Ebay ID: 162965160709
+The item is already existed.
+
+Ebay ID: 143015876307
+The item is already existed.
+
+Ebay ID: 381701780176
+The item is already existed.
+
+Ebay ID: 232855494331
+The item is already existed.
+
+Ebay ID: 332714520917
+The item is already existed.
+
+Ebay ID: 191060354670
+The item is already existed.
+
+Ebay ID: 292798685694
+The item is already existed.
+
+Ebay ID: 282743646204
+The item is already existed.
+
+Ebay ID: 142537908718
+The item is already existed.
+
+Ebay ID: 183018912602
+The item is already existed.
+
+Ebay ID: 381987573531
+The item is already existed.
+
+Ebay ID: 253983794356
+The item is already existed.
+
+Ebay ID: 362103056466
+The item is already existed.
+
+Ebay ID: 121320662857
+The item is already existed.
+
+Ebay ID: 302835036970
+The item is already existed.
+Add new discount ebay item, item.id: 3535
+
+Ebay ID: 132326423412
+The item is already existed.
+
+Ebay ID: 281344283671
+The item is already existed.
+
+Ebay ID: 263456217558
+The item is already existed.
+
+Ebay ID: 183186285283
+The item is already existed.
+
+Ebay ID: 123475608624
+The item is already existed.
+
+Ebay ID: 202500673219
+The item is already existed.
+
+Ebay ID: 142104281289
+The item is already existed.
+
+Ebay ID: 263895527962
+The item is already existed.
+
+Ebay ID: 382538576635
+The item is already existed.
+
+Ebay ID: 121138550758
+The item is already existed.
+
+Ebay ID: 264010572999
+The item is already existed.
+
+Ebay ID: 223211482125
+The item is already existed.
+
+Ebay ID: 320988793646
+The item is already existed.
+
+Ebay ID: 202251275246
+The item is already existed.
+
+Ebay ID: 302818187955
+The item is already existed.
+
+Ebay ID: 182425121608
+The item is already existed.
+
+Ebay ID: 160993873125
+The item is already existed.
+
+Ebay ID: 362367049401
+The item is already existed.
+
+Ebay ID: 283168646583
+The item is already existed.
+
+Ebay ID: 332805709326
+The item is already existed.
+
+Ebay ID: 192597377109
+The item is already existed.
+
+Ebay ID: 202489840401
+The item is already existed.
+
+Ebay ID: 264026148476
+The item is already existed.
+
+Ebay ID: 401579788260
+The item is already existed.
+
+Ebay ID: 253835917722
+The item is already existed.
+
+Ebay ID: 332528932575
+The item is already existed.
+
+Ebay ID: 272727017677
+The item is already existed.
+
+Ebay ID: 171396420105
+The item is already existed.
+
+Ebay ID: 381611475953
+The item is already existed.
+
+Ebay ID: 273153255537
+The item is already existed.
+
+Ebay ID: 302478169850
+The item is already existed.
+
+Ebay ID: 352518073290
+The item is already existed.
+
+Ebay ID: 111038613064
+The item is already existed.
+
+Ebay ID: 192633117769
+The item is already existed.
+
+Ebay ID: 220432539865
+The item is already existed.
+
+Ebay ID: 132627729720
+The item is already existed.
+
+Ebay ID: 361753825971
+The item is already existed.
+
+Ebay ID: 132716594420
+The item is already existed.
+
+Ebay ID: 332441767879
+The item is already existed.
+
+Ebay ID: 370438470845
+The item is already existed.
+
+Ebay ID: 112868196253
+The item is already existed.
+
+Ebay ID: 362293505491
+The item is already existed.
+
+Ebay ID: 283148388308
+The item is already existed.
+
+Ebay ID: 282841691113
+The item is already existed.
+
+Ebay ID: 361522237064
+The item is already existed.
+
+Ebay ID: 302749518846
+The item is already existed.
+
+Ebay ID: 263259311950
+The item is already existed.
+
+Ebay ID: 131710489317
+The item is already existed.
+
+Ebay ID: 371574638774
+The item is already existed.
+
+Ebay ID: 182376294509
+The item is already existed.
+
+Ebay ID: 152300389926
+The item is already existed.
+
+Ebay ID: 262750021977
+The item is already existed.
+
+Ebay ID: 312210550613
+The item is already existed.
+
+Ebay ID: 260833739441
+The item is already existed.
+
+Ebay ID: 401276745346
+The item is already existed.
+
+Ebay ID: 290990862673
+The item is already existed.
+
+Ebay ID: 202496668381
+The item is already existed.
+
+Ebay ID: 262670393582
+The item is already existed.
+
+Ebay ID: 262904872590
+The item is already existed.
+
+Ebay ID: 232813085308
+The item is already existed.
+
+Ebay ID: 123477210355
+The item is already existed.
+
+Ebay ID: 382256166674
+The item is already existed.
+
+Ebay ID: 132824171492
+The item is already existed.
+
+Ebay ID: 263719926511
+The item is already existed.
+
+Ebay ID: 141807068212
+The item is already existed.
+
+Ebay ID: 401015195245
+The item is already existed.
+Add new discount ebay item, item.id: 3901
+
+Ebay ID: 332437345232
+The item is already existed.
+
+Ebay ID: 292522166030
+The item is already existed.
+
+Ebay ID: 311299735471
+The item is already existed.
+
+Ebay ID: 142322045523
+The item is already existed.
+
+Ebay ID: 381702943817
+The item is already existed.
+
+Ebay ID: 331764928728
+The item is already existed.
+
+Ebay ID: 123253669680
+The item is already existed.
+
+Ebay ID: 401277753303
+The item is already existed.
+
+Ebay ID: 311845629259
+The item is already existed.
+
+Ebay ID: 263554481133
+The item is already existed.
+
+Ebay ID: 253901765313
+The item is already existed.
+
+Ebay ID: 262521215750
+The item is already existed.
+
+Ebay ID: 142201674085
+The item is already existed.
+
+Ebay ID: 352524212459
+The item is already existed.
+
+Ebay ID: 141816485464
+The item is already existed.
+
+Ebay ID: 300886261345
+The item is already existed.
+Add new discount ebay item, item.id: 3554
+
+Ebay ID: 401631153946
+The item is already existed.
+
+Ebay ID: 262104627940
+The item is already existed.
+
+Ebay ID: 381258682414
+The item is already existed.
+
+Ebay ID: 152630196222
+The item is already existed.
+
+Ebay ID: 132821624959
+The item is already existed.
+
+Ebay ID: 142568441395
+The item is already existed.
+
+Ebay ID: 332743769866
+The item is already existed.
+
+Ebay ID: 382541575705
+The item is already existed.
+
+Ebay ID: 273558142065
+The item is already existed.
+
+Ebay ID: 142316484865
+The item is already existed.
+
+Ebay ID: 143020590105
+The item is already existed.
+
+Ebay ID: 172928577855
+The item is already existed.
+
+Ebay ID: 302671052034
+The item is already existed.
+
+Ebay ID: 252772172048
+The item is already existed.
+
+Ebay ID: 172244530057
+The item is already existed.
+
+Ebay ID: 172684999637
+The item is already existed.
+
+Ebay ID: 192417623904
+The item is already existed.
+
+Ebay ID: 263864256805
+The item is already existed.
+Add new discount ebay item, item.id: 4112
+
+Ebay ID: 143015882321
+The item is already existed.
+
+Ebay ID: 182948323663
+The item is already existed.
+
+Ebay ID: 253983879826
+The item is already existed.
+
+Ebay ID: 370832880303
+The item is already existed.
+
+Ebay ID: 253935894265
+The item is already existed.
+
+Ebay ID: 323448106127
+The item is already existed.
+
+Ebay ID: 253668241632
+The item is already existed.
+
+Ebay ID: 153186643323
+The item is already existed.
+
+Ebay ID: 132405769548
+The item is already existed.
+
+Ebay ID: 153181806532
+The item is already existed.
+
+Ebay ID: 163016291974
+The item is already existed.
+
+Ebay ID: 401032848789
+The item is already existed.
+
+Ebay ID: 232679462258
+The item is already existed.
+
+Ebay ID: 123337091007
+The item is already existed.
+
+Ebay ID: 361879000797
+The item is already existed.
+
+Ebay ID: 401226798721
+The item is already existed.
+
+Ebay ID: 301641610263
+The item is already existed.
+
+Ebay ID: 131686861305
+The item is already existed.
+
+Ebay ID: 183490899766
+The item is already existed.
+
+Ebay ID: 142985597848
+The item is already existed.
+
+Ebay ID: 231489919819
+The item is already existed.
+
+Ebay ID: 113179194805
+The item is already existed.
+
+Ebay ID: 372447963307
+The item is already existed.
+
+Ebay ID: 181602060073
+The item is already existed.
+
+Ebay ID: 263297296676
+The item is already existed.
+
+Ebay ID: 262314571669
+The item is already existed.
+
+Ebay ID: 253979872540
+The item is already existed.
+
+Ebay ID: 301062499927
+The item is already existed.
+
+Ebay ID: 381985117409
+The item is already existed.
+
+Ebay ID: 401456611941
+The item is already existed.
+
+Ebay ID: 300866170697
+The item is already existed.
+
+Ebay ID: 391801675893
+The item is already existed.
+
+Ebay ID: 121616941599
+The item is already existed.
+
+Ebay ID: 263476671142
+The item is already existed.
+
+Ebay ID: 222920609817
+The item is already existed.
+
+Ebay ID: 300569526662
+The item is already existed.
+
+Ebay ID: 113258741106
+The item is already existed.
+
+Ebay ID: 151988288019
+The item is already existed.
+Add new discount ebay item, item.id: 3990
+
+Ebay ID: 142019210986
+The item is already existed.
+
+Ebay ID: 182323827588
+The item is already existed.
+
+Ebay ID: 300874394107
+The item is already existed.
+
+Ebay ID: 190742242975
+The item is already existed.
+
+Ebay ID: 231017264895
+The item is already existed.
+
+Ebay ID: 142688752792
+The item is already existed.
+
+Ebay ID: 291744453176
+The item is already existed.
+
+Ebay ID: 232494587967
+The item is already existed.
+
+Ebay ID: 352512992795
+The item is already existed.
+
+Ebay ID: 301875715247
+The item is already existed.
+
+Ebay ID: 122895794701
+The item is already existed.
+
+Page number: 5
+Ebay ID: 121304056086
+The item is already existed.
+
+Ebay ID: 132504669412
+The item is already existed.
+
+Ebay ID: 401524830477
+The item is already existed.
+
+Ebay ID: 123339463562
+The item is already existed.
+
+Ebay ID: 253969286449
+The item is already existed.
+
+Ebay ID: 153152942296
+The item is already existed.
+
+Ebay ID: 271645611039
+The item is already existed.
+
+Ebay ID: 262173755010
+The item is already existed.
+
+Ebay ID: 112367932721
+The item is already existed.
+
+Ebay ID: 252991234161
+The item is already existed.
+
+Ebay ID: 142053361140
+The item is already existed.
+
+Ebay ID: 132223396492
+The item is already existed.
+
+Ebay ID: 182688999783
+The item is already existed.
+
+Ebay ID: 253408856041
+The item is already existed.
+
+Ebay ID: 112414467038
+The item is already existed.
+
+Ebay ID: 282783303598
+The item is already existed.
+
+Ebay ID: 172787160703
+The item is already existed.
+
+Ebay ID: 323302393622
+The item is already existed.
+
+Ebay ID: 332786581366
+The item is already existed.
+
+Ebay ID: 372108680218
+The item is already existed.
+
+Ebay ID: 292794985349
+The item is already existed.
+
+Ebay ID: 121870073698
+The item is already existed.
+Add new discount ebay item, item.id: 3566
+
+Ebay ID: 382563263277
+The item is already existed.
+
+Ebay ID: 323452299035
+The item is already existed.
+
+Ebay ID: 113394917087
+The item is already existed.
+
+Ebay ID: 162284104547
+The item is already existed.
+
+Ebay ID: 262634487267
+The item is already existed.
+
+Ebay ID: 401458959574
+The item is already existed.
+
+Ebay ID: 392145413420
+The item is already existed.
+
+Ebay ID: 290789186227
+The item is already existed.
+
+Ebay ID: 162992852103
+The item is already existed.
+
+Ebay ID: 371562353971
+The item is already existed.
+
+Ebay ID: 113025560609
+The item is already existed.
+
+Ebay ID: 132823044870
+The item is already existed.
+
+Ebay ID: 323246917680
+The item is already existed.
+
+Ebay ID: 311527745734
+The item is already existed.
+
+Ebay ID: 253217535041
+The item is already existed.
+
+Ebay ID: 263869702399
+The item is already existed.
+
+Ebay ID: 301990201813
+The item is already existed.
+
+Ebay ID: 140953818355
+The item is already existed.
+
+Ebay ID: 290924345030
+The item is already existed.
+
+Ebay ID: 292807043659
+The item is already existed.
+
+Ebay ID: 302865926088
+The item is already existed.
+
+Ebay ID: 391974099341
+The item is already existed.
+
+Ebay ID: 230736277095
+The item is already existed.
+
+Ebay ID: 253870002092
+The item is already existed.
+
+Ebay ID: 264050901308
+The item is already existed.
+
+Ebay ID: 392058972908
+The item is already existed.
+
+Ebay ID: 401276741482
+The item is already existed.
+
+Ebay ID: 183188088772
+The item is already existed.
+
+Ebay ID: 272557938149
+The item is already existed.
+
+Ebay ID: 113260343832
+The item is already existed.
+
+Ebay ID: 132273960330
+The item is already existed.
+
+Ebay ID: 253628170156
+The item is already existed.
+
+Ebay ID: 361985202440
+The item is already existed.
+
+Ebay ID: 231090109714
+The item is already existed.
+
+Ebay ID: 400561610041
+The item is already existed.
+
+Ebay ID: 311459741971
+The item is already existed.
+
+Ebay ID: 283219875975
+The item is already existed.
+
+Ebay ID: 381929929417
+The item is already existed.
+
+Ebay ID: 142955578772
+The item is already existed.
+
+Ebay ID: 382189256957
+The item is already existed.
+
+Ebay ID: 250806009321
+The item is already existed.
+
+Ebay ID: 132472930038
+The item is already existed.
+
+Ebay ID: 192729420506
+The item is already existed.
+
+Ebay ID: 362241255405
+The item is already existed.
+
+Ebay ID: 123465229691
+The item is already existed.
+
+Ebay ID: 142844339401
+The item is already existed.
+
+Ebay ID: 230806797798
+The item is already existed.
+
+Ebay ID: 372246314600
+The item is already existed.
+
+Ebay ID: 142443549098
+The item is already existed.
+
+Ebay ID: 192684048834
+The item is already existed.
+
+Ebay ID: 392117449703
+The item is already existed.
+
+Ebay ID: 283262916103
+The item is already existed.
+
+Ebay ID: 253016961294
+The item is already existed.
+
+Ebay ID: 183310956125
+The item is already existed.
+
+Ebay ID: 222458050061
+The item is already existed.
+
+Ebay ID: 172959608868
+The item is already existed.
+
+Ebay ID: 331788656408
+The item is already existed.
+
+Ebay ID: 381680350143
+The item is already existed.
+
+Ebay ID: 381771957975
+The item is already existed.
+
+Ebay ID: 382375807090
+The item is already existed.
+Add new discount ebay item, item.id: 4220
+
+Ebay ID: 371564245259
+The item is already existed.
+
+Ebay ID: 391741476797
+The item is already existed.
+
+Ebay ID: 323547535644
+The item is already existed.
+
+Ebay ID: 331439932164
+The item is already existed.
+
+Ebay ID: 302737030863
+The item is already existed.
+
+Ebay ID: 391673298804
+The item is already existed.
+
+Ebay ID: 172963971675
+The item is already existed.
+
+Ebay ID: 401311979967
+The item is already existed.
+
+Ebay ID: 282335765656
+The item is already existed.
+
+Ebay ID: 263568893369
+The item is already existed.
+
+Ebay ID: 110927964089
+The item is already existed.
+
+Ebay ID: 264045756689
+The item is already existed.
+
+Ebay ID: 372170313719
+The item is already existed.
+
+Ebay ID: 362208422701
+The item is already existed.
+Add new discount ebay item, item.id: 5217
+
+Ebay ID: 291882686394
+The item is already existed.
+
+Ebay ID: 172583022026
+The item is already existed.
+
+Ebay ID: 362407533504
+The item is already existed.
+Add new discount ebay item, item.id: 3583
+
+Ebay ID: 264055588274
+The item is already existed.
+
+Ebay ID: 382555434769
+The item is already existed.
+
+Ebay ID: 182027246349
+The item is already existed.
+
+Ebay ID: 392108764526
+The item is already existed.
+
+Ebay ID: 183528454835
+The item is already existed.
+
+Ebay ID: 302939741613
+The item is already existed.
+
+Ebay ID: 262447551222
+The item is already existed.
+
+Ebay ID: 380530303567
+The item is already existed.
+
+Ebay ID: 272489820585
+The item is already existed.
+
+Ebay ID: 331976418092
+The item is already existed.
+
+Ebay ID: 391222941193
+The item is already existed.
+
+Ebay ID: 262577575267
+The item is already existed.
+
+Ebay ID: 192698705181
+The item is already existed.
+
+Ebay ID: 232999035544
+The item is already existed.
+
+Ebay ID: 132471790632
+The item is already existed.
+
+Ebay ID: 132220971620
+The item is already existed.
+
+Ebay ID: 143011305161
+The item is already existed.
+
+Ebay ID: 173596665254
+The item is already existed.
+
+Ebay ID: 372084512269
+The item is already existed.
+
+Ebay ID: 400909780426
+The item is already existed.
+
+Ebay ID: 132633500484
+The item is already existed.
+
+Ebay ID: 223214309155
+The item is already existed.
+
+Ebay ID: 401642224090
+The item is already existed.
+
+Ebay ID: 322401866697
+The item is already existed.
+
+Ebay ID: 153224760710
+The item is already existed.
+
+Ebay ID: 262447551241
+The item is already existed.
+
+Ebay ID: 253500073798
+The item is already existed.
+
+Ebay ID: 381700566801
+The item is already existed.
+
+Ebay ID: 401161498235
+The item is already existed.
+
+Ebay ID: 361527642368
+The item is already existed.
+
+Ebay ID: 352520850985
+The item is already existed.
+
+Ebay ID: 173395414558
+The item is already existed.
+
+Ebay ID: 302564222225
+The item is already existed.
+
+Ebay ID: 142500088864
+The item is already existed.
+
+Ebay ID: 361543632886
+The item is already existed.
+
+Ebay ID: 132313076411
+The item is already existed.
+
+Ebay ID: 202251748186
+The item is already existed.
+
+Ebay ID: 153163415941
+The item is already existed.
+
+Ebay ID: 361284438291
+The item is already existed.
+
+Ebay ID: 391822724108
+The item is already existed.
+
+Ebay ID: 263946455014
+The item is already existed.
+
+Ebay ID: 292795036629
+The item is already existed.
+
+Ebay ID: 253984660880
+The item is already existed.
+
+Ebay ID: 261334844368
+The item is already existed.
+
+Ebay ID: 283240762637
+The item is already existed.
+
+Ebay ID: 302882946934
+The item is already existed.
+
+Ebay ID: 401422459499
+The item is already existed.
+
+Ebay ID: 140967041832
+The item is already existed.
+
+Ebay ID: 381887165403
+The item is already existed.
+
+Ebay ID: 132747419402
+The item is already existed.
+
+Ebay ID: 301875838586
+The item is already existed.
+Add new discount ebay item, item.id: 4181
+
+Ebay ID: 382552840841
+The item is already existed.
+
+Ebay ID: 232725467402
+The item is already existed.
+
+Ebay ID: 362095085883
+The item is already existed.
+
+Ebay ID: 323441092221
+The item is already existed.
+
+Ebay ID: 352354961446
+The item is already existed.
+
+Ebay ID: 264043083965
+The item is already existed.
+
+Ebay ID: 142161976186
+The item is already existed.
+
+Ebay ID: 232713373945
+The item is already existed.
+
+Ebay ID: 252772158597
+The item is already existed.
+
+Ebay ID: 264039102470
+The item is already existed.
+
+Ebay ID: 282595074847
+The item is already existed.
+
+Ebay ID: 311750058208
+The item is already existed.
+
+Ebay ID: 232917026281
+The item is already existed.
+
+Ebay ID: 201472268229
+The item is already existed.
+
+Ebay ID: 312008006521
+The item is already existed.
+
+Ebay ID: 283217127929
+The item is already existed.
+
+Ebay ID: 381780069275
+The item is already existed.
+
+Ebay ID: 132737397916
+The item is already existed.
+
+Ebay ID: 382596138259
+The item is already existed.
+
+Ebay ID: 382144336173
+The item is already existed.
+
+Ebay ID: 302811270096
+The item is already existed.
+
+Ebay ID: 332774413164
+The item is already existed.
+
+Ebay ID: 153249087875
+The item is already existed.
+
+Ebay ID: 130599662944
+The item is already existed.
+
+Ebay ID: 202511394808
+The item is already existed.
+
+Ebay ID: 263816441189
+The item is already existed.
+
+Ebay ID: 262103609066
+The item is already existed.
+
+Ebay ID: 252690967810
+The item is already existed.
+
+Ebay ID: 323530616047
+The item is already existed.
+
+Ebay ID: 332513946497
+The item is already existed.
+Add new discount ebay item, item.id: 3588
+
+Ebay ID: 301875774128
+The item is already existed.
+Add new discount ebay item, item.id: 3584
+
+Ebay ID: 272457559522
+The item is already existed.
+
+Ebay ID: 372067880408
+The item is already existed.
+
+Ebay ID: 401157142983
+The item is already existed.
+
+Ebay ID: 300886261437
+The item is already existed.
+Add new discount ebay item, item.id: 4168
+
+Ebay ID: 282686241092
+The item is already existed.
+
+Ebay ID: 263937931743
+The item is already existed.
+
+Ebay ID: 392176849087
+The item is already existed.
+
+Ebay ID: 182418692180
+The item is already existed.
+
+Ebay ID: 290939792182
+The item is already existed.
+
+Ebay ID: 312180211812
+The item is already existed.
+
+Ebay ID: 292798968962
+The item is already existed.
+
+Ebay ID: 400846340510
+The item is already existed.
+
+Ebay ID: 252632558554
+The item is already existed.
+
+Ebay ID: 290675009688
+The item is already existed.
+
+Ebay ID: 281241286967
+The item is already existed.
+
+Ebay ID: 163147570660
+The item is already existed.
+
+Ebay ID: 381887279564
+The item is already existed.
+
+Ebay ID: 111235939947
+The item is already existed.
+
+Ebay ID: 152762884727
+The item is already existed.
+
+Page number: 6
+Ebay ID: 361893207261
+The item is already existed.
+
+Ebay ID: 282629519122
+The item is already existed.
+
+Ebay ID: 222547545033
+The item is already existed.
+
+Ebay ID: 252397694807
+The item is already existed.
+
+Ebay ID: 182387738899
+The item is already existed.
+
+Ebay ID: 263342913976
+The item is already existed.
+
+Ebay ID: 362422891565
+The item is already existed.
+
+Ebay ID: 183023433601
+The item is already existed.
+
+Ebay ID: 332715815971
+The item is already existed.
+
+Ebay ID: 332458256960
+The item is already existed.
+
+Ebay ID: 281939267356
+The item is already existed.
+Add new discount ebay item, item.id: 4227
+
+Ebay ID: 152944695421
+The item is already existed.
+
+Ebay ID: 332523931942
+The item is already existed.
+
+Ebay ID: 153251663046
+The item is already existed.
+
+Ebay ID: 112219178882
+The item is already existed.
+
+Ebay ID: 320675481369
+The item is already existed.
+
+Ebay ID: 283148388216
+The item is already existed.
+
+Ebay ID: 380863459960
+The item is already existed.
+
+Ebay ID: 302573297925
+The item is already existed.
+
+Ebay ID: 352418268523
+The item is already existed.
+
+Ebay ID: 182107493121
+The item is already existed.
+
+Ebay ID: 401276740851
+The item is already existed.
+
+Ebay ID: 282295295855
+The item is already existed.
+
+Ebay ID: 371643125399
+The item is already existed.
+
+Ebay ID: 202496547465
+The item is already existed.
+
+Ebay ID: 300691891083
+The item is already existed.
+
+Ebay ID: 232953761852
+The item is already existed.
+
+Ebay ID: 331565804979
+The item is already existed.
+
+Ebay ID: 382515108912
+The item is already existed.
+
+Ebay ID: 192626138874
+The item is already existed.
+
+Ebay ID: 302939995854
+The item is already existed.
+
+Ebay ID: 252805183854
+The item is already existed.
+
+Ebay ID: 351471289138
+The item is already existed.
+
+Ebay ID: 290975045757
+The item is already existed.
+
+Ebay ID: 142124622696
+The item is already existed.
+
+Ebay ID: 372334010765
+The item is already existed.
+
+Ebay ID: 401506041335
+The item is already existed.
+
+Ebay ID: 232927048153
+The item is already existed.
+
+Ebay ID: 152077661327
+The item is already existed.
+
+Ebay ID: 232998097419
+The item is already existed.
+
+Ebay ID: 222919320489
+The item is already existed.
+
+Ebay ID: 173073389668
+The item is already existed.
+
+Ebay ID: 153105788464
+The item is already existed.
+
+Ebay ID: 253646234948
+The item is already existed.
+
+Ebay ID: 382401961371
+The item is already existed.
+
+Ebay ID: 381886345700
+The item is already existed.
+
+Ebay ID: 292524343393
+The item is already existed.
+
+Ebay ID: 382568366372
+The item is already existed.
+
+Ebay ID: 231457342825
+The item is already existed.
+
+Ebay ID: 142040539656
+The item is already existed.
+
+Ebay ID: 183465413264
+The item is already existed.
+
+Ebay ID: 401276745340
+The item is already existed.
+
+Ebay ID: 232738444933
+The item is already existed.
+
+Ebay ID: 302701555732
+The item is already existed.
+
+Ebay ID: 382560651723
+The item is already existed.
+
+Ebay ID: 141950522175
+The item is already existed.
+
+Ebay ID: 132715126092
+The item is already existed.
+
+Ebay ID: 272989032621
+The item is already existed.
+
+Ebay ID: 401356026159
+The item is already existed.
+
+Ebay ID: 231490834584
+The item is already existed.
+
+Ebay ID: 122624942959
+The item is already existed.
+
+Ebay ID: 352354978550
+The item is already existed.
+
+Ebay ID: 172068732305
+The item is already existed.
+Add new discount ebay item, item.id: 3605
+
+Ebay ID: 253983855656
+The item is already existed.
+
+Ebay ID: 401081833999
+The item is already existed.
+
+Ebay ID: 132503759186
+The item is already existed.
+
+Ebay ID: 401317186599
+The item is already existed.
+
+Ebay ID: 253804011077
+The item is already existed.
+
+Ebay ID: 192692581165
+The item is already existed.
+
+Ebay ID: 300920030926
+The item is already existed.
+
+Ebay ID: 290934140840
+The item is already existed.
+
+Ebay ID: 253388463267
+The item is already existed.
+
+Ebay ID: 123020918124
+The item is already existed.
+
+Ebay ID: 290990862528
+The item is already existed.
+
+Ebay ID: 302833193291
+The item is already existed.
+
+Ebay ID: 263307709025
+The item is already existed.
+
+Ebay ID: 183454644803
+The item is already existed.
+
+Ebay ID: 264054420042
+The item is already existed.
+
+Ebay ID: 131758384979
+The item is already existed.
+
+Ebay ID: 391828668371
+The item is already existed.
+
+Ebay ID: 282500661881
+The item is already existed.
+
+Ebay ID: 401496369730
+The item is already existed.
+
+Ebay ID: 362181315501
+The item is already existed.
+
+Ebay ID: 173402023704
+The item is already existed.
+
+Ebay ID: 400909780249
+The item is already existed.
+
+Ebay ID: 192611183092
+The item is already existed.
+
+Ebay ID: 323253232336
+The item is already existed.
+
+Ebay ID: 162396499585
+The item is already existed.
+
+Ebay ID: 252034058113
+The item is already existed.
+
+Ebay ID: 291691124610
+The item is already existed.
+
+Ebay ID: 192454818265
+The item is already existed.
+
+Ebay ID: 283218371425
+The item is already existed.
+
+Ebay ID: 263575301903
+The item is already existed.
+
+Ebay ID: 272467709137
+The item is already existed.
+
+Ebay ID: 283081499157
+The item is already existed.
+
+Ebay ID: 302795162917
+The item is already existed.
+
+Ebay ID: 232787134707
+The item is already existed.
+
+Ebay ID: 372221344695
+The item is already existed.
+
+Ebay ID: 192531695957
+The item is already existed.
+
+Ebay ID: 302360041535
+The item is already existed.
+
+Ebay ID: 123144113534
+The item is already existed.
+
+Ebay ID: 281563361459
+The item is already existed.
+
+Ebay ID: 391735543072
+The item is already existed.
+
+Ebay ID: 153215350256
+The item is already existed.
+
+Ebay ID: 262991690393
+The item is already existed.
+
+Ebay ID: 173631006364
+The item is already existed.
+
+Ebay ID: 182881611802
+The item is already existed.
+
+Ebay ID: 361524435529
+The item is already existed.
+
+Ebay ID: 151569628676
+The item is already existed.
+
+Ebay ID: 253958218351
+The item is already existed.
+
+Ebay ID: 113086257134
+The item is already existed.
+
+Ebay ID: 352459716022
+The item is already existed.
+
+Ebay ID: 263434229156
+The item is already existed.
+
+Ebay ID: 123421548420
+The item is already existed.
+
+Ebay ID: 382380824669
+The item is already existed.
+
+Ebay ID: 352483162848
+The item is already existed.
+
+Ebay ID: 372343125765
+The item is already existed.
+
+Ebay ID: 282937753257
+The item is already existed.
+
+Ebay ID: 252397694803
+The item is already existed.
+
+Ebay ID: 253019919235
+The item is already existed.
+
+Ebay ID: 232679462234
+The item is already existed.
+
+Ebay ID: 141631100084
+The item is already existed.
+
+Ebay ID: 362086153558
+The item is already existed.
+
+Ebay ID: 222123647402
+The item is already existed.
+
+Ebay ID: 142104282940
+The item is already existed.
+
+Ebay ID: 382555434731
+The item is already existed.
+
+Ebay ID: 232691256924
+The item is already existed.
+
+Ebay ID: 323500817515
+The item is already existed.
+
+Ebay ID: 382556885706
+The item is already existed.
+
+Ebay ID: 130839395750
+The item is already existed.
+
+Ebay ID: 282711270013
+The item is already existed.
+
+Ebay ID: 263438460507
+The item is already existed.
+
+Ebay ID: 173624240539
+The item is already existed.
+Add new discount ebay item, item.id: 3614
+
+Ebay ID: 323379343211
+The item is already existed.
+
+Ebay ID: 372305618705
+The item is already existed.
+
+Ebay ID: 282812907026
+The item is already existed.
+
+Ebay ID: 223233244048
+The item is already existed.
+
+Ebay ID: 252565000204
+The item is already existed.
+
+Ebay ID: 262962274713
+The item is already existed.
+
+Ebay ID: 263922566203
+The item is already existed.
+
+Ebay ID: 231107876240
+The item is already existed.
+
+Ebay ID: 191481497408
+The item is already existed.
+
+Ebay ID: 283258702042
+The item is already existed.
+
+Ebay ID: 173284292623
+The item is already existed.
+
+Ebay ID: 322835203579
+The item is already existed.
+
+Ebay ID: 282720746505
+The item is already existed.
+
+Ebay ID: 312083229219
+The item is already existed.
+
+Ebay ID: 351925900343
+The item is already existed.
+
+Ebay ID: 132494958059
+The item is already existed.
+
+Ebay ID: 162816188143
+The item is already existed.
+
+Ebay ID: 300874438444
+The item is already existed.
+
+Ebay ID: 401504101762
+The item is already existed.
+
+Ebay ID: 232145514678
+The item is already existed.
+
+Ebay ID: 263491857767
+The item is already existed.
+
+Ebay ID: 264055588641
+The item is already existed.
+
+Ebay ID: 172631216996
+The item is already existed.
+
+Ebay ID: 262877221604
+The item is already existed.
+
+Ebay ID: 302795987683
+The item is already existed.
+
+Ebay ID: 222223964537
+The item is already existed.
+
+Ebay ID: 401613546990
+The item is already existed.
+
+Ebay ID: 142319767390
+The item is already existed.
+
+Ebay ID: 401611772781
+The item is already existed.
+
+Ebay ID: 192683681175
+The item is already existed.
+
+Ebay ID: 323563250983
+The item is already existed.
+
+Ebay ID: 322243359334
+The item is already existed.
+
+Ebay ID: 252397694808
+The item is already existed.
+
+Ebay ID: 141816486137
+The item is already existed.
+
+Ebay ID: 111299941121
+The item is already existed.
+
+Ebay ID: 382051414658
+The item is already existed.
+
+Ebay ID: 171887496364
+The item is already existed.
+
+Ebay ID: 111959042748
+The item is already existed.
+
+Ebay ID: 311303832140
+The item is already existed.
+
+Ebay ID: 192454155077
+The item is already existed.
+
+Ebay ID: 142104273204
+The item is already existed.
+
+Ebay ID: 362457495162
+The item is already existed.
+
+Ebay ID: 300558263177
+The item is already existed.
+
+Ebay ID: 222673690841
+The item is already existed.
+
+Ebay ID: 372474760440
+The item is already existed.
+
+Ebay ID: 352386421068
+The item is already existed.
+
+Ebay ID: 132588387742
+The item is already existed.
+
+Ebay ID: 253984648964
+The item is already existed.
+
+Ebay ID: 152205212104
+The item is already existed.
+
+Ebay ID: 312214734803
+The item is already existed.
+
+Ebay ID: 282983681397
+The item is already existed.
+
+Ebay ID: 120992205026
+The item is already existed.
+
+Ebay ID: 123339462923
+The item is already existed.
+
+Ebay ID: 173500096209
+The item is already existed.
+
+Ebay ID: 223222978452
+The item is already existed.
+
+Ebay ID: 401003076941
+The item is already existed.
+
+Ebay ID: 283176052598
+The item is already existed.
+
+Ebay ID: 251006312329
+The item is already existed.
+
+Ebay ID: 153173152452
+The item is already existed.
+
+Ebay ID: 290600916291
+The item is already existed.
+
+Ebay ID: 372228909102
+The item is already existed.
+
+Ebay ID: 202128055618
+The item is already existed.
+
+Ebay ID: 152944695395
+The item is already existed.
+
+Ebay ID: 290965741723
+The item is already existed.
+
+Ebay ID: 202253441543
+The item is already existed.
+
+Ebay ID: 112136493909
+The item is already existed.
+
+Ebay ID: 401276746473
+The item is already existed.
+
+Page number: 7
+Ebay ID: 202503893584
+The item is already existed.
+
+Ebay ID: 142681748724
+The item is already existed.
+
+Ebay ID: 132781833341
+The item is already existed.
+
+Ebay ID: 302921149503
+The item is already existed.
+
+Ebay ID: 351890961562
+The item is already existed.
+
+Ebay ID: 142194112422
+The item is already existed.
+
+Ebay ID: 292800411770
+The item is already existed.
+
+Ebay ID: 232010848310
+The item is already existed.
+
+Ebay ID: 362356593609
+The item is already existed.
+
+Ebay ID: 332652038351
+The item is already existed.
+
+Ebay ID: 192571744692
+The item is already existed.
+
+Ebay ID: 132786711165
+The item is already existed.
+
+Ebay ID: 301398004193
+The item is already existed.
+
+Ebay ID: 173356696608
+The item is already existed.
+
+Ebay ID: 290863900780
+The item is already existed.
+
+Ebay ID: 123494074150
+The item is already existed.
+
+Ebay ID: 281335157782
+The item is already existed.
+
+Ebay ID: 202443072246
+The item is already existed.
+
+Ebay ID: 162869772050
+The item is already existed.
+
+Ebay ID: 171965862918
+The item is already existed.
+
+Ebay ID: 163142910944
+The item is already existed.
+
+Ebay ID: 282744960316
+The item is already existed.
+
+Ebay ID: 232916962883
+The item is already existed.
+
+Ebay ID: 282075156574
+The item is already existed.
+
+Ebay ID: 232953420911
+The item is already existed.
+
+Ebay ID: 263178336314
+The item is already existed.
+
+Ebay ID: 372371620929
+The item is already existed.
+
+Ebay ID: 252877280209
+The item is already existed.
+
+Ebay ID: 362357958134
+The item is already existed.
+
+Ebay ID: 173173813622
+The item is already existed.
+
+Ebay ID: 302888802058
+The item is already existed.
+
+Ebay ID: 232389830802
+The item is already existed.
+
+Ebay ID: 264054475594
+The item is already existed.
+
+Ebay ID: 202394345286
+The item is already existed.
+Add new discount ebay item, item.id: 4453
+
+Ebay ID: 332005067617
+The item is already existed.
+
+Ebay ID: 263853083525
+The item is already existed.
+
+Ebay ID: 391876641265
+The item is already existed.
+
+Ebay ID: 292441309992
+The item is already existed.
+Add new discount ebay item, item.id: 4483
+
+Ebay ID: 362248204467
+The item is already existed.
+
+Ebay ID: 352477574214
+The item is already existed.
+
+Ebay ID: 401258787443
+The item is already existed.
+
+Ebay ID: 153107340018
+The item is already existed.
+
+Ebay ID: 173633024366
+The item is already existed.
+
+Ebay ID: 371541299153
+The item is already existed.
+
+Ebay ID: 173601689086
+The item is already existed.
+
+Ebay ID: 252772172061
+The item is already existed.
+
+Ebay ID: 321368011343
+The item is already existed.
+
+Ebay ID: 121851679037
+The item is already existed.
+
+Ebay ID: 201238750522
+The item is already existed.
+
+Ebay ID: 112827871223
+The item is already existed.
+
+Ebay ID: 142929439431
+The item is already existed.
+
+Ebay ID: 132768659964
+The item is already existed.
+
+Ebay ID: 372494867019
+The item is already existed.
+
+Ebay ID: 332758093123
+The item is already existed.
+
+Ebay ID: 292818893275
+The item is already existed.
+
+Ebay ID: 162684150386
+The item is already existed.
+
+Ebay ID: 251765740915
+The item is already existed.
+
+Ebay ID: 311618312488
+The item is already existed.
+
+Ebay ID: 132751063839
+The item is already existed.
+
+Ebay ID: 132678803210
+The item is already existed.
+
+Ebay ID: 401108038236
+The item is already existed.
+Add new discount ebay item, item.id: 4405
+
+Ebay ID: 132807736052
+The item is already existed.
+
+Ebay ID: 281619675261
+The item is already existed.
+
+Ebay ID: 302921202244
+The item is already existed.
+
+Ebay ID: 233009157722
+The item is already existed.
+
+Ebay ID: 292069410942
+The item is already existed.
+
+Ebay ID: 281263696691
+The item is already existed.
+
+Ebay ID: 122225942153
+The item is already existed.
+
+Ebay ID: 123501995601
+The item is already existed.
+
+Ebay ID: 292518023842
+The item is already existed.
+
+Ebay ID: 401032872387
+The item is already existed.
+
+Ebay ID: 231890138213
+The item is already existed.
+
+Ebay ID: 152567664709
+The item is already existed.
+
+Ebay ID: 262877222018
+The item is already existed.
+
+Ebay ID: 272576390740
+The item is already existed.
+
+Ebay ID: 292368039626
+The item is already existed.
+
+Ebay ID: 122978809291
+The item is already existed.
+
+Ebay ID: 281588253350
+The item is already existed.
+
+Ebay ID: 302764515259
+The item is already existed.
+Add new discount ebay item, item.id: 4541
+
+Ebay ID: 253886420179
+The item is already existed.
+
+Ebay ID: 172796520581
+The item is already existed.
+
+Ebay ID: 152578028068
+The item is already existed.
+
+Ebay ID: 302646183813
+The item is already existed.
+
+Ebay ID: 292010755996
+The item is already existed.
+
+Ebay ID: 352148177209
+The item is already existed.
+
+Ebay ID: 302444989387
+The item is already existed.
+
+Ebay ID: 142031957318
+The item is already existed.
+
+Ebay ID: 382552824886
+The item is already existed.
+
+Ebay ID: 182857148000
+The item is already existed.
+
+Ebay ID: 123069100359
+The item is already existed.
+
+Ebay ID: 202494090098
+The item is already existed.
+
+Ebay ID: 221974347303
+The item is already existed.
+Add new discount ebay item, item.id: 4460
+
+Ebay ID: 132659120254
+The item is already existed.
+
+Ebay ID: 361575615899
+The item is already existed.
+
+Ebay ID: 153230637051
+The item is already existed.
+
+Ebay ID: 142401264811
+The item is already existed.
+
+Ebay ID: 121931448568
+The item is already existed.
+
+Ebay ID: 381781657634
+The item is already existed.
+
+Ebay ID: 381565830338
+The item is already existed.
+
+Ebay ID: 332451332204
+The item is already existed.
+
+Ebay ID: 121438392308
+The item is already existed.
+
+Ebay ID: 282957139084
+The item is already existed.
+
+Ebay ID: 302926370901
+The item is already existed.
+
+Ebay ID: 263631976380
+The item is already existed.
+
+Ebay ID: 153206782271
+The item is already existed.
+
+Ebay ID: 352041966224
+The item is already existed.
+
+Ebay ID: 162969329074
+The item is already existed.
+
+Ebay ID: 162641653193
+The item is already existed.
+
+Ebay ID: 232402660766
+The item is already existed.
+
+Ebay ID: 292834229388
+The item is already existed.
+
+Ebay ID: 262286054018
+The item is already existed.
+
+Ebay ID: 391713192416
+The item is already existed.
+
+Ebay ID: 251006312328
+The item is already existed.
+
+Ebay ID: 123451383722
+The item is already existed.
+
+Ebay ID: 223047658075
+The item is already existed.
+
+Ebay ID: 253855611942
+The item is already existed.
+
+Ebay ID: 182172984041
+The item is already existed.
+
+Ebay ID: 263287996682
+The item is already existed.
+
+Ebay ID: 183429400261
+The item is already existed.
+
+Ebay ID: 272277012756
+The item is already existed.
+
+Ebay ID: 132830432972
+The item is already existed.
+
+Ebay ID: 132271832051
+The item is already existed.
+
+Ebay ID: 371780144372
+The item is already existed.
+
+Ebay ID: 183333506771
+The item is already existed.
+
+Ebay ID: 163087897245
+The item is already existed.
+Add new discount ebay item, item.id: 4939
+
+Ebay ID: 252772693289
+The item is already existed.
+
+Ebay ID: 183310667938
+The item is already existed.
+
+Ebay ID: 312077194793
+The item is already existed.
+
+Ebay ID: 361400679963
+The item is already existed.
+
+Ebay ID: 232704339671
+The item is already existed.
+
+Ebay ID: 222994290158
+The item is already existed.
+
+Ebay ID: 122871840974
+The item is already existed.
+
+Ebay ID: 262634506049
+The item is already existed.
+
+Ebay ID: 123136451490
+The item is already existed.
+
+Ebay ID: 132678803568
+The item is already existed.
+
+Ebay ID: 263288954917
+The item is already existed.
+
+Ebay ID: 123329431559
+The item is already existed.
+
+Ebay ID: 312050648274
+The item is already existed.
+
+Ebay ID: 131829629724
+The item is already existed.
+
+Ebay ID: 232605823525
+The item is already existed.
+
+Ebay ID: 382249226400
+The item is already existed.
+
+Ebay ID: 131878247952
+The item is already existed.
+
+Ebay ID: 283123776589
+The item is already existed.
+
+Ebay ID: 122663986119
+The item is already existed.
+
+Ebay ID: 151177186569
+The item is already existed.
+
+Ebay ID: 401618430260
+The item is already existed.
+
+Ebay ID: 382140450435
+The item is already existed.
+
+Ebay ID: 132337457488
+The item is already existed.
+
+Ebay ID: 352264015743
+The item is already existed.
+
+Ebay ID: 113340098415
+The item is already existed.
+
+Ebay ID: 282686241094
+The item is already existed.
+
+Ebay ID: 221047737677
+The item is already existed.
+
+Ebay ID: 253012935040
+The item is already existed.
+
+Ebay ID: 352526415467
+The item is already existed.
+
+Ebay ID: 351120313877
+The item is already existed.
+
+Ebay ID: 401543082245
+The item is already existed.
+
+Ebay ID: 182870549088
+The item is already existed.
+
+Ebay ID: 132239964075
+The item is already existed.
+
+Ebay ID: 331993126298
+The item is already existed.
+
+Ebay ID: 131831780323
+The item is already existed.
+
+Ebay ID: 264041357262
+The item is already existed.
+
+Ebay ID: 232626311708
+The item is already existed.
+
+Ebay ID: 401600508318
+The item is already existed.
+
+Ebay ID: 382095188780
+The item is already existed.
+
+Ebay ID: 382572622411
+The item is already existed.
+
+Ebay ID: 321886837925
+The item is already existed.
+
+Ebay ID: 192724114571
+The item is already existed.
+
+Ebay ID: 131707972657
+The item is already existed.
+
+Ebay ID: 252718266398
+The item is already existed.
+
+Ebay ID: 323529956384
+The item is already existed.
+
+Ebay ID: 292422128661
+The item is already existed.
+
+Ebay ID: 302957927822
+The item is already existed.
+
+Ebay ID: 173615152449
+The item is already existed.
+
+Ebay ID: 131758385097
+The item is already existed.
+
+Ebay ID: 291161898630
+The item is already existed.
+
+Ebay ID: 302628809284
+The item is already existed.
+
+Ebay ID: 232136533586
+The item is already existed.
+
+Ebay ID: 142747822671
+The item is already existed.
+
+Ebay ID: 172187551122
+The item is already existed.
+
+Ebay ID: 323503644668
+The item is already existed.
+
+Ebay ID: 401636663149
+The item is already existed.
+
+Ebay ID: 362052915441
+The item is already existed.
+
+Ebay ID: 382079874901
+The item is already existed.
+
+Ebay ID: 263818348041
+The item is already existed.
+
+Ebay ID: 391741476830
+The item is already existed.
+
+Ebay ID: 382592379941
+The item is already existed.
+
+Ebay ID: 192437487102
+The item is already existed.
+
+Ebay ID: 132743922858
+The item is already existed.
+
+Ebay ID: 352440776266
+The item is already existed.
+
+Ebay ID: 152953834961
+The item is already existed.
+
+Ebay ID: 263341370438
+The item is already existed.
+
+Ebay ID: 292779928772
+The item is already existed.
+
+Ebay ID: 112413580063
+The item is already existed.
+
+Ebay ID: 302801735218
+The item is already existed.
+
+Ebay ID: 123423015524
+The item is already existed.
+
+Ebay ID: 222872941310
+The item is already existed.
+
+Ebay ID: 263572424528
+The item is already existed.
+
+Ebay ID: 123404230035
+The item is already existed.
+
+Ebay ID: 262635712111
+The item is already existed.
+
+Ebay ID: 322808473949
+The item is already existed.
+
+Page number: 8
+Ebay ID: 183335333125
+The item is already existed.
+
+Ebay ID: 223242459324
+The item is already existed.
+
+Ebay ID: 132830429097
+The item is already existed.
+
+Ebay ID: 263325048970
+The item is already existed.
+
+Ebay ID: 323554487985
+The item is already existed.
+
+Ebay ID: 272685956685
+The item is already existed.
+
+Ebay ID: 323074206092
+The item is already existed.
+
+Ebay ID: 391739706622
+The item is already existed.
+
+Ebay ID: 380332662961
+The item is already existed.
+
+Ebay ID: 202512176288
+The item is already existed.
+
+Ebay ID: 331685820225
+The item is already existed.
+
+Ebay ID: 401276745347
+The item is already existed.
+
+Ebay ID: 153202865137
+The item is already existed.
+
+Ebay ID: 332656438131
+The item is already existed.
+
+Ebay ID: 401351485228
+The item is already existed.
+
+Ebay ID: 281637847073
+The item is already existed.
+
+Ebay ID: 122874393744
+The item is already existed.
+
+Ebay ID: 322277168389
+The item is already existed.
+
+Ebay ID: 382620779312
+The item is already existed.
+
+Ebay ID: 273557030887
+The item is already existed.
+
+Ebay ID: 401606417042
+The item is already existed.
+
+Ebay ID: 401425076507
+The item is already existed.
+
+Ebay ID: 263418472308
+The item is already existed.
+
+Ebay ID: 382551143360
+The item is already existed.
+
+Ebay ID: 401269385729
+The item is already existed.
+
+Ebay ID: 282578059792
+The item is already existed.
+
+Ebay ID: 264031751464
+The item is already existed.
+
+Ebay ID: 182664611456
+The item is already existed.
+
+Ebay ID: 282393253888
+The item is already existed.
+
+Ebay ID: 323518670572
+The item is already existed.
+
+Ebay ID: 192593657743
+The item is already existed.
+
+Ebay ID: 362335759112
+The item is already existed.
+
+Ebay ID: 264043019454
+The item is already existed.
+
+Ebay ID: 192734447846
+The item is already existed.
+
+Ebay ID: 273265194760
+The item is already existed.
+
+Ebay ID: 291067371011
+The item is already existed.
+
+Ebay ID: 183182176234
+The item is already existed.
+
+Ebay ID: 401496866941
+The item is already existed.
+
+Ebay ID: 132747417580
+The item is already existed.
+
+Ebay ID: 372271755814
+The item is already existed.
+
+Ebay ID: 202367617051
+The item is already existed.
+The latest saved price: 823.99 is not the same as the latest price: 818.99. Update the ds item.
+
+Ebay ID: 173645906854
+The item is already existed.
+
+Ebay ID: 332385578985
+The item is already existed.
+
+Ebay ID: 382640644603
+The item is already existed.
+
+Ebay ID: 202512335476
+The item is already existed.
+
+Ebay ID: 122225941927
+The item is already existed.
+
+Ebay ID: 263799734141
+The item is already existed.
+
+Ebay ID: 222236392589
+The item is already existed.
+
+Ebay ID: 391980992623
+The item is already existed.
+
+Ebay ID: 123042046505
+The item is already existed.
+
+Ebay ID: 283273177258
+The item is already existed.
+
+Ebay ID: 202098355984
+The item is already existed.
+
+Ebay ID: 273059230848
+The item is already existed.
+
+Ebay ID: 122746121857
+The item is already existed.
+
+Ebay ID: 282737321291
+The item is already existed.
+
+Ebay ID: 153215366938
+The item is already existed.
+
+Ebay ID: 332395239044
+The item is already existed.
+
+Ebay ID: 122827070020
+The item is already existed.
+
+Ebay ID: 183331767898
+The item is already existed.
+
+Ebay ID: 132224168337
+The item is already existed.
+
+Ebay ID: 332451306149
+The item is already existed.
+
+Ebay ID: 173142643616
+The item is already existed.
+
+Ebay ID: 283276231086
+The item is already existed.
+
+Ebay ID: 123161235678
+The item is already existed.
+
+Ebay ID: 352515738748
+The item is already existed.
+
+Ebay ID: 281207600352
+The item is already existed.
+
+Ebay ID: 142860218600
+The item is already existed.
+
+Ebay ID: 362158049320
+The item is already existed.
+
+Ebay ID: 283127383182
+The item is already existed.
+
+Ebay ID: 253405169976
+The item is already existed.
+
+Ebay ID: 163306777013
+The item is already existed.
+
+Ebay ID: 371364526952
+The item is already existed.
+
+Ebay ID: 142884647767
+The item is already existed.
+
+Ebay ID: 232384037274
+The item is already existed.
+
+Ebay ID: 362344960488
+The item is already existed.
+
+Ebay ID: 273557031820
+The item is already existed.
+
+Ebay ID: 253983826526
+The item is already existed.
+
+Ebay ID: 122629840151
+The item is already existed.
+
+Ebay ID: 312051626379
+The item is already existed.
+
+Ebay ID: 122240229743
+The item is already existed.
+
+Ebay ID: 253983855699
+The item is already existed.
+
+Ebay ID: 291416666564
+The item is already existed.
+
+Ebay ID: 362493765077
+The item is already existed.
+
+Ebay ID: 282295740497
+The item is already existed.
+
+Ebay ID: 162491607295
+The item is already existed.
+
+Ebay ID: 401634433815
+The item is already existed.
+
+Ebay ID: 132826424648
+The item is already existed.
+
+Ebay ID: 192710483297
+The item is already existed.
+
+Ebay ID: 272489133255
+The item is already existed.
+
+Ebay ID: 292805570594
+The item is already existed.
+
+Ebay ID: 112157977206
+The item is already existed.
+
+Ebay ID: 272542648425
+The item is already existed.
+
+Ebay ID: 273247392890
+The item is already existed.
+
+Ebay ID: 292795037364
+The item is already existed.
+
+Ebay ID: 401623264401
+The item is already existed.
+
+Ebay ID: 142013338785
+The item is already existed.
+
+Ebay ID: 283254738705
+The item is already existed.
+
+Ebay ID: 372458390192
+The item is already existed.
+
+Ebay ID: 202464201651
+The item is already existed.
+
+Ebay ID: 292819816962
+The item is already existed.
+
+Ebay ID: 281819533479
+The item is already existed.
+
+Ebay ID: 263928741963
+The item is already existed.
+
+Ebay ID: 173654571135
+The item is already existed.
+
+Ebay ID: 253983823965
+The item is already existed.
+
+Ebay ID: 183343012518
+The item is already existed.
+
+Ebay ID: 273011732711
+The item is already existed.
+
+Ebay ID: 292714517387
+The item is already existed.
+
+Ebay ID: 132680178242
+The item is already existed.
+
+Ebay ID: 283251492203
+The item is already existed.
+
+Ebay ID: 321967343887
+The item is already existed.
+
+Ebay ID: 302673048786
+The item is already existed.
+
+Ebay ID: 401645852362
+The item is already existed.
+
+Ebay ID: 380910313091
+The item is already existed.
+
+Ebay ID: 282983680899
+The item is already existed.
+
+Ebay ID: 132746126570
+The item is already existed.
+
+Ebay ID: 382589493964
+The item is already existed.
+
+Ebay ID: 264028473066
+The item is already existed.
+
+Ebay ID: 401619884142
+The item is already existed.
+
+Ebay ID: 382640644156
+The item is already existed.
+
+Ebay ID: 323547261958
+The item is already existed.
+
+Ebay ID: 381537017771
+The item is already existed.
+
+Ebay ID: 132845004428
+The item is already existed.
+Add new discount ebay item, item.id: 4705
+
+Ebay ID: 323545110347
+The item is already existed.
+
+Ebay ID: 264043058697
+The item is already existed.
+
+Ebay ID: 132632057263
+The item is already existed.
+
+Ebay ID: 202404754865
+The item is already existed.
+
+Ebay ID: 382632676351
+The item is already existed.
+
+Ebay ID: 282983249078
+The item is already existed.
+
+Ebay ID: 183504973485
+The item is already existed.
+
+Ebay ID: 352524429450
+The item is already existed.
+
+Ebay ID: 264043064497
+The item is already existed.
+
+Ebay ID: 292758132021
+The item is already existed.
+
+Ebay ID: 302776980923
+The item is already existed.
+
+Ebay ID: 372211831355
+The item is already existed.
+
+Ebay ID: 202457197470
+The item is already existed.
+
+Ebay ID: 382615926332
+The item is already existed.
+
+Ebay ID: 391923117990
+The item is already existed.
+
+Ebay ID: 173309725022
+The item is already existed.
+
+Ebay ID: 131487650212
+The item is already existed.
+
+Ebay ID: 302734021290
+The item is already existed.
+
+Ebay ID: 253918971278
+The item is already existed.
+Add new discount ebay item, item.id: 4731
+
+Ebay ID: 263472595177
+The item is already existed.
+
+Ebay ID: 232525440531
+The item is already existed.
+
+Ebay ID: 302770195960
+The item is already existed.
+
+Ebay ID: 163206777990
+The item is already existed.
+
+Ebay ID: 291932071864
+The item is already existed.
+
+Ebay ID: 153063441563
+The item is already existed.
+
+Ebay ID: 372505158175
+The item is already existed.
+
+Ebay ID: 371921018340
+The item is already existed.
+
+Ebay ID: 132432001153
+The item is already existed.
+
+Ebay ID: 122642807091
+The item is already existed.
+
+Ebay ID: 391998717371
+The item is already existed.
+
+Ebay ID: 352523127812
+The item is already existed.
+
+Ebay ID: 201928129214
+The item is already existed.
+
+Ebay ID: 301191451024
+The item is already existed.
+
+Ebay ID: 371952344728
+The item is already existed.
+
+Ebay ID: 391500944575
+The item is already existed.
+
+Ebay ID: 302749843578
+The item is already existed.
+
+Ebay ID: 192714826570
+The item is already existed.
+
+Ebay ID: 162438188947
+The item is already existed.
+
+Ebay ID: 283262902761
+The item is already existed.
+
+Ebay ID: 283263323808
+The item is already existed.
+
+Ebay ID: 302708787027
+The item is already existed.
+
+Ebay ID: 264043042416
+The item is already existed.
+
+Ebay ID: 401530475481
+The item is already existed.
+
+Ebay ID: 132242541475
+The item is already existed.
+
+Ebay ID: 232130950131
+The item is already existed.
+
+Ebay ID: 123472893848
+The item is already existed.
+
+Ebay ID: 123280375950
+The item is already existed.
+
+Ebay ID: 302856884748
+The item is already existed.
+
+Ebay ID: 202148703553
+The item is already existed.
+
+Ebay ID: 123316869893
+The item is already existed.
+
+Ebay ID: 132377409621
+The item is already existed.
+
+Ebay ID: 372396496171
+The item is already existed.
+
+Ebay ID: 153173681613
+The item is already existed.
+
+Ebay ID: 391779060325
+The item is already existed.
+
+Ebay ID: 272566729186
+The item is already existed.
+
+Ebay ID: 283270575584
+The item is already existed.
+
+Ebay ID: 283071359688
+The item is already existed.
+
+Ebay ID: 132520048454
+The item is already existed.
+
+Ebay ID: 382414745714
+The item is already existed.
+
+Ebay ID: 292274913372
+The item is already existed.
+
+Ebay ID: 323203225330
+The item is already existed.
+
+Ebay ID: 202269398000
+The item is already existed.
+
+Ebay ID: 401607455131
+The item is already existed.
+
+Ebay ID: 132828942084
+The item is already existed.
+
+Ebay ID: 282530557342
+The item is already existed.
+
+Ebay ID: 292061836893
+The item is already existed.
+
+Ebay ID: 302545917745
+The item is already existed.
+
+Ebay ID: 123087361405
+The item is already existed.
+
+Ebay ID: 391738807032
+The item is already existed.
+
+Ebay ID: 302897368241
+The item is already existed.
+
+Ebay ID: 113005163967
+The item is already existed.
+
+Ebay ID: 372448034143
+The item is already existed.
+
+Ebay ID: 112827903639
+The item is already existed.
+
+Ebay ID: 361960472399
+The item is already existed.
+
+Ebay ID: 273567693200
+The item is already existed.
+
+Ebay ID: 292736146915
+The item is already existed.
+
+Ebay ID: 132775972135
+The item is already existed.
+
+Ebay ID: 323540768494
+The item is already existed.
+
+Page number: 9
+Ebay ID: 113290088993
+The item is already existed.
+
+Ebay ID: 232781047147
+The item is already existed.
+
+Ebay ID: 123418997606
+The item is already existed.
+
+Ebay ID: 264050723336
+The item is already existed.
+
+Ebay ID: 263721595158
+The item is already existed.
+
+Ebay ID: 132377390355
+The item is already existed.
+
+Ebay ID: 142856100826
+The item is already existed.
+
+Ebay ID: 123366153343
+The item is already existed.
+
+Ebay ID: 132544198424
+The item is already existed.
+
+Ebay ID: 292737276290
+The item is already existed.
+
+Ebay ID: 263591236477
+The item is already existed.
+
+Ebay ID: 123401412859
+The item is already existed.
+
+Ebay ID: 152780675975
+The item is already existed.
+
+Ebay ID: 253945164185
+The item is already existed.
+
+Ebay ID: 361771450418
+The item is already existed.
+
+Ebay ID: 202003820455
+The item is already existed.
+
+Ebay ID: 323548811782
+The item is already existed.
+
+Ebay ID: 132242661092
+The item is already existed.
+
+Ebay ID: 192717914691
+The item is already existed.
+
+Ebay ID: 112878988828
+The item is already existed.
+
+Ebay ID: 132595071248
+The item is already existed.
+
+Ebay ID: 253995131379
+The item is already existed.
+
+Ebay ID: 192725859451
+The item is already existed.
+
+Ebay ID: 272612578527
+The item is already existed.
+
+Ebay ID: 332255070056
+The item is already existed.
+
+Ebay ID: 302960508377
+The item is already existed.
+
+Ebay ID: 372040988966
+The item is already existed.
+
+Ebay ID: 173638352803
+The item is already existed.
+
+Ebay ID: 173366108683
+The item is already existed.
+
+Ebay ID: 132598900953
+The item is already existed.
+
+Ebay ID: 332884929056
+The item is already existed.
+
+Ebay ID: 132844981736
+The item is already existed.
+Add new discount ebay item, item.id: 4829
+
+Ebay ID: 142861558299
+The item is already existed.
+
+Ebay ID: 292741798001
+The item is already existed.
+
+Ebay ID: 132690859798
+The item is already existed.
+
+Ebay ID: 382548291777
+The item is already existed.
+
+Ebay ID: 202496546130
+The item is already existed.
+
+Ebay ID: 391981010751
+The item is already existed.
+
+Ebay ID: 362303150848
+The item is already existed.
+
+Ebay ID: 152833694200
+The item is already existed.
+
+Ebay ID: 273259108887
+The item is already existed.
+
+Ebay ID: 173649860832
+The item is already existed.
+
+Ebay ID: 292829617278
+The item is already existed.
+
+Ebay ID: 273351808539
+The item is already existed.
+
+Ebay ID: 382585548217
+The item is already existed.
+
+Ebay ID: 302955676852
+The item is already existed.
+
+Ebay ID: 283257341914
+The item is already existed.
+
+Ebay ID: 362413204545
+The item is already existed.
+
+Ebay ID: 253931451451
+The item is already existed.
+
+Ebay ID: 202511205515
+The item is already existed.
+
+Ebay ID: 352516750238
+The item is already existed.
+
+Ebay ID: 283269376563
+The item is already existed.
+
+Ebay ID: 132537534988
+The item is already existed.
+
+Ebay ID: 192600223716
+The item is already existed.
+
+Ebay ID: 202047078841
+The item is already existed.
+
+Ebay ID: 172649543348
+The item is already existed.
+
+Ebay ID: 232927448939
+The item is already existed.
+
+Ebay ID: 323564646473
+The item is already existed.
+
+Ebay ID: 263822506296
+The item is already existed.
+
+Ebay ID: 183261091345
+The item is already existed.
+
+Ebay ID: 283275227221
+The item is already existed.
+
+Ebay ID: 253983823972
+The item is already existed.
+
+Ebay ID: 352517104766
+The item is already existed.
+
+Ebay ID: 292794988973
+The item is already existed.
+
+Ebay ID: 283262837000
+The item is already existed.
+
+Ebay ID: 283272256356
+The item is already existed.
+
+Ebay ID: 202489762830
+The item is already existed.
+
+Ebay ID: 323507202309
+The item is already existed.
+
+Ebay ID: 132845008053
+The item is already existed.
+Add new discount ebay item, item.id: 4874
+
+Ebay ID: 352519818061
+The item is already existed.
+
+Ebay ID: 132856422525
+The item is already existed.
+
+Ebay ID: 382637724374
+The item is already existed.
+
+Ebay ID: 264043040006
+The item is already existed.
+
+Ebay ID: 202464273152
+The item is already existed.
+
+Ebay ID: 163332872044
+The item is already existed.
+
+Ebay ID: 264058497511
+The item is already existed.
+
+Ebay ID: 253983868528
+The item is already existed.
+
+Ebay ID: 322616758830
+The item is already existed.
+
+Ebay ID: 152059513149
+The item is already existed.
+Add new discount ebay item, item.id: 4884
+
+Ebay ID: 143020590112
+The item is already existed.
+
+Ebay ID: 302804147590
+The item is already existed.
+
+Ebay ID: 183112582625
+The item is already existed.
+
+Ebay ID: 362367954507
+The item is already existed.
+
+Ebay ID: 382401480254
+The item is already existed.
+
+Ebay ID: 153268867083
+The item is already existed.
+
+Ebay ID: 323563163200
+The item is already existed.
+
+Ebay ID: 283270607283
+The item is already existed.
+
+Ebay ID: 264043074890
+The item is already existed.
+
+Ebay ID: 283262916073
+The item is already existed.
+
+Ebay ID: 372510902748
+The item is already existed.
+
+Ebay ID: 283276236537
+The item is already existed.
+
+Ebay ID: 123362677382
+The item is already existed.
+
+Ebay ID: 283262902625
+The item is already existed.
+
+Ebay ID: 264055588268
+The item is already existed.
+
+Ebay ID: 292825470737
+The item is already existed.
+
+Ebay ID: 352487349103
+The item is already existed.
+
+Ebay ID: 173485686264
+The item is already existed.
+
+Ebay ID: 123310225057
+The item is already existed.
+
+Ebay ID: 382496554950
+The item is already existed.
+
+Ebay ID: 202489958930
+The item is already existed.
+
+Ebay ID: 391676065255
+The item is already existed.
+
+Ebay ID: 252064709778
+The item is already existed.
+
+Ebay ID: 323489089964
+The item is already existed.
+
+Ebay ID: 202472687885
+The item is already existed.
+
+Ebay ID: 391976639453
+The item is already existed.
+
+Ebay ID: 232725467398
+The item is already existed.
+
+Ebay ID: 302909486401
+The item is already existed.
+
+Ebay ID: 352511481021
+The item is already existed.
+
+Ebay ID: 183110749611
+The item is already existed.
+
+Ebay ID: 132816054106
+The item is already existed.
+
+Ebay ID: 401474782965
+The item is already existed.
+
+Ebay ID: 132826423184
+The item is already existed.
+
+Ebay ID: 121666536290
+The item is already existed.
+
+Ebay ID: 173654253251
+The item is already existed.
+
+Ebay ID: 283105395530
+The item is already existed.
+
+Ebay ID: 192592621455
+The item is already existed.
+Add new discount ebay item, item.id: 4932
+
+Ebay ID: 253584107131
+The item is already existed.
+
+Ebay ID: 123337089700
+The item is already existed.
+
+Ebay ID: 122895785195
+The item is already existed.
+
+Ebay ID: 173505938966
+The item is already existed.
+
+Ebay ID: 272628812769
+The item is already existed.
+
+Ebay ID: 302645302442
+The item is already existed.
+
+Ebay ID: 292671394559
+The item is already existed.
+Add new discount ebay item, item.id: 4911
+
+Ebay ID: 163085976500
+The item is already existed.
+
+Ebay ID: 401583765771
+The item is already existed.
+
+Ebay ID: 132296302895
+The item is already existed.
+
+Ebay ID: 292692387472
+The item is already existed.
+
+Ebay ID: 122952064677
+The item is already existed.
+
+Ebay ID: 401549304491
+The item is already existed.
+Add new discount ebay item, item.id: 4913
+
+Ebay ID: 183363606215
+The item is already existed.
+
+Ebay ID: 352299910146
+The item is already existed.
+
+Ebay ID: 251765760265
+The item is already existed.
+
+Ebay ID: 323074149238
+The item is already existed.
+
+Ebay ID: 292807465644
+The item is already existed.
+
+Ebay ID: 232571024467
+The item is already existed.
+
+Ebay ID: 361145120103
+The item is already existed.
+
+Page number: 10

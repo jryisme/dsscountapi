@@ -16,6 +16,8 @@ namespace DssCount
         public string Review { get; set; }
         public string TimeStamp { get; set; }
         public int IsTranslatedCn { get; set; }
+        public int Dealer { get; set; }//0 means Amazon, 1 means Ebay
+        public string DealUrl { get; set; }
 
         public string CccGuid { get; set; }
 
@@ -42,8 +44,8 @@ namespace DssCount
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("INSERT INTO item_amazon_camel_de(id, asinId, url, image, imagelarge, imagesmall, review, timestamp, categoryid, istranslatedcn, istranslateden, cccguid, titleid, descriptionid) " +
-                             "VALUES(NULL, @asinId, @url, @image, @imagelarge, @imagesmall, @review, @timestamp, @categoryid, @istranslatedcn, 0, @cccguid, @titleid, @descriptionid);", conn))
+                    using (MySqlCommand cmd = new MySqlCommand("INSERT INTO item_amazon_camel_de(id, asinId, url, image, imagelarge, imagesmall, review, timestamp, categoryid, istranslatedcn, istranslateden, cccguid, titleid, descriptionid, dealer, dealUrl) " +
+                             "VALUES(NULL, @asinId, @url, @image, @imagelarge, @imagesmall, @review, @timestamp, @categoryid, @istranslatedcn, 0, @cccguid, @titleid, @descriptionid, @dealer, @dealUrl);", conn))
                     {
                         cmd.Parameters.AddWithValue("@asinId", AsinId);
                         cmd.Parameters.AddWithValue("@url", Url);
@@ -56,6 +58,8 @@ namespace DssCount
                         cmd.Parameters.AddWithValue("@cccguid", CccGuid);
                         cmd.Parameters.AddWithValue("@titleid", TitleID);
                         cmd.Parameters.AddWithValue("@descriptionid", DescriptionID);
+                        cmd.Parameters.AddWithValue("@dealer", Dealer);
+                        cmd.Parameters.AddWithValue("@dealUrl", DealUrl);
 
                         cmd.Parameters.AddWithValue("@timestamp", TimeStamp);
 
@@ -95,7 +99,7 @@ namespace DssCount
                                     {
                                         ID = (int)dataReader[0],
                                         AsinId = AsinId,
-                                        CategoryID=(int)dataReader[1]
+                                        CategoryID = (int)dataReader[1]
                                     };
                                 }
                             }
@@ -118,7 +122,7 @@ namespace DssCount
                 using (MySqlConnection conn = new MySqlConnection(connStr))
                 {
                     conn.Open();
-                    using (MySqlCommand cmd = new MySqlCommand("select Id, asinId, categoryid from item_amazon_camel_de;", conn))
+                    using (MySqlCommand cmd = new MySqlCommand("select Id, asinId, categoryid from item_amazon_camel_de where dealer=0;", conn))
                     {
                         using (MySqlDataReader dataReader = cmd.ExecuteReader())
                         {

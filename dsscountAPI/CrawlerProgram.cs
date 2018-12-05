@@ -231,6 +231,7 @@ namespace dsscountAPI
                 itemAmazon.DescriptionID = descriptionId;
                 itemAmazon.TitleID = titleId;
                 itemAmazon.IsTranslatedCn = 1;
+                itemAmazon.Dealer = 0; //means amazon
 
                 int itemId = itemAmazon.Save(connStr);
                 Console.WriteLine("Add new item, item.id: " + itemId);
@@ -243,8 +244,8 @@ namespace dsscountAPI
                     Discount = discount,
                     ItemID = itemId,
                     TimeStamp = timeStamp.ToString(),
-                    CategoryID = categoryId
-
+                    CategoryID = categoryId,
+                    Dealer = 0
                 };
                 Console.WriteLine("Add new discount item, item.id: " + itemId);
 
@@ -330,7 +331,7 @@ namespace dsscountAPI
                             dsItem.NewPrice = newPrice;
                             dsItem.OldPrice = latestPrice;
                             dsItem.ChangePrice = latestPrice - newPrice;
-                            dsItem.Discount = (latestPrice - newPrice) / latestPrice;
+                            dsItem.Discount = (latestPrice - newPrice) / latestPrice*100;
                             dsItem.TimeStamp = DateTime.Now.ToString();
                             dsItem.ItemID = itemAmazon.ID;
 
@@ -344,10 +345,11 @@ namespace dsscountAPI
                                 NewPrice = newPrice,
                                 OldPrice = latestPrice,
                                 ChangePrice = latestPrice - newPrice,
-                                Discount = (latestPrice - newPrice) / latestPrice,
+                                Discount = (latestPrice - newPrice) / latestPrice*100,
                                 TimeStamp = DateTime.Now.ToString(),
                                 ItemID = itemAmazon.ID,
-                                CategoryID = itemAmazon.CategoryID
+                                CategoryID = itemAmazon.CategoryID,
+                                Dealer = 0
                             };
 
                             Console.WriteLine("Add new discount item.");
@@ -370,22 +372,6 @@ namespace dsscountAPI
             {
                 Console.WriteLine(ex.ToString());
                 Console.WriteLine();
-            }
-        }
-
-        private static void AlterExistingItem()
-        {
-            List<Item> items = new Item().GetAllAsinId(connStr);
-
-            foreach (var item in items)
-            {
-                var amazonItem = PA_APIHelper.RequestAmazonAPI(item);
-
-                item.Image = amazonItem.LargeImage != null ? amazonItem.LargeImage.URL : amazonItem.ImageSets[0].LargeImage.URL;
-
-                Console.WriteLine(item.AsinId);
-
-                Thread.Sleep(1000);
             }
         }
     }

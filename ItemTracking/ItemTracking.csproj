@@ -58,6 +58,10 @@
       <Project>{bf17e085-4ff8-463d-a3db-ceca31cb6db4}</Project>
       <Name>DssCountModel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\EbayAPI\EbayAPI.csproj">
+      <Project>{538479f2-da38-41b9-a6fa-fb6c7b5bf164}</Project>
+      <Name>EbayAPI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
